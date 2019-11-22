@@ -1,10 +1,23 @@
 
-setwd("~/Documents/Github/nhl-draft/data/NBA")
+setwd("~/Documents/Github/draft-policy/data/NBA")
 
 filenames = list.files(pattern="*.csv")
 files = lapply(filenames, read.csv,header=F)
 
 files <- lapply(files,process_schedule)
+season <- files[[37]]
+season$hID <- as.integer(as.factor(files[[37]]$HTeam))-1
+season$aID <- as.integer(as.factor(files[[37]]$ATeam))-1
+season$win <- season$hID
+season$win[season$AScore>season$HScore]=season$aID[season$AScore>season$HScore]
+
+teams <- data.frame(team=unique(season$HTeam),id=unique(season$hID))
+teams <- teams[order(teams$id),]
+
+write.csv(teams,file="teams_1986.csv",row.names=F)
+write.csv(season,file="season_1986.csv",row.names=F)
+
+
 teams <- as.factor(files[[37]]$HTeam)
 records_86 <- transform_schedule(files[[37]])
 results <- calculate_bound(records_19) 
