@@ -3,5 +3,5 @@ data/*
 figures/*
 .DS_Store
 *.csv
-
+*.pdf
 
