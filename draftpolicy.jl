@@ -37,7 +37,7 @@ function win_prob_ex(existing_wins,teams,matches,win_prob,top_k=1)
     return victory_prob
 end
 
-function win_prob_sim(existing_wins,teams,matches,p,top_k,sims=10000)
+function win_prob_sim(existing_wins,teams,matches,p,top_k,sims=1000)
     win_record = zeros(length(teams))
     bottom_record = zeros(length(teams))
     M = size(matches,1)
@@ -124,6 +124,7 @@ function simulate_draft_rule(N,G,abilities,multiple=1,top_k=1,seed=0)
     ys = zeros(N,M+1) .+ lp0
     cwins = zeros(N)
     wins = zeros(N,M)
+    losses = zeros(N,M)
     adjust = true
 
     for m in 1:M
