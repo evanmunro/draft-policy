@@ -1,0 +1,944 @@
+"Date","HTeam","HScore","ATeam","AScore","hID","aID","win"
+1987-11-06,"Washington Bullets",97,"Atlanta Hawks",114,23,1,1
+1987-11-06,"Milwaukee Bucks",108,"Boston Celtics",125,13,2,2
+1987-11-06,"Utah Jazz",93,"Dallas Mavericks",95,22,5,5
+1987-11-06,"Los Angeles Clippers",93,"Denver Nuggets",139,11,6,6
+1987-11-06,"New York Knicks",99,"Detroit Pistons",110,15,7,7
+1987-11-06,"San Antonio Spurs",102,"Houston Rockets",108,20,9,9
+1987-11-06,"Seattle SuperSonics",109,"Los Angeles Lakers",113,21,12,12
+1987-11-06,"Cleveland Cavaliers",114,"New Jersey Nets",108,4,14,4
+1987-11-06,"Indiana Pacers",95,"Philadelphia 76ers",108,10,16,16
+1987-11-06,"Phoenix Suns",104,"Portland Trail Blazers",118,17,18,18
+1987-11-06,"Golden State Warriors",106,"Sacramento Kings",134,8,19,19
+1987-11-07,"Cleveland Cavaliers",105,"Atlanta Hawks",113,4,1,1
+1987-11-07,"Philadelphia 76ers",94,"Chicago Bulls",104,16,3,3
+1987-11-07,"Denver Nuggets",103,"Golden State Warriors",99,6,8,6
+1987-11-07,"New York Knicks",95,"Indiana Pacers",108,15,10,10
+1987-11-07,"Portland Trail Blazers",124,"Los Angeles Clippers",99,18,11,18
+1987-11-07,"Detroit Pistons",105,"Milwaukee Bucks",119,7,13,13
+1987-11-07,"Dallas Mavericks",106,"San Antonio Spurs",130,5,20,20
+1987-11-07,"Phoenix Suns",96,"Seattle SuperSonics",112,17,21,21
+1987-11-07,"Sacramento Kings",100,"Utah Jazz",121,19,22,22
+1987-11-07,"Boston Celtics",140,"Washington Bullets",139,2,23,2
+1987-11-08,"Houston Rockets",92,"Los Angeles Lakers",101,9,12,12
+1987-11-09,"Boston Celtics",96,"New York Knicks",87,2,15,2
+1987-11-10,"Chicago Bulls",105,"Atlanta Hawks",95,3,1,3
+1987-11-10,"Detroit Pistons",118,"Indiana Pacers",121,7,10,10
+1987-11-10,"Utah Jazz",88,"Los Angeles Clippers",100,22,11,11
+1987-11-10,"Washington Bullets",100,"Milwaukee Bucks",115,23,13,13
+1987-11-10,"Golden State Warriors",109,"Phoenix Suns",123,8,17,17
+1987-11-10,"Houston Rockets",118,"Portland Trail Blazers",111,9,18,9
+1987-11-10,"Denver Nuggets",123,"Sacramento Kings",134,6,19,19
+1987-11-10,"Los Angeles Lakers",133,"San Antonio Spurs",124,12,20,12
+1987-11-10,"Dallas Mavericks",117,"Seattle SuperSonics",101,5,21,5
+1987-11-11,"Indiana Pacers",106,"Boston Celtics",120,10,2,2
+1987-11-11,"Milwaukee Bucks",109,"Cleveland Cavaliers",101,13,4,13
+1987-11-11,"Phoenix Suns",115,"Golden State Warriors",130,17,8,8
+1987-11-11,"Chicago Bulls",105,"New Jersey Nets",96,3,14,3
+1987-11-11,"Atlanta Hawks",94,"New York Knicks",93,1,15,1
+1987-11-11,"Dallas Mavericks",92,"Utah Jazz",121,5,22,22
+1987-11-12,"Portland Trail Blazers",113,"Denver Nuggets",126,18,6,6
+1987-11-12,"Los Angeles Clippers",82,"Los Angeles Lakers",111,11,12,12
+1987-11-12,"Houston Rockets",116,"Sacramento Kings",114,9,19,9
+1987-11-12,"Seattle SuperSonics",118,"San Antonio Spurs",123,21,20,20
+1987-11-13,"Cleveland Cavaliers",114,"Boston Celtics",128,4,2,2
+1987-11-13,"New Jersey Nets",85,"Chicago Bulls",103,14,3,3
+1987-11-13,"Seattle SuperSonics",103,"Dallas Mavericks",95,21,5,21
+1987-11-13,"Golden State Warriors",94,"Los Angeles Clippers",97,8,11,11
+1987-11-13,"Detroit Pistons",113,"Philadelphia 76ers",94,7,16,7
+1987-11-13,"Phoenix Suns",92,"Utah Jazz",109,17,22,22
+1987-11-13,"New York Knicks",101,"Washington Bullets",108,15,23,23
+1987-11-14,"Philadelphia 76ers",83,"Atlanta Hawks",104,16,1,1
+1987-11-14,"Indiana Pacers",111,"Chicago Bulls",110,10,3,10
+1987-11-14,"Detroit Pistons",128,"Cleveland Cavaliers",113,7,4,7
+1987-11-14,"Portland Trail Blazers",116,"Dallas Mavericks",127,18,5,5
+1987-11-14,"Sacramento Kings",109,"Denver Nuggets",130,19,6,6
+1987-11-14,"Los Angeles Lakers",118,"Golden State Warriors",110,12,8,12
+1987-11-14,"Utah Jazz",93,"Houston Rockets",101,22,9,9
+1987-11-14,"Milwaukee Bucks",89,"New York Knicks",93,13,15,15
+1987-11-14,"San Antonio Spurs",113,"Phoenix Suns",124,20,17,17
+1987-11-15,"Seattle SuperSonics",106,"Houston Rockets",108,21,9,9
+1987-11-15,"Boston Celtics",103,"Indiana Pacers",98,2,10,2
+1987-11-15,"San Antonio Spurs",130,"Los Angeles Lakers",147,20,12,12
+1987-11-15,"Atlanta Hawks",103,"Milwaukee Bucks",112,1,13,13
+1987-11-15,"Washington Bullets",113,"New Jersey Nets",109,23,14,23
+1987-11-17,"Washington Bullets",101,"Chicago Bulls",105,23,3,3
+1987-11-17,"Boston Celtics",88,"Cleveland Cavaliers",109,2,4,4
+1987-11-17,"Portland Trail Blazers",115,"Los Angeles Lakers",142,18,12,12
+1987-11-17,"Golden State Warriors",108,"Milwaukee Bucks",120,8,13,13
+1987-11-17,"Houston Rockets",111,"New Jersey Nets",114,9,14,14
+1987-11-17,"Indiana Pacers",126,"Sacramento Kings",111,10,19,10
+1987-11-17,"Los Angeles Clippers",121,"San Antonio Spurs",122,11,20,20
+1987-11-17,"Denver Nuggets",110,"Utah Jazz",120,6,22,22
+1987-11-18,"Golden State Warriors",92,"Atlanta Hawks",95,8,1,1
+1987-11-18,"New York Knicks",109,"Boston Celtics",111,15,2,2
+1987-11-18,"Los Angeles Clippers",87,"Dallas Mavericks",97,11,5,5
+1987-11-18,"Indiana Pacers",117,"Denver Nuggets",106,10,6,10
+1987-11-18,"Philadelphia 76ers",113,"Detroit Pistons",109,16,7,16
+1987-11-18,"Utah Jazz",80,"Phoenix Suns",90,22,17,17
+1987-11-18,"Portland Trail Blazers",114,"Seattle SuperSonics",120,18,21,21
+1987-11-18,"Chicago Bulls",84,"Washington Bullets",82,3,23,3
+1987-11-19,"Houston Rockets",105,"Cleveland Cavaliers",97,9,4,9
+1987-11-19,"New York Knicks",107,"New Jersey Nets",108,15,14,14
+1987-11-19,"Milwaukee Bucks",117,"Sacramento Kings",113,13,19,13
+1987-11-20,"Atlanta Hawks",92,"Chicago Bulls",94,1,3,3
+1987-11-20,"San Antonio Spurs",142,"Denver Nuggets",156,20,6,6
+1987-11-20,"Golden State Warriors",108,"Detroit Pistons",131,8,7,7
+1987-11-20,"Dallas Mavericks",116,"Los Angeles Lakers",119,5,12,12
+1987-11-20,"Boston Celtics",85,"Philadelphia 76ers",116,2,16,16
+1987-11-20,"Los Angeles Clippers",112,"Phoenix Suns",96,11,17,11
+1987-11-20,"Washington Bullets",101,"Portland Trail Blazers",120,23,18,18
+1987-11-20,"Milwaukee Bucks",97,"Seattle SuperSonics",99,13,21,21
+1987-11-20,"Indiana Pacers",81,"Utah Jazz",112,10,22,22
+1987-11-21,"Houston Rockets",94,"Atlanta Hawks",104,9,1,1
+1987-11-21,"Detroit Pistons",144,"Chicago Bulls",132,7,3,7
+1987-11-21,"Philadelphia 76ers",88,"Cleveland Cavaliers",101,16,4,4
+1987-11-21,"Denver Nuggets",97,"Los Angeles Clippers",91,6,11,6
+1987-11-21,"Boston Celtics",107,"New Jersey Nets",97,2,14,2
+1987-11-21,"Golden State Warriors",91,"New York Knicks",99,8,15,15
+1987-11-21,"Dallas Mavericks",103,"Sacramento Kings",96,5,19,5
+1987-11-21,"Utah Jazz",119,"San Antonio Spurs",120,22,20,20
+1987-11-21,"Washington Bullets",103,"Seattle SuperSonics",124,23,21,21
+1987-11-22,"Milwaukee Bucks",124,"Los Angeles Lakers",116,13,12,13
+1987-11-22,"Indiana Pacers",110,"Portland Trail Blazers",120,10,18,18
+1987-11-23,"Chicago Bulls",107,"Boston Celtics",102,3,2,3
+1987-11-23,"San Antonio Spurs",117,"New York Knicks",112,20,15,20
+1987-11-24,"New Jersey Nets",104,"Denver Nuggets",132,14,6,6
+1987-11-24,"Los Angeles Clippers",123,"Golden State Warriors",120,11,8,11
+1987-11-24,"Detroit Pistons",97,"Houston Rockets",83,7,9,7
+1987-11-24,"Cleveland Cavaliers",104,"Philadelphia 76ers",108,4,16,16
+1987-11-24,"Sacramento Kings",94,"Portland Trail Blazers",98,19,18,18
+1987-11-24,"Los Angeles Lakers",85,"Seattle SuperSonics",103,12,21,21
+1987-11-24,"Washington Bullets",83,"Utah Jazz",100,23,22,22
+1987-11-25,"Atlanta Hawks",102,"Boston Celtics",117,1,2,2
+1987-11-25,"New York Knicks",104,"Cleveland Cavaliers",101,15,4,15
+1987-11-25,"Detroit Pistons",107,"Dallas Mavericks",113,7,5,5
+1987-11-25,"San Antonio Spurs",102,"Indiana Pacers",133,20,10,10
+1987-11-25,"Washington Bullets",101,"Los Angeles Clippers",96,23,11,23
+1987-11-25,"Chicago Bulls",103,"Milwaukee Bucks",101,3,13,3
+1987-11-25,"Houston Rockets",109,"Phoenix Suns",103,9,17,9
+1987-11-26,"New Jersey Nets",102,"Sacramento Kings",110,14,19,19
+1987-11-27,"Seattle SuperSonics",112,"Boston Celtics",117,21,2,2
+1987-11-27,"Chicago Bulls",93,"Dallas Mavericks",94,3,5,5
+1987-11-27,"San Antonio Spurs",111,"Detroit Pistons",143,20,7,7
+1987-11-27,"Philadelphia 76ers",103,"Golden State Warriors",109,16,8,8
+1987-11-27,"Atlanta Hawks",86,"Indiana Pacers",88,1,10,10
+1987-11-27,"Denver Nuggets",119,"Los Angeles Lakers",127,6,12,12
+1987-11-27,"New Jersey Nets",107,"Phoenix Suns",113,14,17,17
+1987-11-27,"Los Angeles Clippers",87,"Portland Trail Blazers",97,11,18,18
+1987-11-27,"Houston Rockets",96,"Utah Jazz",118,9,22,22
+1987-11-28,"San Antonio Spurs",100,"Atlanta Hawks",124,20,1,1
+1987-11-28,"Dallas Mavericks",98,"Denver Nuggets",106,5,6,6
+1987-11-28,"Chicago Bulls",98,"Houston Rockets",86,3,9,3
+1987-11-28,"Seattle SuperSonics",115,"Indiana Pacers",131,21,10,10
+1987-11-28,"Boston Celtics",97,"Milwaukee Bucks",112,2,13,13
+1987-11-28,"Cleveland Cavaliers",93,"New York Knicks",105,4,15,15
+1987-11-28,"Philadelphia 76ers",114,"Sacramento Kings",115,16,19,19
+1987-11-28,"Detroit Pistons",102,"Washington Bullets",124,7,23,23
+1987-11-29,"New Jersey Nets",104,"Portland Trail Blazers",125,14,18,18
+1987-11-30,"Indiana Pacers",94,"Milwaukee Bucks",104,10,13,13
+1987-11-30,"Philadelphia 76ers",106,"Utah Jazz",100,16,22,16
+1987-12-01,"Boston Celtics",106,"Atlanta Hawks",120,2,1,1
+1987-12-01,"Chicago Bulls",98,"Golden State Warriors",97,3,8,3
+1987-12-01,"Denver Nuggets",101,"Houston Rockets",106,6,9,9
+1987-12-01,"Detroit Pistons",124,"New Jersey Nets",115,7,14,7
+1987-12-01,"Seattle SuperSonics",112,"New York Knicks",109,21,15,21
+1987-12-01,"Phoenix Suns",100,"Portland Trail Blazers",102,17,18,18
+1987-12-01,"Los Angeles Lakers",125,"Sacramento Kings",120,12,19,12
+1987-12-02,"New Jersey Nets",99,"Boston Celtics",130,14,2,2
+1987-12-02,"Seattle SuperSonics",102,"Cleveland Cavaliers",104,21,4,4
+1987-12-02,"Sacramento Kings",120,"Denver Nuggets",147,19,6,6
+1987-12-02,"Milwaukee Bucks",105,"Detroit Pistons",115,13,7,7
+1987-12-02,"Washington Bullets",102,"Indiana Pacers",108,23,10,10
+1987-12-02,"Philadelphia 76ers",85,"Los Angeles Clippers",88,16,11,11
+1987-12-02,"Portland Trail Blazers",117,"Los Angeles Lakers",104,18,12,18
+1987-12-02,"Houston Rockets",93,"San Antonio Spurs",97,9,20,20
+1987-12-02,"Chicago Bulls",105,"Utah Jazz",101,3,22,3
+1987-12-03,"New York Knicks",114,"Phoenix Suns",120,15,17,17
+1987-12-03,"Atlanta Hawks",102,"Washington Bullets",94,1,23,1
+1987-12-04,"New Jersey Nets",102,"Atlanta Hawks",139,14,1,1
+1987-12-04,"Golden State Warriors",95,"Dallas Mavericks",116,8,5,5
+1987-12-04,"Chicago Bulls",89,"Denver Nuggets",105,3,6,6
+1987-12-04,"Boston Celtics",105,"Detroit Pistons",128,2,7,7
+1987-12-04,"Cleveland Cavaliers",108,"Indiana Pacers",90,4,10,4
+1987-12-04,"Sacramento Kings",84,"Los Angeles Clippers",98,19,11,11
+1987-12-04,"Los Angeles Lakers",83,"Milwaukee Bucks",85,12,13,13
+1987-12-04,"Seattle SuperSonics",105,"Philadelphia 76ers",118,21,16,16
+1987-12-04,"New York Knicks",92,"Utah Jazz",104,15,22,22
+1987-12-05,"Los Angeles Lakers",95,"Cleveland Cavaliers",97,12,4,4
+1987-12-05,"Denver Nuggets",96,"Dallas Mavericks",109,6,5,5
+1987-12-05,"Golden State Warriors",96,"Houston Rockets",121,8,9,9
+1987-12-05,"Portland Trail Blazers",133,"Phoenix Suns",115,18,17,18
+1987-12-05,"Utah Jazz",126,"Sacramento Kings",117,22,19,22
+1987-12-05,"Chicago Bulls",101,"San Antonio Spurs",110,3,20,20
+1987-12-05,"Seattle SuperSonics",115,"Washington Bullets",99,21,23,21
+1987-12-06,"Phoenix Suns",97,"Los Angeles Clippers",96,17,11,17
+1987-12-06,"New York Knicks",99,"Portland Trail Blazers",117,15,18,18
+1987-12-08,"Philadelphia 76ers",109,"Chicago Bulls",96,16,3,16
+1987-12-08,"Portland Trail Blazers",117,"Detroit Pistons",127,18,7,7
+1987-12-08,"Sacramento Kings",97,"Houston Rockets",106,19,9,9
+1987-12-08,"Milwaukee Bucks",101,"Indiana Pacers",103,13,10,10
+1987-12-08,"Atlanta Hawks",90,"Los Angeles Clippers",79,1,11,1
+1987-12-08,"Los Angeles Lakers",98,"New Jersey Nets",81,12,14,12
+1987-12-08,"Washington Bullets",92,"New York Knicks",116,23,15,15
+1987-12-08,"Utah Jazz",100,"San Antonio Spurs",105,22,20,20
+1987-12-08,"Cleveland Cavaliers",96,"Seattle SuperSonics",107,4,21,21
+1987-12-09,"Denver Nuggets",124,"Boston Celtics",119,6,2,6
+1987-12-09,"Sacramento Kings",98,"Dallas Mavericks",125,19,5,5
+1987-12-09,"Cleveland Cavaliers",112,"Golden State Warriors",113,4,8,8
+1987-12-09,"Portland Trail Blazers",86,"Philadelphia 76ers",94,18,16,16
+1987-12-09,"Atlanta Hawks",105,"Phoenix Suns",117,1,17,17
+1987-12-09,"Los Angeles Lakers",112,"Washington Bullets",120,12,23,23
+1987-12-10,"Milwaukee Bucks",105,"Chicago Bulls",111,13,3,3
+1987-12-10,"Utah Jazz",93,"Houston Rockets",98,22,9,9
+1987-12-10,"Seattle SuperSonics",96,"Los Angeles Clippers",113,21,11,11
+1987-12-10,"Indiana Pacers",108,"New Jersey Nets",91,10,14,10
+1987-12-10,"Denver Nuggets",97,"New York Knicks",113,6,15,15
+1987-12-11,"Los Angeles Lakers",115,"Boston Celtics",114,12,2,12
+1987-12-11,"Phoenix Suns",104,"Dallas Mavericks",108,17,5,5
+1987-12-11,"Washington Bullets",108,"Detroit Pistons",114,23,7,7
+1987-12-11,"Atlanta Hawks",109,"Golden State Warriors",93,1,8,1
+1987-12-11,"Portland Trail Blazers",112,"Milwaukee Bucks",125,18,13,13
+1987-12-11,"Cleveland Cavaliers",115,"Sacramento Kings",113,4,19,4
+1987-12-12,"Houston Rockets",103,"Chicago Bulls",112,9,3,3
+1987-12-12,"New York Knicks",96,"Detroit Pistons",124,15,7,7
+1987-12-12,"Portland Trail Blazers",108,"Indiana Pacers",101,18,10,18
+1987-12-12,"Washington Bullets",122,"New Jersey Nets",107,23,14,23
+1987-12-12,"Denver Nuggets",131,"Philadelphia 76ers",121,6,16,6
+1987-12-12,"Phoenix Suns",110,"San Antonio Spurs",129,17,20,20
+1987-12-12,"Los Angeles Clippers",95,"Seattle SuperSonics",116,11,21,21
+1987-12-12,"Golden State Warriors",93,"Utah Jazz",127,8,22,22
+1987-12-13,"Cleveland Cavaliers",89,"Los Angeles Lakers",90,4,12,12
+1987-12-13,"Dallas Mavericks",113,"Milwaukee Bucks",99,5,13,5
+1987-12-13,"Atlanta Hawks",106,"Sacramento Kings",100,1,19,1
+1987-12-14,"Seattle SuperSonics",95,"Utah Jazz",116,21,22,22
+1987-12-15,"Indiana Pacers",91,"Atlanta Hawks",93,10,1,1
+1987-12-15,"Dallas Mavericks",93,"Cleveland Cavaliers",106,5,4,4
+1987-12-15,"Chicago Bulls",123,"Detroit Pistons",127,3,7,7
+1987-12-15,"Phoenix Suns",97,"Los Angeles Lakers",122,17,12,12
+1987-12-15,"San Antonio Spurs",98,"New Jersey Nets",104,20,14,14
+1987-12-15,"Milwaukee Bucks",103,"New York Knicks",98,13,15,13
+1987-12-15,"Seattle SuperSonics",109,"Portland Trail Blazers",128,21,18,18
+1987-12-15,"Los Angeles Clippers",108,"Sacramento Kings",128,11,19,19
+1987-12-15,"Boston Celtics",122,"Washington Bullets",102,2,23,2
+1987-12-16,"Utah Jazz",111,"Boston Celtics",121,22,2,2
+1987-12-16,"Houston Rockets",113,"Denver Nuggets",132,9,6,6
+1987-12-16,"Dallas Mavericks",109,"New Jersey Nets",105,5,14,5
+1987-12-16,"San Antonio Spurs",102,"Philadelphia 76ers",114,20,16,16
+1987-12-17,"Cleveland Cavaliers",100,"Chicago Bulls",111,4,3,3
+1987-12-17,"Los Angeles Lakers",113,"Golden State Warriors",106,12,8,12
+1987-12-17,"Houston Rockets",92,"Los Angeles Clippers",98,9,11,11
+1987-12-17,"Philadelphia 76ers",106,"New York Knicks",96,16,15,16
+1987-12-17,"Sacramento Kings",109,"Seattle SuperSonics",114,19,21,21
+1987-12-17,"Indiana Pacers",111,"Washington Bullets",115,10,23,23
+1987-12-18,"New Jersey Nets",94,"Cleveland Cavaliers",103,14,4,4
+1987-12-18,"Dallas Mavericks",112,"Detroit Pistons",117,5,7,7
+1987-12-18,"Utah Jazz",97,"Indiana Pacers",121,22,10,10
+1987-12-18,"Atlanta Hawks",94,"Milwaukee Bucks",87,1,13,1
+1987-12-18,"Portland Trail Blazers",129,"Phoenix Suns",114,18,17,18
+1987-12-18,"Denver Nuggets",114,"San Antonio Spurs",133,6,20,20
+1987-12-19,"Utah Jazz",124,"Atlanta Hawks",130,22,1,1
+1987-12-19,"Seattle SuperSonics",129,"Golden State Warriors",102,21,8,21
+1987-12-19,"Denver Nuggets",121,"Houston Rockets",117,6,9,6
+1987-12-19,"Los Angeles Lakers",108,"Los Angeles Clippers",97,12,11,12
+1987-12-19,"New Jersey Nets",93,"New York Knicks",125,14,15,15
+1987-12-19,"Dallas Mavericks",90,"Philadelphia 76ers",95,5,16,16
+1987-12-19,"Chicago Bulls",96,"Washington Bullets",109,3,23,23
+1987-12-20,"Philadelphia 76ers",87,"Boston Celtics",124,16,2,2
+1987-12-20,"Indiana Pacers",116,"Cleveland Cavaliers",127,10,4,4
+1987-12-20,"Seattle SuperSonics",94,"Los Angeles Lakers",103,21,12,12
+1987-12-20,"San Antonio Spurs",126,"Portland Trail Blazers",148,20,18,18
+1987-12-20,"Phoenix Suns",120,"Sacramento Kings",109,17,19,17
+1987-12-21,"Utah Jazz",95,"New Jersey Nets",106,22,14,14
+1987-12-22,"Dallas Mavericks",111,"Chicago Bulls",100,5,3,5
+1987-12-22,"Phoenix Suns",104,"Denver Nuggets",119,17,6,6
+1987-12-22,"Atlanta Hawks",103,"Houston Rockets",122,1,9,9
+1987-12-22,"New York Knicks",105,"Milwaukee Bucks",122,15,13,13
+1987-12-22,"Boston Celtics",118,"Philadelphia 76ers",115,2,16,2
+1987-12-22,"Golden State Warriors",91,"Portland Trail Blazers",136,8,18,18
+1987-12-22,"San Antonio Spurs",96,"Sacramento Kings",120,20,19,19
+1987-12-22,"Cleveland Cavaliers",106,"Washington Bullets",102,4,23,4
+1987-12-23,"Utah Jazz",91,"Cleveland Cavaliers",83,22,4,22
+1987-12-23,"Denver Nuggets",117,"Golden State Warriors",129,6,8,8
+1987-12-23,"Dallas Mavericks",110,"Indiana Pacers",109,5,10,5
+1987-12-23,"San Antonio Spurs",111,"Los Angeles Clippers",97,20,11,20
+1987-12-23,"Sacramento Kings",103,"Los Angeles Lakers",117,19,12,12
+1987-12-23,"Philadelphia 76ers",110,"New Jersey Nets",106,16,14,16
+1987-12-23,"Chicago Bulls",89,"New York Knicks",90,3,15,15
+1987-12-23,"Seattle SuperSonics",103,"Phoenix Suns",102,21,17,21
+1987-12-25,"Detroit Pistons",91,"New York Knicks",87,7,15,7
+1987-12-25,"Atlanta Hawks",106,"Philadelphia 76ers",100,1,16,1
+1987-12-26,"New York Knicks",98,"Atlanta Hawks",125,15,1,1
+1987-12-26,"Portland Trail Blazers",117,"Cleveland Cavaliers",120,18,4,4
+1987-12-26,"Houston Rockets",100,"Dallas Mavericks",105,9,5,5
+1987-12-26,"Seattle SuperSonics",111,"Denver Nuggets",115,21,6,6
+1987-12-26,"New Jersey Nets",75,"Detroit Pistons",110,14,7,7
+1987-12-26,"Chicago Bulls",92,"Indiana Pacers",106,3,10,10
+1987-12-26,"Boston Celtics",106,"Los Angeles Clippers",97,2,11,2
+1987-12-26,"Washington Bullets",97,"Milwaukee Bucks",102,23,13,13
+1987-12-26,"Sacramento Kings",112,"Phoenix Suns",110,19,17,19
+1987-12-26,"Golden State Warriors",96,"San Antonio Spurs",105,8,20,20
+1987-12-26,"Los Angeles Lakers",117,"Utah Jazz",109,12,22,12
+1987-12-27,"Cleveland Cavaliers",83,"New Jersey Nets",101,4,14,14
+1987-12-27,"Boston Celtics",114,"Sacramento Kings",102,2,19,2
+1987-12-28,"Philadelphia 76ers",101,"Phoenix Suns",117,16,17,17
+1987-12-28,"Denver Nuggets",100,"Seattle SuperSonics",108,6,21,21
+1987-12-29,"Atlanta Hawks",108,"Chicago Bulls",98,1,3,1
+1987-12-29,"Sacramento Kings",117,"Dallas Mavericks",126,19,5,5
+1987-12-29,"Utah Jazz",98,"Denver Nuggets",97,22,6,22
+1987-12-29,"Houston Rockets",101,"Detroit Pistons",91,9,7,9
+1987-12-29,"Philadelphia 76ers",115,"Los Angeles Lakers",131,16,12,12
+1987-12-29,"Milwaukee Bucks",106,"New Jersey Nets",88,13,14,13
+1987-12-29,"Portland Trail Blazers",110,"New York Knicks",123,18,15,15
+1987-12-30,"Atlanta Hawks",117,"Cleveland Cavaliers",110,1,4,1
+1987-12-30,"Detroit Pistons",105,"Indiana Pacers",95,7,10,7
+1987-12-30,"Phoenix Suns",121,"Los Angeles Clippers",102,17,11,17
+1987-12-30,"Houston Rockets",102,"Milwaukee Bucks",93,9,13,9
+1987-12-30,"Sacramento Kings",108,"San Antonio Spurs",140,19,20,20
+1987-12-30,"Boston Celtics",105,"Seattle SuperSonics",111,2,21,21
+1987-12-30,"Golden State Warriors",103,"Utah Jazz",104,8,22,22
+1987-12-30,"Portland Trail Blazers",117,"Washington Bullets",112,18,23,18
+1988-01-01,"Los Angeles Clippers",96,"New York Knicks",115,11,15,15
+1988-01-01,"Philadelphia 76ers",125,"Portland Trail Blazers",127,16,18,18
+1988-01-01,"Denver Nuggets",124,"Washington Bullets",109,6,23,6
+1988-01-02,"New Jersey Nets",93,"Chicago Bulls",116,14,3,3
+1988-01-02,"Phoenix Suns",107,"Cleveland Cavaliers",120,17,4,4
+1988-01-02,"Denver Nuggets",151,"Detroit Pistons",142,6,7,6
+1988-01-02,"Boston Celtics",115,"Golden State Warriors",110,2,8,2
+1988-01-02,"Indiana Pacers",99,"Milwaukee Bucks",97,10,13,10
+1988-01-02,"Utah Jazz",105,"Sacramento Kings",107,22,19,19
+1988-01-02,"Dallas Mavericks",116,"San Antonio Spurs",109,5,20,5
+1988-01-02,"Philadelphia 76ers",114,"Seattle SuperSonics",116,16,21,21
+1988-01-02,"Houston Rockets",111,"Washington Bullets",100,9,23,9
+1988-01-03,"Los Angeles Clippers",84,"Atlanta Hawks",121,11,1,1
+1988-01-03,"Los Angeles Lakers",98,"Portland Trail Blazers",81,12,18,12
+1988-01-04,"Denver Nuggets",101,"Cleveland Cavaliers",122,6,4,4
+1988-01-04,"Dallas Mavericks",107,"Houston Rockets",117,5,9,9
+1988-01-04,"San Antonio Spurs",115,"Los Angeles Lakers",133,20,12,12
+1988-01-04,"Phoenix Suns",114,"Philadelphia 76ers",122,17,16,16
+1988-01-04,"Boston Celtics",107,"Utah Jazz",99,2,22,2
+1988-01-05,"Detroit Pistons",71,"Atlanta Hawks",81,7,1,1
+1988-01-05,"Indiana Pacers",77,"Chicago Bulls",93,10,3,3
+1988-01-05,"San Antonio Spurs",119,"Golden State Warriors",129,20,8,8
+1988-01-05,"Los Angeles Clippers",82,"Milwaukee Bucks",98,11,13,13
+1988-01-05,"Phoenix Suns",100,"New York Knicks",95,17,15,17
+1988-01-05,"Seattle SuperSonics",114,"Portland Trail Blazers",126,21,18,18
+1988-01-05,"New Jersey Nets",97,"Washington Bullets",101,14,23,23
+1988-01-06,"New York Knicks",108,"Boston Celtics",117,15,2,2
+1988-01-06,"Los Angeles Clippers",100,"Cleveland Cavaliers",116,11,4,4
+1988-01-06,"Atlanta Hawks",87,"Detroit Pistons",90,1,7,7
+1988-01-06,"Dallas Mavericks",89,"Los Angeles Lakers",103,5,12,12
+1988-01-06,"Denver Nuggets",98,"New Jersey Nets",93,6,14,6
+1988-01-06,"Utah Jazz",93,"Philadelphia 76ers",116,22,16,16
+1988-01-06,"Houston Rockets",95,"Seattle SuperSonics",110,9,21,21
+1988-01-07,"Denver Nuggets",96,"Chicago Bulls",100,6,3,3
+1988-01-07,"Houston Rockets",120,"Golden State Warriors",113,9,8,9
+1988-01-07,"Milwaukee Bucks",108,"Indiana Pacers",114,13,10,10
+1988-01-07,"Dallas Mavericks",105,"Phoenix Suns",91,5,17,5
+1988-01-07,"San Antonio Spurs",124,"Sacramento Kings",119,20,19,20
+1988-01-08,"Cleveland Cavaliers",97,"Atlanta Hawks",101,4,1,1
+1988-01-08,"Washington Bullets",109,"Boston Celtics",125,23,2,2
+1988-01-08,"Los Angeles Lakers",106,"Detroit Pistons",104,12,7,12
+1988-01-08,"Utah Jazz",111,"Milwaukee Bucks",107,22,13,22
+1988-01-08,"New York Knicks",111,"New Jersey Nets",118,15,14,14
+1988-01-08,"Los Angeles Clippers",103,"Philadelphia 76ers",117,11,16,16
+1988-01-08,"Sacramento Kings",91,"Portland Trail Blazers",98,19,18,18
+1988-01-09,"Denver Nuggets",105,"Atlanta Hawks",113,6,1,1
+1988-01-09,"Utah Jazz",91,"Chicago Bulls",113,22,3,3
+1988-01-09,"Dallas Mavericks",115,"Golden State Warriors",99,5,8,5
+1988-01-09,"Phoenix Suns",98,"Houston Rockets",104,17,9,9
+1988-01-09,"Los Angeles Lakers",101,"Indiana Pacers",98,12,10,12
+1988-01-09,"Boston Celtics",98,"New York Knicks",106,2,15,15
+1988-01-09,"Cleveland Cavaliers",110,"Philadelphia 76ers",126,4,16,16
+1988-01-09,"San Antonio Spurs",133,"Seattle SuperSonics",141,20,21,21
+1988-01-09,"Los Angeles Clippers",76,"Washington Bullets",108,11,23,23
+1988-01-10,"New Jersey Nets",87,"Milwaukee Bucks",105,14,13,13
+1988-01-10,"Seattle SuperSonics",108,"Sacramento Kings",109,21,19,19
+1988-01-11,"Los Angeles Clippers",90,"Indiana Pacers",111,11,10,10
+1988-01-11,"Denver Nuggets",115,"Phoenix Suns",127,6,17,17
+1988-01-12,"Boston Celtics",104,"Chicago Bulls",97,2,3,2
+1988-01-12,"New York Knicks",111,"Cleveland Cavaliers",119,15,4,4
+1988-01-12,"Golden State Warriors",113,"Los Angeles Lakers",117,8,12,12
+1988-01-12,"Philadelphia 76ers",103,"Milwaukee Bucks",106,16,13,13
+1988-01-13,"Detroit Pistons",105,"Boston Celtics",143,7,2,2
+1988-01-13,"Indiana Pacers",108,"Dallas Mavericks",110,10,5,5
+1988-01-13,"Los Angeles Lakers",109,"Los Angeles Clippers",110,12,11,11
+1988-01-13,"New Jersey Nets",95,"Philadelphia 76ers",104,14,16,16
+1988-01-13,"Houston Rockets",106,"Phoenix Suns",117,9,17,17
+1988-01-13,"Atlanta Hawks",120,"San Antonio Spurs",110,1,20,1
+1988-01-13,"Golden State Warriors",115,"Seattle SuperSonics",144,8,21,21
+1988-01-13,"Portland Trail Blazers",104,"Utah Jazz",116,18,22,22
+1988-01-14,"Chicago Bulls",88,"Cleveland Cavaliers",91,3,4,4
+1988-01-14,"Atlanta Hawks",112,"Denver Nuggets",115,1,6,6
+1988-01-14,"Portland Trail Blazers",98,"Houston Rockets",103,18,9,9
+1988-01-14,"Sacramento Kings",87,"New Jersey Nets",90,19,14,14
+1988-01-14,"Milwaukee Bucks",107,"Washington Bullets",136,13,23,23
+1988-01-15,"Sacramento Kings",86,"Boston Celtics",122,19,2,2
+1988-01-15,"Cleveland Cavaliers",93,"Detroit Pistons",97,4,7,7
+1988-01-15,"Los Angeles Clippers",116,"Golden State Warriors",123,11,8,8
+1988-01-15,"New York Knicks",104,"Philadelphia 76ers",119,15,16,16
+1988-01-15,"Indiana Pacers",112,"San Antonio Spurs",108,10,20,10
+1988-01-15,"Utah Jazz",105,"Seattle SuperSonics",124,22,21,21
+1988-01-16,"Detroit Pistons",99,"Chicago Bulls",115,7,3,3
+1988-01-16,"Atlanta Hawks",101,"Dallas Mavericks",98,1,5,1
+1988-01-16,"Golden State Warriors",94,"Denver Nuggets",115,8,6,6
+1988-01-16,"Indiana Pacers",102,"Houston Rockets",132,10,9,9
+1988-01-16,"Seattle SuperSonics",114,"Los Angeles Clippers",112,21,11,21
+1988-01-16,"Boston Celtics",103,"New Jersey Nets",96,2,14,2
+1988-01-16,"Philadelphia 76ers",96,"New York Knicks",110,16,15,15
+1988-01-16,"Los Angeles Lakers",107,"Phoenix Suns",96,12,17,12
+1988-01-16,"Portland Trail Blazers",121,"San Antonio Spurs",120,18,20,18
+1988-01-17,"Cleveland Cavaliers",93,"Milwaukee Bucks",111,4,13,13
+1988-01-17,"Sacramento Kings",113,"Washington Bullets",130,19,23,23
+1988-01-18,"Golden State Warriors",101,"Boston Celtics",121,8,2,2
+1988-01-18,"Washington Bullets",103,"Chicago Bulls",117,23,3,3
+1988-01-18,"Detroit Pistons",123,"Denver Nuggets",116,7,6,7
+1988-01-18,"Dallas Mavericks",99,"Los Angeles Clippers",87,5,11,5
+1988-01-18,"Houston Rockets",110,"Los Angeles Lakers",121,9,12,12
+1988-01-18,"Phoenix Suns",113,"New Jersey Nets",117,17,14,14
+1988-01-18,"Atlanta Hawks",102,"New York Knicks",110,1,15,15
+1988-01-18,"Indiana Pacers",105,"Seattle SuperSonics",115,10,21,21
+1988-01-19,"Chicago Bulls",94,"Atlanta Hawks",106,3,1,1
+1988-01-19,"Dallas Mavericks",120,"Portland Trail Blazers",116,5,18,5
+1988-01-19,"Houston Rockets",104,"Sacramento Kings",107,9,19,19
+1988-01-19,"Milwaukee Bucks",104,"San Antonio Spurs",110,13,20,20
+1988-01-20,"Phoenix Suns",115,"Boston Celtics",131,17,2,2
+1988-01-20,"Indiana Pacers",97,"Los Angeles Clippers",104,10,11,11
+1988-01-20,"Golden State Warriors",103,"New Jersey Nets",101,8,14,8
+1988-01-20,"Washington Bullets",110,"Philadelphia 76ers",98,23,16,23
+1988-01-20,"New York Knicks",96,"Seattle SuperSonics",108,15,21,21
+1988-01-20,"Detroit Pistons",120,"Utah Jazz",117,7,22,7
+1988-01-21,"Atlanta Hawks",101,"Cleveland Cavaliers",93,1,4,1
+1988-01-21,"Los Angeles Lakers",113,"Denver Nuggets",115,12,6,6
+1988-01-21,"Milwaukee Bucks",103,"Houston Rockets",116,13,9,9
+1988-01-22,"Atlanta Hawks",106,"Boston Celtics",124,1,2,2
+1988-01-22,"Phoenix Suns",108,"Chicago Bulls",118,17,3,3
+1988-01-22,"Los Angeles Clippers",87,"Dallas Mavericks",110,11,5,5
+1988-01-22,"New Jersey Nets",104,"Indiana Pacers",113,14,10,10
+1988-01-22,"New York Knicks",112,"Los Angeles Lakers",113,15,12,12
+1988-01-22,"Denver Nuggets",106,"Portland Trail Blazers",126,6,18,18
+1988-01-22,"Detroit Pistons",106,"Seattle SuperSonics",109,7,21,21
+1988-01-22,"San Antonio Spurs",106,"Utah Jazz",119,20,22,22
+1988-01-22,"Golden State Warriors",91,"Washington Bullets",115,8,23,23
+1988-01-23,"Golden State Warriors",94,"Chicago Bulls",121,8,3,3
+1988-01-23,"Boston Celtics",100,"Cleveland Cavaliers",119,2,4,4
+1988-01-23,"Milwaukee Bucks",97,"Dallas Mavericks",113,13,5,5
+1988-01-23,"New York Knicks",94,"Sacramento Kings",97,15,19,19
+1988-01-23,"Los Angeles Clippers",100,"San Antonio Spurs",106,11,20,20
+1988-01-24,"New Jersey Nets",111,"Atlanta Hawks",118,14,1,1
+1988-01-24,"Phoenix Suns",109,"Indiana Pacers",128,17,10,10
+1988-01-24,"Detroit Pistons",111,"Portland Trail Blazers",119,7,18,18
+1988-01-24,"Los Angeles Lakers",116,"Seattle SuperSonics",109,12,21,12
+1988-01-24,"Philadelphia 76ers",99,"Washington Bullets",131,16,23,23
+1988-01-25,"Milwaukee Bucks",108,"Golden State Warriors",105,13,8,13
+1988-01-25,"Cleveland Cavaliers",96,"Utah Jazz",119,4,22,22
+1988-01-25,"Philadelphia 76ers",117,"Washington Bullets",118,16,23,23
+1988-01-26,"Boston Celtics",102,"Atlanta Hawks",97,2,1,2
+1988-01-26,"San Antonio Spurs",111,"Dallas Mavericks",128,20,5,5
+1988-01-26,"Los Angeles Clippers",104,"Houston Rockets",124,11,9,9
+1988-01-26,"Chicago Bulls",93,"Indiana Pacers",97,3,10,10
+1988-01-26,"Utah Jazz",100,"Los Angeles Lakers",111,22,12,12
+1988-01-26,"New Jersey Nets",101,"New York Knicks",122,14,15,15
+1988-01-26,"Milwaukee Bucks",106,"Portland Trail Blazers",112,13,18,18
+1988-01-26,"Seattle SuperSonics",116,"Sacramento Kings",100,21,19,21
+1988-01-27,"Washington Bullets",100,"Boston Celtics",106,23,2,2
+1988-01-27,"Indiana Pacers",86,"Detroit Pistons",103,10,7,7
+1988-01-27,"Portland Trail Blazers",110,"Golden State Warriors",115,18,8,8
+1988-01-27,"Chicago Bulls",119,"Philadelphia 76ers",109,3,16,3
+1988-01-27,"Dallas Mavericks",121,"Phoenix Suns",102,5,17,5
+1988-01-27,"Cleveland Cavaliers",112,"San Antonio Spurs",102,4,20,4
+1988-01-28,"Milwaukee Bucks",113,"Denver Nuggets",122,13,6,6
+1988-01-28,"Cleveland Cavaliers",109,"Houston Rockets",85,4,9,4
+1988-01-28,"Los Angeles Lakers",115,"Sacramento Kings",94,12,19,12
+1988-01-28,"New York Knicks",90,"Washington Bullets",104,15,23,23
+1988-01-29,"New Jersey Nets",93,"Chicago Bulls",120,14,3,3
+1988-01-29,"Seattle SuperSonics",109,"Dallas Mavericks",117,21,5,5
+1988-01-29,"Boston Celtics",108,"Detroit Pistons",125,2,7,7
+1988-01-29,"Utah Jazz",100,"Golden State Warriors",102,22,8,8
+1988-01-29,"Milwaukee Bucks",97,"Los Angeles Clippers",88,13,11,13
+1988-01-29,"Atlanta Hawks",107,"Los Angeles Lakers",117,1,12,12
+1988-01-29,"Indiana Pacers",89,"Philadelphia 76ers",94,10,16,16
+1988-01-29,"Phoenix Suns",119,"Portland Trail Blazers",128,17,18,18
+1988-01-30,"New York Knicks",95,"Chicago Bulls",97,15,3,3
+1988-01-30,"Washington Bullets",126,"Cleveland Cavaliers",128,23,4,4
+1988-01-30,"Houston Rockets",108,"Dallas Mavericks",92,9,5,9
+1988-01-30,"Los Angeles Clippers",106,"Denver Nuggets",124,11,6,6
+1988-01-30,"Detroit Pistons",104,"New Jersey Nets",116,7,14,14
+1988-01-30,"Sacramento Kings",126,"Phoenix Suns",120,19,17,19
+1988-01-30,"Seattle SuperSonics",102,"San Antonio Spurs",112,21,20,20
+1988-01-30,"Atlanta Hawks",109,"Utah Jazz",115,1,22,22
+1988-01-31,"Philadelphia 76ers",85,"Boston Celtics",100,16,2,2
+1988-02-01,"Detroit Pistons",83,"Cleveland Cavaliers",94,7,4,4
+1988-02-01,"New Jersey Nets",108,"Dallas Mavericks",103,14,5,14
+1988-02-01,"Golden State Warriors",88,"Indiana Pacers",90,8,10,10
+1988-02-01,"Chicago Bulls",95,"Sacramento Kings",97,3,19,19
+1988-02-01,"Seattle SuperSonics",100,"Utah Jazz",105,21,22,22
+1988-02-02,"Phoenix Suns",99,"Houston Rockets",109,17,9,9
+1988-02-02,"Chicago Bulls",101,"Los Angeles Lakers",110,3,12,12
+1988-02-02,"Detroit Pistons",99,"Milwaukee Bucks",97,7,13,7
+1988-02-02,"Washington Bullets",106,"New York Knicks",110,23,15,15
+1988-02-02,"Atlanta Hawks",118,"Portland Trail Blazers",121,1,18,18
+1988-02-02,"New Jersey Nets",106,"San Antonio Spurs",118,14,20,20
+1988-02-03,"Indiana Pacers",103,"Boston Celtics",118,10,2,2
+1988-02-03,"Dallas Mavericks",105,"Denver Nuggets",115,5,6,6
+1988-02-03,"Golden State Warriors",84,"Philadelphia 76ers",96,8,16,16
+1988-02-03,"Sacramento Kings",91,"Utah Jazz",123,19,22,22
+1988-02-03,"Cleveland Cavaliers",107,"Washington Bullets",106,4,23,4
+1988-02-04,"Golden State Warriors",96,"Cleveland Cavaliers",90,8,4,8
+1988-02-04,"New Jersey Nets",87,"Houston Rockets",115,14,9,9
+1988-02-04,"Philadelphia 76ers",95,"Indiana Pacers",109,16,10,10
+1988-02-04,"Los Angeles Lakers",117,"Los Angeles Clippers",86,12,11,12
+1988-02-04,"Boston Celtics",101,"Milwaukee Bucks",111,2,13,13
+1988-02-04,"Detroit Pistons",93,"New York Knicks",100,7,15,15
+1988-02-04,"Chicago Bulls",113,"Phoenix Suns",101,3,17,3
+1988-02-04,"Utah Jazz",126,"Portland Trail Blazers",123,22,18,22
+1988-02-04,"Dallas Mavericks",101,"Sacramento Kings",118,5,19,19
+1988-02-04,"Denver Nuggets",129,"San Antonio Spurs",123,6,20,6
+1988-02-04,"Atlanta Hawks",119,"Seattle SuperSonics",109,1,21,1
+1988-02-09,"Philadelphia 76ers",110,"Atlanta Hawks",112,16,1,1
+1988-02-09,"Detroit Pistons",89,"Chicago Bulls",74,7,3,7
+1988-02-09,"Utah Jazz",93,"Dallas Mavericks",124,22,5,5
+1988-02-09,"San Antonio Spurs",108,"Denver Nuggets",136,20,6,6
+1988-02-09,"Sacramento Kings",99,"Golden State Warriors",117,19,8,8
+1988-02-09,"Boston Celtics",120,"Houston Rockets",129,2,9,9
+1988-02-09,"Indiana Pacers",110,"Los Angeles Lakers",108,10,12,10
+1988-02-09,"Cleveland Cavaliers",104,"Milwaukee Bucks",112,4,13,13
+1988-02-09,"Los Angeles Clippers",100,"Phoenix Suns",106,11,17,17
+1988-02-09,"Seattle SuperSonics",123,"Portland Trail Blazers",139,21,18,18
+1988-02-09,"New Jersey Nets",117,"Washington Bullets",126,14,23,23
+1988-02-10,"Washington Bullets",102,"Cleveland Cavaliers",118,23,4,4
+1988-02-10,"New York Knicks",87,"Detroit Pistons",98,15,7,7
+1988-02-10,"Phoenix Suns",95,"Los Angeles Clippers",101,17,11,11
+1988-02-10,"Chicago Bulls",84,"New Jersey Nets",93,3,14,14
+1988-02-10,"Boston Celtics",136,"San Antonio Spurs",120,2,20,2
+1988-02-10,"Dallas Mavericks",80,"Utah Jazz",93,5,22,22
+1988-02-11,"Los Angeles Lakers",120,"Denver Nuggets",108,12,6,12
+1988-02-11,"Indiana Pacers",108,"Golden State Warriors",107,10,8,10
+1988-02-11,"Milwaukee Bucks",113,"Philadelphia 76ers",119,13,16,16
+1988-02-11,"Portland Trail Blazers",113,"Sacramento Kings",123,18,19,19
+1988-02-11,"Houston Rockets",115,"Seattle SuperSonics",120,9,21,21
+1988-02-12,"New Jersey Nets",96,"Cleveland Cavaliers",98,14,4,4
+1988-02-12,"Boston Celtics",105,"Dallas Mavericks",104,2,5,2
+1988-02-12,"Atlanta Hawks",92,"Detroit Pistons",108,1,7,7
+1988-02-12,"Houston Rockets",112,"Los Angeles Clippers",105,9,11,9
+1988-02-12,"Chicago Bulls",95,"Milwaukee Bucks",93,3,13,3
+1988-02-12,"Indiana Pacers",107,"Phoenix Suns",102,10,17,10
+1988-02-12,"Denver Nuggets",105,"Portland Trail Blazers",120,6,18,18
+1988-02-12,"Los Angeles Lakers",133,"San Antonio Spurs",132,12,20,12
+1988-02-13,"Washington Bullets",103,"Atlanta Hawks",105,23,1,1
+1988-02-13,"Chicago Bulls",73,"Detroit Pistons",82,3,7,7
+1988-02-13,"Seattle SuperSonics",95,"Golden State Warriors",109,21,8,8
+1988-02-13,"Cleveland Cavaliers",103,"New York Knicks",120,4,15,15
+1988-02-13,"Phoenix Suns",116,"Sacramento Kings",114,17,19,17
+1988-02-14,"Utah Jazz",93,"Denver Nuggets",107,22,6,6
+1988-02-14,"Dallas Mavericks",110,"Los Angeles Clippers",100,5,11,5
+1988-02-14,"Boston Celtics",106,"Los Angeles Lakers",115,2,12,12
+1988-02-14,"Philadelphia 76ers",105,"New Jersey Nets",109,16,14,14
+1988-02-14,"Houston Rockets",115,"Portland Trail Blazers",103,9,18,9
+1988-02-15,"Atlanta Hawks",107,"Chicago Bulls",126,1,3,3
+1988-02-15,"Sacramento Kings",95,"Cleveland Cavaliers",104,19,4,4
+1988-02-15,"Philadelphia 76ers",95,"Detroit Pistons",102,16,7,7
+1988-02-15,"New Jersey Nets",96,"New York Knicks",97,14,15,15
+1988-02-15,"Boston Celtics",107,"Phoenix Suns",106,2,17,2
+1988-02-15,"Golden State Warriors",126,"San Antonio Spurs",122,8,20,8
+1988-02-15,"Dallas Mavericks",128,"Seattle SuperSonics",122,5,21,5
+1988-02-15,"Portland Trail Blazers",94,"Utah Jazz",112,18,22,22
+1988-02-15,"Milwaukee Bucks",114,"Washington Bullets",110,13,23,13
+1988-02-16,"Sacramento Kings",118,"Atlanta Hawks",115,19,1,19
+1988-02-16,"Golden State Warriors",116,"Houston Rockets",121,8,9,9
+1988-02-16,"New York Knicks",104,"Indiana Pacers",117,15,10,10
+1988-02-16,"Los Angeles Clippers",100,"Los Angeles Lakers",119,11,12,12
+1988-02-17,"Washington Bullets",108,"Dallas Mavericks",123,23,5,5
+1988-02-17,"Boston Celtics",125,"Denver Nuggets",138,2,6,6
+1988-02-17,"Portland Trail Blazers",110,"Los Angeles Clippers",96,18,11,18
+1988-02-17,"Seattle SuperSonics",93,"Milwaukee Bucks",115,21,13,13
+1988-02-17,"Cleveland Cavaliers",115,"Philadelphia 76ers",107,4,16,4
+1988-02-17,"Phoenix Suns",103,"Utah Jazz",108,17,22,22
+1988-02-18,"Seattle SuperSonics",95,"Detroit Pistons",108,21,7,7
+1988-02-18,"Los Angeles Lakers",111,"Houston Rockets",96,12,9,12
+1988-02-18,"Cleveland Cavaliers",83,"Indiana Pacers",88,4,10,10
+1988-02-18,"Sacramento Kings",104,"New York Knicks",108,19,15,15
+1988-02-18,"San Antonio Spurs",122,"Phoenix Suns",114,20,17,20
+1988-02-19,"Los Angeles Lakers",126,"Atlanta Hawks",119,12,1,12
+1988-02-19,"Sacramento Kings",90,"Chicago Bulls",111,19,3,3
+1988-02-19,"Golden State Warriors",100,"Dallas Mavericks",113,8,5,5
+1988-02-19,"Utah Jazz",98,"Los Angeles Clippers",88,22,11,22
+1988-02-19,"Detroit Pistons",108,"Milwaukee Bucks",119,7,13,13
+1988-02-19,"New Jersey Nets",100,"Philadelphia 76ers",115,14,16,16
+1988-02-19,"Boston Celtics",124,"Portland Trail Blazers",104,2,18,2
+1988-02-19,"Washington Bullets",106,"San Antonio Spurs",102,23,20,23
+1988-02-20,"Washington Bullets",109,"Houston Rockets",115,23,9,9
+1988-02-20,"Seattle SuperSonics",113,"New Jersey Nets",101,21,14,21
+1988-02-20,"Denver Nuggets",108,"Phoenix Suns",128,6,17,17
+1988-02-20,"Los Angeles Clippers",103,"Utah Jazz",120,11,22,22
+1988-02-21,"Seattle SuperSonics",113,"Atlanta Hawks",129,21,1,1
+1988-02-21,"Chicago Bulls",111,"Cleveland Cavaliers",113,3,4,4
+1988-02-21,"Sacramento Kings",112,"Indiana Pacers",130,19,10,10
+1988-02-21,"Detroit Pistons",110,"Los Angeles Lakers",117,7,12,12
+1988-02-21,"Philadelphia 76ers",115,"Milwaukee Bucks",120,16,13,13
+1988-02-21,"San Antonio Spurs",112,"Portland Trail Blazers",117,20,18,18
+1988-02-22,"New York Knicks",93,"Boston Celtics",95,15,2,2
+1988-02-22,"Phoenix Suns",107,"Dallas Mavericks",114,17,5,5
+1988-02-22,"Washington Bullets",87,"Denver Nuggets",100,23,6,6
+1988-02-22,"San Antonio Spurs",111,"Golden State Warriors",123,20,8,8
+1988-02-22,"Philadelphia 76ers",106,"Houston Rockets",119,16,9,9
+1988-02-23,"Indiana Pacers",111,"Atlanta Hawks",131,10,1,1
+1988-02-23,"Seattle SuperSonics",97,"Chicago Bulls",104,21,3,3
+1988-02-23,"Washington Bullets",100,"Los Angeles Lakers",111,23,12,12
+1988-02-23,"Portland Trail Blazers",114,"New Jersey Nets",102,18,14,18
+1988-02-23,"Milwaukee Bucks",87,"New York Knicks",89,13,15,15
+1988-02-23,"Detroit Pistons",121,"Sacramento Kings",105,7,19,7
+1988-02-24,"Portland Trail Blazers",112,"Boston Celtics",113,18,2,2
+1988-02-24,"Cleveland Cavaliers",89,"Dallas Mavericks",93,4,5,5
+1988-02-24,"Detroit Pistons",107,"Golden State Warriors",93,7,8,7
+1988-02-24,"Milwaukee Bucks",97,"Indiana Pacers",94,13,10,13
+1988-02-24,"Philadelphia 76ers",121,"San Antonio Spurs",123,16,20,20
+1988-02-24,"Denver Nuggets",123,"Utah Jazz",120,6,22,6
+1988-02-25,"Dallas Mavericks",108,"Houston Rockets",106,5,9,5
+1988-02-25,"New York Knicks",106,"Los Angeles Clippers",96,15,11,15
+1988-02-25,"Cleveland Cavaliers",103,"Phoenix Suns",109,4,17,17
+1988-02-25,"Washington Bullets",129,"Sacramento Kings",110,23,19,23
+1988-02-26,"Milwaukee Bucks",96,"Boston Celtics",132,13,2,2
+1988-02-26,"Portland Trail Blazers",104,"Chicago Bulls",96,18,3,18
+1988-02-26,"Philadelphia 76ers",104,"Denver Nuggets",120,16,6,6
+1988-02-26,"New Jersey Nets",109,"Detroit Pistons",137,14,7,7
+1988-02-26,"New York Knicks",125,"Golden State Warriors",119,15,8,15
+1988-02-26,"Atlanta Hawks",116,"Indiana Pacers",101,1,10,1
+1988-02-26,"Utah Jazz",105,"Los Angeles Lakers",112,22,12,12
+1988-02-26,"Houston Rockets",107,"San Antonio Spurs",111,9,20,20
+1988-02-26,"Sacramento Kings",130,"Seattle SuperSonics",133,19,21,21
+1988-02-27,"Portland Trail Blazers",123,"Atlanta Hawks",120,18,1,18
+1988-02-27,"Milwaukee Bucks",94,"Chicago Bulls",91,13,3,13
+1988-02-27,"Philadelphia 76ers",91,"Dallas Mavericks",100,16,5,5
+1988-02-27,"Cleveland Cavaliers",96,"Los Angeles Clippers",97,4,11,11
+1988-02-27,"Indiana Pacers",106,"New Jersey Nets",98,10,14,10
+1988-02-27,"Washington Bullets",116,"Phoenix Suns",106,23,17,23
+1988-02-27,"Golden State Warriors",111,"Seattle SuperSonics",114,8,21,21
+1988-02-28,"New York Knicks",100,"Denver Nuggets",109,15,6,6
+1988-02-28,"Boston Celtics",101,"Detroit Pistons",106,2,7,7
+1988-02-28,"San Antonio Spurs",95,"Houston Rockets",108,20,9,9
+1988-02-28,"Phoenix Suns",97,"Los Angeles Lakers",111,17,12,12
+1988-02-29,"Denver Nuggets",96,"Dallas Mavericks",123,6,5,5
+1988-02-29,"Washington Bullets",110,"Golden State Warriors",105,23,8,23
+1988-02-29,"Chicago Bulls",101,"Philadelphia 76ers",102,3,16,16
+1988-02-29,"Cleveland Cavaliers",94,"Portland Trail Blazers",107,4,18,18
+1988-02-29,"Utah Jazz",115,"Sacramento Kings",110,22,19,22
+1988-03-01,"Detroit Pistons",117,"Atlanta Hawks",104,7,1,7
+1988-03-01,"Boston Celtics",116,"Milwaukee Bucks",117,2,13,13
+1988-03-01,"Los Angeles Clippers",75,"New Jersey Nets",104,11,14,14
+1988-03-01,"Indiana Pacers",96,"New York Knicks",98,10,15,15
+1988-03-01,"Phoenix Suns",109,"San Antonio Spurs",114,17,20,20
+1988-03-01,"Los Angeles Lakers",100,"Seattle SuperSonics",114,12,21,21
+1988-03-01,"Houston Rockets",112,"Utah Jazz",113,9,22,22
+1988-03-02,"New Jersey Nets",117,"Boston Celtics",107,14,2,14
+1988-03-02,"Sacramento Kings",90,"Dallas Mavericks",115,19,5,5
+1988-03-02,"Cleveland Cavaliers",81,"Denver Nuggets",99,4,6,6
+1988-03-02,"Los Angeles Clippers",90,"Detroit Pistons",103,11,7,7
+1988-03-02,"Houston Rockets",108,"Golden State Warriors",101,9,8,9
+1988-03-02,"Indiana Pacers",102,"Washington Bullets",111,10,23,23
+1988-03-03,"Philadelphia 76ers",93,"Chicago Bulls",97,16,3,3
+1988-03-03,"Portland Trail Blazers",135,"Phoenix Suns",112,18,17,18
+1988-03-04,"Los Angeles Clippers",90,"Boston Celtics",121,11,2,2
+1988-03-04,"Houston Rockets",110,"Dallas Mavericks",118,9,5,5
+1988-03-04,"Phoenix Suns",108,"Denver Nuggets",116,17,6,6
+1988-03-04,"Washington Bullets",95,"Indiana Pacers",88,23,10,23
+1988-03-04,"Golden State Warriors",107,"Los Angeles Lakers",120,8,12,12
+1988-03-04,"Philadelphia 76ers",108,"New York Knicks",110,16,15,15
+1988-03-04,"Sacramento Kings",134,"San Antonio Spurs",132,19,20,19
+1988-03-04,"Utah Jazz",125,"Seattle SuperSonics",110,22,21,22
+1988-03-05,"Milwaukee Bucks",104,"Atlanta Hawks",101,13,1,13
+1988-03-05,"Los Angeles Clippers",76,"Chicago Bulls",100,11,3,3
+1988-03-05,"Sacramento Kings",94,"Houston Rockets",105,19,9,9
+1988-03-05,"New York Knicks",85,"New Jersey Nets",94,15,14,14
+1988-03-05,"Golden State Warriors",117,"Portland Trail Blazers",123,8,18,18
+1988-03-05,"Denver Nuggets",115,"Seattle SuperSonics",102,6,21,6
+1988-03-05,"San Antonio Spurs",106,"Utah Jazz",125,20,22,22
+1988-03-05,"Detroit Pistons",97,"Washington Bullets",101,7,23,23
+1988-03-06,"Cleveland Cavaliers",98,"Boston Celtics",127,4,2,2
+1988-03-06,"Los Angeles Lakers",108,"Dallas Mavericks",97,12,5,12
+1988-03-06,"Milwaukee Bucks",99,"Detroit Pistons",109,13,7,7
+1988-03-06,"Philadelphia 76ers",105,"Indiana Pacers",100,16,10,16
+1988-03-07,"Chicago Bulls",98,"New York Knicks",110,3,15,15
+1988-03-07,"Los Angeles Lakers",110,"Philadelphia 76ers",104,12,16,12
+1988-03-07,"Denver Nuggets",114,"Sacramento Kings",116,6,19,19
+1988-03-07,"New Jersey Nets",81,"Utah Jazz",105,14,22,22
+1988-03-08,"Phoenix Suns",113,"Atlanta Hawks",143,17,1,1
+1988-03-08,"Portland Trail Blazers",112,"Dallas Mavericks",110,18,5,18
+1988-03-08,"Houston Rockets",113,"Denver Nuggets",103,9,6,9
+1988-03-08,"Seattle SuperSonics",121,"Golden State Warriors",116,21,8,21
+1988-03-08,"Detroit Pistons",104,"Indiana Pacers",117,7,10,10
+1988-03-08,"San Antonio Spurs",101,"Milwaukee Bucks",119,20,13,13
+1988-03-09,"San Antonio Spurs",118,"Boston Celtics",119,20,2,2
+1988-03-09,"Milwaukee Bucks",91,"Cleveland Cavaliers",117,13,4,4
+1988-03-09,"Utah Jazz",98,"Detroit Pistons",103,22,7,7
+1988-03-09,"New Jersey Nets",97,"Los Angeles Clippers",93,14,11,14
+1988-03-09,"Los Angeles Lakers",104,"New York Knicks",99,12,15,12
+1988-03-09,"Seattle SuperSonics",106,"Sacramento Kings",97,21,19,21
+1988-03-09,"Phoenix Suns",111,"Washington Bullets",115,17,23,23
+1988-03-10,"Los Angeles Lakers",107,"Chicago Bulls",128,12,3,3
+1988-03-10,"New Jersey Nets",112,"Golden State Warriors",128,14,8,8
+1988-03-10,"Portland Trail Blazers",112,"Houston Rockets",109,18,9,18
+1988-03-11,"New York Knicks",115,"Atlanta Hawks",122,15,1,1
+1988-03-11,"Indiana Pacers",112,"Boston Celtics",122,10,2,2
+1988-03-11,"San Antonio Spurs",107,"Cleveland Cavaliers",117,20,4,4
+1988-03-11,"Phoenix Suns",88,"Detroit Pistons",116,17,7,7
+1988-03-11,"Golden State Warriors",101,"Los Angeles Clippers",96,8,11,8
+1988-03-11,"Denver Nuggets",93,"Milwaukee Bucks",132,6,13,13
+1988-03-11,"Sacramento Kings",118,"Philadelphia 76ers",124,19,16,16
+1988-03-11,"Utah Jazz",109,"Washington Bullets",107,22,23,22
+1988-03-12,"San Antonio Spurs",92,"Chicago Bulls",112,20,3,3
+1988-03-12,"Cleveland Cavaliers",100,"Detroit Pistons",104,4,7,7
+1988-03-12,"Dallas Mavericks",110,"Los Angeles Lakers",101,5,12,5
+1988-03-12,"Utah Jazz",105,"New York Knicks",108,22,15,15
+1988-03-13,"Atlanta Hawks",100,"Boston Celtics",117,1,2,2
+1988-03-13,"Golden State Warriors",112,"Houston Rockets",125,8,9,9
+1988-03-13,"Denver Nuggets",108,"Indiana Pacers",100,6,10,6
+1988-03-13,"Phoenix Suns",107,"Milwaukee Bucks",117,17,13,13
+1988-03-13,"Washington Bullets",96,"Philadelphia 76ers",104,23,16,16
+1988-03-13,"Los Angeles Clippers",100,"Portland Trail Blazers",121,11,18,18
+1988-03-13,"New Jersey Nets",102,"Seattle SuperSonics",115,14,21,21
+1988-03-14,"Golden State Warriors",101,"Dallas Mavericks",121,8,5,5
+1988-03-14,"Utah Jazz",116,"Denver Nuggets",115,22,6,22
+1988-03-14,"Sacramento Kings",97,"Detroit Pistons",109,19,7,7
+1988-03-14,"New Jersey Nets",105,"Los Angeles Lakers",115,14,12,12
+1988-03-14,"Cleveland Cavaliers",102,"New York Knicks",104,4,15,15
+1988-03-14,"San Antonio Spurs",106,"Washington Bullets",112,20,23,23
+1988-03-15,"Philadelphia 76ers",90,"Atlanta Hawks",104,16,1,1
+1988-03-15,"Cleveland Cavaliers",89,"Chicago Bulls",108,4,3,3
+1988-03-15,"Los Angeles Clippers",110,"Houston Rockets",116,11,9,9
+1988-03-15,"Boston Celtics",119,"Indiana Pacers",113,2,10,2
+1988-03-15,"Sacramento Kings",97,"Milwaukee Bucks",108,19,13,13
+1988-03-15,"Seattle SuperSonics",90,"Phoenix Suns",111,21,17,17
+1988-03-15,"Los Angeles Lakers",95,"Portland Trail Blazers",112,12,18,18
+1988-03-16,"Phoenix Suns",118,"Golden State Warriors",112,17,8,17
+1988-03-16,"Milwaukee Bucks",79,"New Jersey Nets",83,13,14,14
+1988-03-16,"New York Knicks",108,"Philadelphia 76ers",115,15,16,16
+1988-03-16,"Los Angeles Clippers",110,"San Antonio Spurs",113,11,20,20
+1988-03-16,"Dallas Mavericks",105,"Utah Jazz",120,5,22,22
+1988-03-16,"Chicago Bulls",103,"Washington Bullets",106,3,23,23
+1988-03-17,"Detroit Pistons",102,"Cleveland Cavaliers",99,7,4,7
+1988-03-17,"Portland Trail Blazers",115,"Denver Nuggets",116,18,6,6
+1988-03-17,"Seattle SuperSonics",106,"Houston Rockets",115,21,9,9
+1988-03-17,"Washington Bullets",95,"Indiana Pacers",99,23,10,10
+1988-03-18,"Boston Celtics",103,"Chicago Bulls",113,2,3,3
+1988-03-18,"Portland Trail Blazers",121,"Golden State Warriors",116,18,8,18
+1988-03-18,"Dallas Mavericks",106,"Los Angeles Clippers",98,5,11,5
+1988-03-18,"Atlanta Hawks",106,"New Jersey Nets",104,1,14,1
+1988-03-18,"Indiana Pacers",109,"Philadelphia 76ers",129,10,16,16
+1988-03-18,"Seattle SuperSonics",118,"San Antonio Spurs",110,21,20,21
+1988-03-18,"Denver Nuggets",111,"Utah Jazz",118,6,22,22
+1988-03-19,"Cleveland Cavaliers",100,"Milwaukee Bucks",101,4,13,13
+1988-03-19,"Atlanta Hawks",110,"New York Knicks",116,1,15,15
+1988-03-19,"Los Angeles Lakers",95,"Phoenix Suns",102,12,17,17
+1988-03-19,"Houston Rockets",104,"Sacramento Kings",121,9,19,19
+1988-03-19,"Utah Jazz",110,"San Antonio Spurs",113,22,20,20
+1988-03-19,"Philadelphia 76ers",94,"Washington Bullets",89,16,23,16
+1988-03-20,"Chicago Bulls",107,"Boston Celtics",137,3,2,2
+1988-03-20,"Seattle SuperSonics",95,"Denver Nuggets",108,21,6,6
+1988-03-20,"Washington Bullets",110,"Detroit Pistons",118,23,7,7
+1988-03-20,"Los Angeles Lakers",130,"Golden State Warriors",127,12,8,12
+1988-03-20,"Sacramento Kings",112,"Los Angeles Clippers",116,19,11,11
+1988-03-20,"Indiana Pacers",102,"New Jersey Nets",96,10,14,10
+1988-03-20,"Dallas Mavericks",99,"Portland Trail Blazers",105,5,18,18
+1988-03-21,"Milwaukee Bucks",105,"Atlanta Hawks",115,13,1,1
+1988-03-21,"Los Angeles Clippers",99,"Phoenix Suns",107,11,17,17
+1988-03-21,"New York Knicks",133,"San Antonio Spurs",121,15,20,15
+1988-03-22,"New York Knicks",105,"Dallas Mavericks",124,15,5,5
+1988-03-22,"San Antonio Spurs",109,"Denver Nuggets",136,20,6,6
+1988-03-22,"Indiana Pacers",104,"Detroit Pistons",123,10,7,7
+1988-03-22,"Houston Rockets",95,"Los Angeles Lakers",117,9,12,12
+1988-03-22,"Atlanta Hawks",98,"Milwaukee Bucks",111,1,13,13
+1988-03-22,"Philadelphia 76ers",90,"New Jersey Nets",102,16,14,14
+1988-03-22,"Phoenix Suns",96,"Utah Jazz",103,17,22,22
+1988-03-23,"Washington Bullets",89,"Boston Celtics",104,23,2,2
+1988-03-23,"New Jersey Nets",96,"Cleveland Cavaliers",105,14,4,4
+1988-03-23,"Sacramento Kings",118,"Golden State Warriors",126,19,8,8
+1988-03-23,"Denver Nuggets",118,"Los Angeles Clippers",108,6,11,6
+1988-03-23,"Chicago Bulls",118,"Philadelphia 76ers",102,3,16,3
+1988-03-23,"Portland Trail Blazers",108,"Seattle SuperSonics",118,18,21,21
+1988-03-24,"New York Knicks",117,"Houston Rockets",134,15,9,9
+1988-03-24,"Milwaukee Bucks",114,"Phoenix Suns",119,13,17,17
+1988-03-24,"Sacramento Kings",97,"Utah Jazz",117,19,22,22
+1988-03-24,"Atlanta Hawks",91,"Washington Bullets",94,1,23,23
+1988-03-25,"Philadelphia 76ers",97,"Boston Celtics",93,16,2,16
+1988-03-25,"Chicago Bulls",111,"Cleveland Cavaliers",110,3,4,3
+1988-03-25,"Portland Trail Blazers",101,"Dallas Mavericks",106,18,5,5
+1988-03-25,"New Jersey Nets",100,"Indiana Pacers",101,14,10,10
+1988-03-25,"Golden State Warriors",98,"Los Angeles Clippers",113,8,11,11
+1988-03-25,"Denver Nuggets",120,"Los Angeles Lakers",119,6,12,6
+1988-03-25,"Detroit Pistons",106,"San Antonio Spurs",107,7,20,20
+1988-03-26,"Cleveland Cavaliers",102,"Atlanta Hawks",109,4,1,1
+1988-03-26,"Indiana Pacers",100,"Chicago Bulls",109,10,3,3
+1988-03-26,"San Antonio Spurs",112,"Dallas Mavericks",131,20,5,5
+1988-03-26,"Denver Nuggets",131,"Golden State Warriors",108,6,8,6
+1988-03-26,"Portland Trail Blazers",109,"Houston Rockets",115,18,9,9
+1988-03-26,"Boston Celtics",118,"New York Knicks",106,2,15,2
+1988-03-26,"Detroit Pistons",108,"Phoenix Suns",103,7,17,7
+1988-03-26,"Los Angeles Lakers",92,"Sacramento Kings",114,12,19,19
+1988-03-26,"Los Angeles Clippers",98,"Seattle SuperSonics",131,11,21,21
+1988-03-26,"Milwaukee Bucks",107,"Utah Jazz",105,13,22,13
+1988-03-26,"New Jersey Nets",88,"Washington Bullets",99,14,23,23
+1988-03-28,"Detroit Pistons",100,"Los Angeles Clippers",102,7,11,11
+1988-03-28,"Boston Celtics",106,"New Jersey Nets",105,2,14,2
+1988-03-28,"Dallas Mavericks",106,"New York Knicks",114,5,15,15
+1988-03-28,"Houston Rockets",98,"Philadelphia 76ers",108,9,16,16
+1988-03-29,"Dallas Mavericks",106,"Atlanta Hawks",120,5,1,1
+1988-03-29,"New York Knicks",103,"Cleveland Cavaliers",108,15,4,4
+1988-03-29,"Utah Jazz",111,"Los Angeles Lakers",122,22,12,12
+1988-03-29,"Denver Nuggets",107,"Sacramento Kings",103,6,19,6
+1988-03-29,"Portland Trail Blazers",136,"San Antonio Spurs",113,18,20,18
+1988-03-29,"Chicago Bulls",103,"Seattle SuperSonics",106,3,21,21
+1988-03-30,"Houston Rockets",110,"Boston Celtics",117,9,2,2
+1988-03-30,"Atlanta Hawks",103,"Detroit Pistons",102,1,7,1
+1988-03-30,"Chicago Bulls",111,"Los Angeles Clippers",94,3,11,3
+1988-03-30,"Milwaukee Bucks",109,"Philadelphia 76ers",134,13,16,16
+1988-03-30,"Golden State Warriors",105,"Phoenix Suns",123,8,17,17
+1988-03-30,"Cleveland Cavaliers",107,"Washington Bullets",96,4,23,4
+1988-03-31,"Sacramento Kings",111,"Denver Nuggets",121,19,6,6
+1988-03-31,"Houston Rockets",102,"Indiana Pacers",100,9,10,9
+1988-03-31,"New York Knicks",113,"Milwaukee Bucks",103,15,13,15
+1988-03-31,"San Antonio Spurs",117,"Seattle SuperSonics",115,20,21,20
+1988-03-31,"Golden State Warriors",92,"Utah Jazz",115,8,22,22
+1988-04-01,"Detroit Pistons",110,"Boston Celtics",121,7,2,2
+1988-04-01,"San Antonio Spurs",105,"Los Angeles Clippers",91,20,11,20
+1988-04-01,"Atlanta Hawks",105,"Philadelphia 76ers",93,1,16,1
+1988-04-01,"Chicago Bulls",116,"Portland Trail Blazers",101,3,18,3
+1988-04-01,"Dallas Mavericks",103,"Washington Bullets",118,5,23,23
+1988-04-02,"Indiana Pacers",94,"Cleveland Cavaliers",108,10,4,4
+1988-04-02,"Golden State Warriors",107,"Denver Nuggets",123,8,6,6
+1988-04-02,"New Jersey Nets",111,"Milwaukee Bucks",125,14,13,13
+1988-04-02,"Houston Rockets",98,"New York Knicks",104,9,15,15
+1988-04-02,"Los Angeles Clippers",105,"Sacramento Kings",103,11,19,11
+1988-04-02,"Phoenix Suns",107,"Seattle SuperSonics",151,17,21,21
+1988-04-02,"Los Angeles Lakers",92,"Utah Jazz",106,12,22,22
+1988-04-03,"Dallas Mavericks",101,"Boston Celtics",110,5,2,2
+1988-04-03,"Chicago Bulls",112,"Detroit Pistons",110,3,7,3
+1988-04-03,"Atlanta Hawks",102,"Indiana Pacers",100,1,10,1
+1988-04-03,"Sacramento Kings",104,"Los Angeles Lakers",108,19,12,12
+1988-04-03,"Washington Bullets",105,"New Jersey Nets",103,23,14,23
+1988-04-03,"San Antonio Spurs",107,"Portland Trail Blazers",110,20,18,18
+1988-04-05,"Milwaukee Bucks",110,"Atlanta Hawks",121,13,1,1
+1988-04-05,"Washington Bullets",105,"Chicago Bulls",94,23,3,23
+1988-04-05,"San Antonio Spurs",117,"Golden State Warriors",104,20,8,20
+1988-04-05,"Denver Nuggets",110,"Houston Rockets",97,6,9,6
+1988-04-05,"Cleveland Cavaliers",105,"Indiana Pacers",106,4,10,10
+1988-04-05,"Seattle SuperSonics",90,"Los Angeles Lakers",94,21,12,12
+1988-04-05,"Detroit Pistons",107,"New Jersey Nets",95,7,14,7
+1988-04-05,"New York Knicks",136,"Philadelphia 76ers",119,15,16,15
+1988-04-05,"Utah Jazz",106,"Phoenix Suns",111,22,17,17
+1988-04-05,"Los Angeles Clippers",119,"Portland Trail Blazers",141,11,18,18
+1988-04-06,"Washington Bullets",87,"Cleveland Cavaliers",98,23,4,4
+1988-04-06,"Phoenix Suns",93,"Dallas Mavericks",119,17,5,5
+1988-04-06,"Portland Trail Blazers",111,"Los Angeles Clippers",103,18,11,18
+1988-04-06,"Chicago Bulls",119,"Milwaukee Bucks",110,3,13,3
+1988-04-06,"San Antonio Spurs",109,"Sacramento Kings",115,20,19,19
+1988-04-06,"Golden State Warriors",102,"Seattle SuperSonics",114,8,21,21
+1988-04-07,"New Jersey Nets",94,"Atlanta Hawks",120,14,1,1
+1988-04-07,"Utah Jazz",107,"Houston Rockets",113,22,9,9
+1988-04-08,"New Jersey Nets",90,"Boston Celtics",127,14,2,2
+1988-04-08,"New York Knicks",122,"Chicago Bulls",131,15,3,3
+1988-04-08,"Milwaukee Bucks",85,"Cleveland Cavaliers",104,13,4,4
+1988-04-08,"Utah Jazz",95,"Dallas Mavericks",118,22,5,5
+1988-04-08,"Phoenix Suns",111,"Golden State Warriors",112,17,8,8
+1988-04-08,"Los Angeles Clippers",107,"Los Angeles Lakers",126,11,12,12
+1988-04-08,"Detroit Pistons",96,"Philadelphia 76ers",86,7,16,7
+1988-04-08,"Denver Nuggets",129,"San Antonio Spurs",124,6,20,6
+1988-04-08,"Portland Trail Blazers",100,"Seattle SuperSonics",114,18,21,21
+1988-04-08,"Indiana Pacers",100,"Washington Bullets",107,10,23,23
+1988-04-09,"Detroit Pistons",115,"Atlanta Hawks",102,7,1,7
+1988-04-09,"Denver Nuggets",109,"Dallas Mavericks",135,6,5,5
+1988-04-09,"Indiana Pacers",100,"Milwaukee Bucks",105,10,13,13
+1988-04-09,"Sacramento Kings",92,"Phoenix Suns",95,19,17,17
+1988-04-09,"Los Angeles Lakers",109,"Portland Trail Blazers",119,12,18,18
+1988-04-09,"Houston Rockets",108,"Seattle SuperSonics",104,9,21,9
+1988-04-10,"Houston Rockets",105,"Los Angeles Clippers",122,9,11,11
+1988-04-10,"Cleveland Cavaliers",119,"New Jersey Nets",105,4,14,4
+1988-04-10,"Boston Celtics",117,"Philadelphia 76ers",108,2,16,2
+1988-04-10,"Golden State Warriors",115,"Sacramento Kings",121,8,19,19
+1988-04-10,"New York Knicks",118,"Washington Bullets",98,15,23,15
+1988-04-11,"Washington Bullets",86,"Atlanta Hawks",85,23,1,23
+1988-04-11,"Utah Jazz",113,"Golden State Warriors",102,22,8,22
+1988-04-11,"New Jersey Nets",93,"Indiana Pacers",95,14,10,10
+1988-04-11,"Philadelphia 76ers",115,"Milwaukee Bucks",102,16,13,16
+1988-04-11,"Detroit Pistons",111,"New York Knicks",114,7,15,15
+1988-04-11,"Denver Nuggets",123,"Phoenix Suns",119,6,17,6
+1988-04-12,"Atlanta Hawks",103,"Cleveland Cavaliers",116,1,4,4
+1988-04-12,"Portland Trail Blazers",103,"Los Angeles Lakers",109,18,12,12
+1988-04-12,"Dallas Mavericks",104,"Sacramento Kings",96,5,19,5
+1988-04-12,"Houston Rockets",119,"San Antonio Spurs",127,9,20,20
+1988-04-12,"Los Angeles Clippers",93,"Utah Jazz",100,11,22,22
+1988-04-13,"Milwaukee Bucks",104,"Boston Celtics",123,13,2,2
+1988-04-13,"Los Angeles Lakers",106,"Denver Nuggets",120,12,6,6
+1988-04-13,"Cleveland Cavaliers",98,"Detroit Pistons",115,4,7,7
+1988-04-13,"Dallas Mavericks",110,"Golden State Warriors",112,5,8,8
+1988-04-13,"Indiana Pacers",107,"New York Knicks",127,10,15,15
+1988-04-13,"Washington Bullets",97,"Philadelphia 76ers",98,23,16,16
+1988-04-13,"San Antonio Spurs",116,"Phoenix Suns",123,20,17,17
+1988-04-13,"Los Angeles Clippers",92,"Seattle SuperSonics",113,11,21,21
+1988-04-14,"Sacramento Kings",105,"Houston Rockets",123,19,9,9
+1988-04-14,"Chicago Bulls",116,"Indiana Pacers",110,3,10,3
+1988-04-14,"Portland Trail Blazers",128,"Utah Jazz",123,18,22,18
+1988-04-15,"Boston Celtics",109,"Cleveland Cavaliers",120,2,4,4
+1988-04-15,"Houston Rockets",125,"Denver Nuggets",132,9,6,6
+1988-04-15,"Milwaukee Bucks",91,"Detroit Pistons",92,13,7,7
+1988-04-15,"Phoenix Suns",114,"Los Angeles Lakers",117,17,12,12
+1988-04-15,"Chicago Bulls",100,"New Jersey Nets",99,3,14,3
+1988-04-15,"Washington Bullets",106,"New York Knicks",97,23,15,23
+1988-04-15,"Atlanta Hawks",103,"Philadelphia 76ers",101,1,16,1
+1988-04-15,"Golden State Warriors",113,"Portland Trail Blazers",147,8,18,18
+1988-04-15,"Sacramento Kings",112,"San Antonio Spurs",116,19,20,20
+1988-04-15,"Dallas Mavericks",88,"Seattle SuperSonics",115,5,21,21
+1988-04-16,"New York Knicks",95,"Atlanta Hawks",93,15,1,15
+1988-04-16,"New Jersey Nets",96,"Detroit Pistons",114,14,7,7
+1988-04-16,"Los Angeles Clippers",110,"Golden State Warriors",113,11,8,8
+1988-04-16,"Philadelphia 76ers",92,"Indiana Pacers",126,16,10,10
+1988-04-16,"Seattle SuperSonics",119,"Phoenix Suns",121,21,17,17
+1988-04-16,"San Antonio Spurs",82,"Utah Jazz",107,20,22,22
+1988-04-17,"Milwaukee Bucks",97,"Chicago Bulls",105,13,3,3
+1988-04-17,"Dallas Mavericks",122,"Denver Nuggets",133,5,6,6
+1988-04-17,"Los Angeles Lakers",119,"Houston Rockets",127,12,9,9
+1988-04-17,"Sacramento Kings",102,"Portland Trail Blazers",112,19,18,18
+1988-04-17,"Boston Celtics",92,"Washington Bullets",98,2,23,23
+1988-04-18,"Indiana Pacers",107,"Cleveland Cavaliers",112,10,4,4
+1988-04-19,"Detroit Pistons",110,"Boston Celtics",121,7,2,2
+1988-04-19,"Seattle SuperSonics",114,"Denver Nuggets",134,21,6,6
+1988-04-19,"Dallas Mavericks",104,"Houston Rockets",96,5,9,5
+1988-04-19,"Atlanta Hawks",119,"New Jersey Nets",109,1,14,1
+1988-04-19,"Chicago Bulls",121,"New York Knicks",118,3,15,3
+1988-04-19,"Milwaukee Bucks",102,"Philadelphia 76ers",115,13,16,16
+1988-04-19,"Golden State Warriors",107,"Phoenix Suns",122,8,17,17
+1988-04-19,"Utah Jazz",129,"Portland Trail Blazers",122,22,18,22
+1988-04-19,"Los Angeles Clippers",105,"Sacramento Kings",120,11,19,19
+1988-04-19,"Los Angeles Lakers",133,"San Antonio Spurs",126,12,20,12
+1988-04-20,"Indiana Pacers",116,"Atlanta Hawks",98,10,1,10
+1988-04-20,"Los Angeles Lakers",114,"Dallas Mavericks",107,12,5,12
+1988-04-20,"Portland Trail Blazers",131,"Golden State Warriors",117,18,8,18
+1988-04-20,"Utah Jazz",112,"Los Angeles Clippers",106,22,11,22
+1988-04-20,"Washington Bullets",94,"Milwaukee Bucks",132,23,13,13
+1988-04-20,"Phoenix Suns",98,"Seattle SuperSonics",121,17,21,21
+1988-04-21,"Chicago Bulls",119,"Boston Celtics",126,3,2,2
+1988-04-21,"San Antonio Spurs",117,"Houston Rockets",116,20,9,20
+1988-04-21,"New Jersey Nets",101,"Philadelphia 76ers",104,14,16,16
+1988-04-21,"Detroit Pistons",99,"Washington Bullets",87,7,23,7
+1988-04-22,"Boston Celtics",106,"Atlanta Hawks",133,2,1,1
+1988-04-22,"Cleveland Cavaliers",107,"Chicago Bulls",103,4,3,4
+1988-04-22,"San Antonio Spurs",96,"Dallas Mavericks",127,20,5,5
+1988-04-22,"Indiana Pacers",103,"Detroit Pistons",98,10,7,10
+1988-04-22,"Sacramento Kings",117,"Golden State Warriors",109,19,8,19
+1988-04-22,"New York Knicks",109,"Milwaukee Bucks",118,15,13,13
+1988-04-22,"Los Angeles Lakers",117,"Phoenix Suns",112,12,17,12
+1988-04-22,"Denver Nuggets",135,"Portland Trail Blazers",141,6,18,18
+1988-04-22,"Utah Jazz",110,"Seattle SuperSonics",109,22,21,22
+1988-04-23,"Philadelphia 76ers",99,"Cleveland Cavaliers",104,16,4,4
+1988-04-23,"Los Angeles Clippers",109,"Denver Nuggets",134,11,6,6
+1988-04-23,"New York Knicks",88,"Indiana Pacers",86,15,10,15
+1988-04-23,"Milwaukee Bucks",105,"New Jersey Nets",118,13,14,14
+1988-04-23,"Portland Trail Blazers",124,"Sacramento Kings",110,18,19,18
+1988-04-23,"Houston Rockets",107,"Utah Jazz",125,9,22,22
+1988-04-23,"Atlanta Hawks",96,"Washington Bullets",106,1,23,23
+1988-04-24,"Boston Celtics",108,"Chicago Bulls",115,2,3,3
+1988-04-24,"Philadelphia 76ers",118,"Detroit Pistons",128,16,7,7
+1988-04-24,"Phoenix Suns",119,"Houston Rockets",127,17,9,9
+1988-04-24,"Seattle SuperSonics",109,"Los Angeles Clippers",100,21,11,21
+1988-04-24,"Golden State Warriors",100,"Los Angeles Lakers",136,8,12,12
+1988-04-24,"Dallas Mavericks",119,"San Antonio Spurs",109,5,20,5

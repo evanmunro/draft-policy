@@ -1,0 +1,944 @@
+"Date","HTeam","HScore","ATeam","AScore","hID","aID","win"
+1984-10-26,"Washington Bullets",93,"Chicago Bulls",109,23,3,3
+1984-10-26,"Utah Jazz",94,"Seattle SuperSonics",102,22,21,21
+1984-10-26,"Cleveland Cavaliers",101,"Philadelphia 76ers",111,4,17,17
+1984-10-26,"Atlanta Hawks",119,"New Jersey Nets",104,1,15,1
+1984-10-26,"Phoenix Suns",122,"Golden State Warriors",114,18,8,18
+1984-10-26,"Boston Celtics",130,"Detroit Pistons",123,2,7,2
+1984-10-27,"Los Angeles Clippers",103,"Utah Jazz",94,12,22,12
+1984-10-27,"Los Angeles Lakers",112,"San Antonio Spurs",113,13,20,20
+1984-10-27,"Detroit Pistons",118,"New York Knicks",137,7,16,16
+1984-10-27,"Chicago Bulls",106,"Milwaukee Bucks",108,3,14,14
+1984-10-27,"Portland Trail Blazers",140,"Kansas City Kings",119,19,11,19
+1984-10-27,"Washington Bullets",104,"Indiana Pacers",102,23,10,23
+1984-10-27,"Golden State Warriors",121,"Denver Nuggets",125,8,6,6
+1984-10-27,"Houston Rockets",121,"Dallas Mavericks",111,9,5,9
+1984-10-27,"New Jersey Nets",131,"Cleveland Cavaliers",106,15,4,15
+1984-10-27,"Philadelphia 76ers",111,"Atlanta Hawks",108,17,1,17
+1984-10-28,"Phoenix Suns",102,"Seattle SuperSonics",87,18,21,18
+1984-10-28,"Los Angeles Lakers",96,"Dallas Mavericks",107,13,5,5
+1984-10-29,"Milwaukee Bucks",110,"Chicago Bulls",116,14,3,3
+1984-10-30,"Atlanta Hawks",104,"Washington Bullets",119,1,23,23
+1984-10-30,"New York Knicks",111,"Utah Jazz",117,16,22,22
+1984-10-30,"Denver Nuggets",118,"San Antonio Spurs",126,6,20,20
+1984-10-30,"Seattle SuperSonics",83,"Portland Trail Blazers",115,21,19,19
+1984-10-30,"Los Angeles Clippers",96,"Phoenix Suns",99,12,18,18
+1984-10-30,"Philadelphia 76ers",118,"New Jersey Nets",96,17,15,17
+1984-10-30,"Golden State Warriors",110,"Los Angeles Lakers",144,8,13,13
+1984-10-30,"Chicago Bulls",109,"Kansas City Kings",104,3,11,3
+1984-10-30,"Dallas Mavericks",84,"Houston Rockets",106,5,9,9
+1984-10-30,"Cleveland Cavaliers",107,"Detroit Pistons",124,4,7,7
+1984-10-31,"New Jersey Nets",105,"Boston Celtics",116,15,2,2
+1984-10-31,"Dallas Mavericks",101,"Indiana Pacers",100,5,10,5
+1984-10-31,"Washington Bullets",79,"Milwaukee Bucks",105,23,14,14
+1984-11-01,"Detroit Pistons",118,"Atlanta Hawks",114,7,1,7
+1984-11-01,"Chicago Bulls",113,"Denver Nuggets",129,3,6,6
+1984-11-01,"San Antonio Spurs",123,"Golden State Warriors",108,20,8,20
+1984-11-01,"Houston Rockets",109,"Kansas City Kings",106,9,11,9
+1984-11-01,"New York Knicks",105,"Los Angeles Clippers",107,16,12,12
+1984-11-01,"Portland Trail Blazers",130,"Phoenix Suns",139,19,18,18
+1984-11-01,"Los Angeles Lakers",103,"Seattle SuperSonics",105,13,21,21
+1984-11-02,"Detroit Pistons",116,"Boston Celtics",127,7,2,2
+1984-11-02,"Indiana Pacers",116,"Cleveland Cavaliers",109,10,4,10
+1984-11-02,"San Antonio Spurs",100,"Los Angeles Lakers",119,20,13,13
+1984-11-02,"Dallas Mavericks",103,"Philadelphia 76ers",107,5,17,17
+1984-11-02,"Seattle SuperSonics",101,"Utah Jazz",107,21,22,22
+1984-11-02,"Milwaukee Bucks",102,"Washington Bullets",96,14,23,14
+1984-11-03,"Washington Bullets",107,"Atlanta Hawks",127,23,1,1
+1984-11-03,"Phoenix Suns",105,"Dallas Mavericks",93,18,5,18
+1984-11-03,"Utah Jazz",107,"Golden State Warriors",112,22,8,8
+1984-11-03,"New York Knicks",93,"Houston Rockets",105,16,9,9
+1984-11-03,"Denver Nuggets",128,"Kansas City Kings",114,6,11,6
+1984-11-03,"Portland Trail Blazers",131,"Los Angeles Clippers",112,19,12,19
+1984-11-03,"Cleveland Cavaliers",88,"Milwaukee Bucks",117,4,14,14
+1984-11-03,"Indiana Pacers",117,"New Jersey Nets",118,10,15,15
+1984-11-04,"Portland Trail Blazers",116,"Los Angeles Lakers",124,19,13,13
+1984-11-04,"New York Knicks",130,"San Antonio Spurs",131,16,20,20
+1984-11-05,"Detroit Pistons",107,"Cleveland Cavaliers",98,7,4,7
+1984-11-05,"Denver Nuggets",104,"Los Angeles Clippers",107,6,12,12
+1984-11-06,"New York Knicks",104,"Dallas Mavericks",107,16,5,5
+1984-11-06,"Kansas City Kings",94,"Houston Rockets",108,11,9,9
+1984-11-06,"Denver Nuggets",146,"Los Angeles Lakers",130,6,13,6
+1984-11-06,"Phoenix Suns",99,"Portland Trail Blazers",116,18,19,19
+1984-11-06,"Seattle SuperSonics",91,"San Antonio Spurs",99,21,20,20
+1984-11-07,"Los Angeles Clippers",108,"Boston Celtics",135,12,2,2
+1984-11-07,"Chicago Bulls",122,"Detroit Pistons",118,3,7,3
+1984-11-07,"Atlanta Hawks",99,"Milwaukee Bucks",103,1,14,14
+1984-11-07,"Washington Bullets",88,"New Jersey Nets",99,23,15,15
+1984-11-07,"Indiana Pacers",113,"Philadelphia 76ers",134,10,17,17
+1984-11-07,"San Antonio Spurs",124,"Utah Jazz",136,20,22,22
+1984-11-08,"Atlanta Hawks",105,"Dallas Mavericks",112,1,5,5
+1984-11-08,"Portland Trail Blazers",125,"Denver Nuggets",128,19,6,6
+1984-11-08,"Los Angeles Lakers",106,"Golden State Warriors",122,13,8,8
+1984-11-08,"Seattle SuperSonics",89,"Houston Rockets",99,21,9,9
+1984-11-08,"Chicago Bulls",121,"New York Knicks",106,3,16,3
+1984-11-08,"Cleveland Cavaliers",111,"Phoenix Suns",112,4,18,18
+1984-11-08,"Los Angeles Clippers",88,"Washington Bullets",93,12,23,23
+1984-11-09,"Philadelphia 76ers",119,"Boston Celtics",130,17,2,2
+1984-11-09,"Indiana Pacers",105,"Milwaukee Bucks",122,10,14,14
+1984-11-09,"Kansas City Kings",101,"New Jersey Nets",99,11,15,11
+1984-11-09,"Los Angeles Lakers",130,"Portland Trail Blazers",126,13,19,13
+1984-11-09,"Golden State Warriors",117,"Utah Jazz",125,8,22,22
+1984-11-10,"Seattle SuperSonics",102,"Dallas Mavericks",106,21,5,5
+1984-11-10,"Utah Jazz",135,"Denver Nuggets",147,22,6,6
+1984-11-10,"Milwaukee Bucks",100,"Detroit Pistons",104,14,7,7
+1984-11-10,"Los Angeles Clippers",92,"Houston Rockets",117,12,9,9
+1984-11-10,"Chicago Bulls",118,"Indiana Pacers",116,3,10,3
+1984-11-10,"Kansas City Kings",100,"New York Knicks",113,11,16,16
+1984-11-10,"Atlanta Hawks",114,"Phoenix Suns",107,1,18,1
+1984-11-10,"Cleveland Cavaliers",103,"San Antonio Spurs",127,4,20,20
+1984-11-10,"Boston Celtics",95,"Washington Bullets",112,2,23,23
+1984-11-11,"New Jersey Nets",111,"Los Angeles Lakers",121,15,13,13
+1984-11-11,"Golden State Warriors",97,"Portland Trail Blazers",109,8,19,19
+1984-11-12,"Boston Celtics",132,"Indiana Pacers",115,2,10,2
+1984-11-12,"Dallas Mavericks",97,"Utah Jazz",123,5,22,22
+1984-11-13,"Milwaukee Bucks",110,"Atlanta Hawks",99,14,1,14
+1984-11-13,"San Antonio Spurs",117,"Chicago Bulls",120,20,3,3
+1984-11-13,"Phoenix Suns",110,"Denver Nuggets",122,18,6,6
+1984-11-13,"Cleveland Cavaliers",98,"Houston Rockets",106,4,9,9
+1984-11-13,"New Jersey Nets",99,"Los Angeles Clippers",90,15,12,15
+1984-11-13,"Washington Bullets",103,"New York Knicks",92,23,16,23
+1984-11-13,"Dallas Mavericks",101,"Portland Trail Blazers",94,5,19,5
+1984-11-13,"Golden State Warriors",102,"Seattle SuperSonics",109,8,21,21
+1984-11-14,"New York Knicks",99,"Boston Celtics",115,16,2,2
+1984-11-14,"Houston Rockets",117,"Indiana Pacers",125,9,10,10
+1984-11-14,"Detroit Pistons",137,"Philadelphia 76ers",133,7,17,7
+1984-11-14,"New Jersey Nets",86,"Phoenix Suns",98,15,18,18
+1984-11-14,"San Antonio Spurs",106,"Washington Bullets",125,20,23,23
+1984-11-15,"Cleveland Cavaliers",102,"Atlanta Hawks",99,4,1,4
+1984-11-15,"Boston Celtics",125,"Chicago Bulls",105,2,3,2
+1984-11-15,"Dallas Mavericks",112,"Golden State Warriors",117,5,8,8
+1984-11-15,"Milwaukee Bucks",103,"Los Angeles Clippers",90,14,12,14
+1984-11-15,"Utah Jazz",120,"Portland Trail Blazers",129,22,19,19
+1984-11-16,"Houston Rockets",102,"Denver Nuggets",119,9,6,6
+1984-11-16,"Philadelphia 76ers",101,"Detroit Pistons",90,17,7,17
+1984-11-16,"San Antonio Spurs",117,"Indiana Pacers",128,20,10,10
+1984-11-16,"Kansas City Kings",116,"Los Angeles Lakers",128,11,13,13
+1984-11-16,"Milwaukee Bucks",106,"Phoenix Suns",118,14,18,18
+1984-11-16,"Portland Trail Blazers",89,"Seattle SuperSonics",91,19,21,21
+1984-11-16,"New York Knicks",104,"Washington Bullets",118,16,23,23
+1984-11-17,"Indiana Pacers",108,"Atlanta Hawks",118,10,1,1
+1984-11-17,"Philadelphia 76ers",109,"Chicago Bulls",100,17,3,17
+1984-11-17,"Detroit Pistons",124,"Dallas Mavericks",110,7,5,7
+1984-11-17,"New Jersey Nets",131,"Golden State Warriors",114,15,8,15
+1984-11-17,"San Antonio Spurs",133,"Houston Rockets",141,20,9,9
+1984-11-17,"Kansas City Kings",113,"Los Angeles Clippers",121,11,12,12
+1984-11-17,"Cleveland Cavaliers",88,"New York Knicks",112,4,16,16
+1984-11-17,"Phoenix Suns",94,"Utah Jazz",108,18,22,22
+1984-11-18,"Milwaukee Bucks",89,"Los Angeles Lakers",96,14,13,13
+1984-11-18,"Los Angeles Clippers",105,"Portland Trail Blazers",113,12,19,19
+1984-11-18,"New Jersey Nets",102,"Seattle SuperSonics",97,15,21,15
+1984-11-19,"Indiana Pacers",137,"Chicago Bulls",120,10,3,10
+1984-11-20,"Milwaukee Bucks",108,"Dallas Mavericks",109,14,5,5
+1984-11-20,"Detroit Pistons",117,"Houston Rockets",123,7,9,9
+1984-11-20,"Utah Jazz",122,"Kansas City Kings",129,22,11,11
+1984-11-20,"Phoenix Suns",108,"Los Angeles Lakers",130,18,13,13
+1984-11-20,"Golden State Warriors",101,"New York Knicks",106,8,16,16
+1984-11-20,"Washington Bullets",120,"Philadelphia 76ers",105,23,17,23
+1984-11-20,"New Jersey Nets",107,"Portland Trail Blazers",117,15,19,19
+1984-11-20,"Denver Nuggets",124,"Seattle SuperSonics",114,6,21,6
+1984-11-21,"Utah Jazz",90,"Atlanta Hawks",122,22,1,1
+1984-11-21,"Golden State Warriors",91,"Boston Celtics",135,8,2,2
+1984-11-21,"New York Knicks",109,"Cleveland Cavaliers",101,16,4,16
+1984-11-21,"Philadelphia 76ers",112,"Indiana Pacers",107,17,10,17
+1984-11-21,"Denver Nuggets",112,"Los Angeles Clippers",106,6,12,6
+1984-11-21,"Chicago Bulls",98,"Milwaukee Bucks",108,3,14,14
+1984-11-21,"Los Angeles Lakers",102,"Phoenix Suns",97,13,18,13
+1984-11-21,"Detroit Pistons",114,"San Antonio Spurs",101,7,20,7
+1984-11-21,"Kansas City Kings",92,"Washington Bullets",97,11,23,23
+1984-11-23,"Washington Bullets",110,"Boston Celtics",118,23,2,2
+1984-11-23,"Golden State Warriors",107,"Cleveland Cavaliers",106,8,4,8
+1984-11-23,"New York Knicks",120,"Detroit Pistons",97,16,7,16
+1984-11-23,"Kansas City Kings",122,"Indiana Pacers",105,11,10,11
+1984-11-23,"Philadelphia 76ers",119,"Phoenix Suns",117,17,18,17
+1984-11-23,"Chicago Bulls",113,"Seattle SuperSonics",94,3,21,3
+1984-11-23,"Houston Rockets",98,"Utah Jazz",111,9,22,22
+1984-11-24,"New Jersey Nets",99,"Atlanta Hawks",101,15,1,1
+1984-11-24,"Houston Rockets",95,"Dallas Mavericks",113,9,5,5
+1984-11-24,"Philadelphia 76ers",110,"Denver Nuggets",114,17,6,6
+1984-11-24,"Boston Celtics",135,"Kansas City Kings",124,2,11,2
+1984-11-24,"Los Angeles Lakers",108,"Los Angeles Clippers",103,13,12,13
+1984-11-24,"Golden State Warriors",97,"Milwaukee Bucks",103,8,14,14
+1984-11-24,"Indiana Pacers",100,"New York Knicks",119,10,16,16
+1984-11-24,"Chicago Bulls",131,"Portland Trail Blazers",141,3,19,19
+1984-11-24,"Utah Jazz",123,"San Antonio Spurs",117,22,20,22
+1984-11-24,"Detroit Pistons",106,"Washington Bullets",112,7,23,23
+1984-11-25,"Atlanta Hawks",111,"Cleveland Cavaliers",118,1,4,4
+1984-11-25,"Phoenix Suns",109,"Los Angeles Clippers",114,18,12,12
+1984-11-25,"Seattle SuperSonics",105,"Los Angeles Lakers",94,21,13,21
+1984-11-27,"Portland Trail Blazers",115,"Cleveland Cavaliers",106,19,4,19
+1984-11-27,"Boston Celtics",114,"Dallas Mavericks",99,2,5,2
+1984-11-27,"Los Angeles Clippers",110,"Denver Nuggets",139,12,6,6
+1984-11-27,"Chicago Bulls",103,"Golden State Warriors",109,3,8,8
+1984-11-27,"Milwaukee Bucks",105,"Indiana Pacers",126,14,10,10
+1984-11-27,"Atlanta Hawks",96,"New York Knicks",97,1,16,16
+1984-11-27,"Utah Jazz",102,"Phoenix Suns",115,22,18,18
+1984-11-27,"Houston Rockets",114,"San Antonio Spurs",97,9,20,9
+1984-11-27,"Kansas City Kings",96,"Seattle SuperSonics",104,11,21,21
+1984-11-27,"Philadelphia 76ers",93,"Washington Bullets",89,17,23,17
+1984-11-28,"Milwaukee Bucks",83,"Atlanta Hawks",95,14,1,1
+1984-11-28,"Portland Trail Blazers",113,"Detroit Pistons",120,19,7,7
+1984-11-28,"Boston Celtics",110,"Houston Rockets",100,2,9,2
+1984-11-28,"Seattle SuperSonics",90,"Los Angeles Clippers",106,21,12,12
+1984-11-28,"New York Knicks",96,"New Jersey Nets",111,16,15,15
+1984-11-28,"Indiana Pacers",101,"Philadelphia 76ers",122,10,17,17
+1984-11-28,"Los Angeles Lakers",114,"Utah Jazz",109,13,22,13
+1984-11-29,"Kansas City Kings",107,"Golden State Warriors",110,11,8,8
+1984-11-29,"Chicago Bulls",95,"Phoenix Suns",100,3,18,18
+1984-11-29,"Dallas Mavericks",116,"San Antonio Spurs",124,5,20,20
+1984-11-30,"Houston Rockets",116,"Atlanta Hawks",102,9,1,9
+1984-11-30,"Seattle SuperSonics",98,"Dallas Mavericks",108,21,5,5
+1984-11-30,"Washington Bullets",114,"Detroit Pistons",106,23,7,23
+1984-11-30,"Chicago Bulls",104,"Los Angeles Clippers",100,3,12,3
+1984-11-30,"Kansas City Kings",121,"Los Angeles Lakers",130,11,13,13
+1984-11-30,"New York Knicks",100,"Milwaukee Bucks",118,16,14,14
+1984-11-30,"Indiana Pacers",100,"New Jersey Nets",123,10,15,15
+1984-11-30,"Portland Trail Blazers",116,"Philadelphia 76ers",126,19,17,17
+1984-11-30,"Denver Nuggets",97,"Utah Jazz",116,6,22,22
+1984-12-01,"Boston Celtics",110,"Cleveland Cavaliers",104,2,4,2
+1984-12-01,"Utah Jazz",111,"Denver Nuggets",118,22,6,6
+1984-12-01,"Seattle SuperSonics",94,"Houston Rockets",86,21,9,21
+1984-12-01,"Detroit Pistons",131,"Indiana Pacers",109,7,10,7
+1984-12-01,"Portland Trail Blazers",115,"New York Knicks",93,19,16,19
+1984-12-01,"Golden State Warriors",103,"Phoenix Suns",115,8,18,18
+1984-12-01,"Los Angeles Clippers",110,"San Antonio Spurs",142,12,20,20
+1984-12-01,"Milwaukee Bucks",97,"Washington Bullets",100,14,23,23
+1984-12-02,"Cleveland Cavaliers",99,"Boston Celtics",122,4,2,2
+1984-12-02,"Chicago Bulls",113,"Los Angeles Lakers",112,3,13,3
+1984-12-02,"New Jersey Nets",112,"Philadelphia 76ers",114,15,17,17
+1984-12-03,"Phoenix Suns",96,"Seattle SuperSonics",108,18,21,21
+1984-12-04,"New Jersey Nets",97,"Chicago Bulls",112,15,3,3
+1984-12-04,"Los Angeles Lakers",116,"Cleveland Cavaliers",112,13,4,13
+1984-12-04,"Boston Celtics",99,"Detroit Pistons",104,2,7,7
+1984-12-04,"Utah Jazz",107,"Golden State Warriors",105,22,8,22
+1984-12-04,"Los Angeles Clippers",116,"Houston Rockets",100,12,9,12
+1984-12-04,"Denver Nuggets",98,"New York Knicks",100,6,16,16
+1984-12-04,"Phoenix Suns",104,"Portland Trail Blazers",112,18,19,19
+1984-12-04,"Atlanta Hawks",106,"San Antonio Spurs",114,1,20,20
+1984-12-05,"Denver Nuggets",107,"Boston Celtics",123,6,2,2
+1984-12-05,"Los Angeles Clippers",110,"Dallas Mavericks",106,12,5,12
+1984-12-05,"Atlanta Hawks",100,"Kansas City Kings",121,1,11,11
+1984-12-05,"Los Angeles Lakers",104,"New Jersey Nets",93,13,15,13
+1984-12-05,"Milwaukee Bucks",111,"Philadelphia 76ers",112,14,17,17
+1984-12-06,"Houston Rockets",113,"Golden State Warriors",114,9,8,8
+1984-12-06,"Detroit Pistons",99,"Milwaukee Bucks",114,7,14,14
+1984-12-06,"Dallas Mavericks",112,"New York Knicks",83,5,16,5
+1984-12-06,"San Antonio Spurs",96,"Portland Trail Blazers",113,20,19,19
+1984-12-06,"Seattle SuperSonics",106,"Utah Jazz",99,21,22,21
+1984-12-06,"Indiana Pacers",106,"Washington Bullets",111,10,23,23
+1984-12-07,"Los Angeles Clippers",89,"Atlanta Hawks",101,12,1,1
+1984-12-07,"New York Knicks",93,"Chicago Bulls",95,16,3,3
+1984-12-07,"Denver Nuggets",115,"Detroit Pistons",122,6,7,7
+1984-12-07,"Los Angeles Lakers",116,"Philadelphia 76ers",122,13,17,17
+1984-12-07,"Kansas City Kings",113,"Phoenix Suns",121,11,18,18
+1984-12-07,"San Antonio Spurs",117,"Seattle SuperSonics",114,20,21,20
+1984-12-08,"Dallas Mavericks",97,"Chicago Bulls",99,5,3,3
+1984-12-08,"Denver Nuggets",114,"Cleveland Cavaliers",108,6,4,6
+1984-12-08,"Phoenix Suns",102,"Golden State Warriors",98,18,8,18
+1984-12-08,"Indiana Pacers",96,"Milwaukee Bucks",99,10,14,14
+1984-12-08,"Boston Celtics",107,"New Jersey Nets",98,2,15,2
+1984-12-08,"Houston Rockets",127,"Portland Trail Blazers",120,9,19,9
+1984-12-08,"Los Angeles Lakers",98,"Washington Bullets",101,13,23,23
+1984-12-09,"Atlanta Hawks",127,"Boston Celtics",128,1,2,2
+1984-12-09,"San Antonio Spurs",123,"Los Angeles Clippers",126,20,12,12
+1984-12-09,"New York Knicks",94,"Philadelphia 76ers",110,16,17,17
+1984-12-09,"Houston Rockets",90,"Seattle SuperSonics",96,9,21,21
+1984-12-09,"Kansas City Kings",120,"Utah Jazz",123,11,22,22
+1984-12-10,"Atlanta Hawks",104,"Indiana Pacers",98,1,10,1
+1984-12-11,"New Jersey Nets",121,"Boston Celtics",130,15,2,2
+1984-12-11,"Detroit Pistons",108,"Chicago Bulls",101,7,3,7
+1984-12-11,"Milwaukee Bucks",120,"Cleveland Cavaliers",106,14,4,14
+1984-12-11,"Portland Trail Blazers",122,"Denver Nuggets",123,19,6,6
+1984-12-11,"Los Angeles Clippers",116,"Golden State Warriors",104,12,8,12
+1984-12-11,"San Antonio Spurs",120,"Kansas City Kings",121,20,11,11
+1984-12-11,"Philadelphia 76ers",106,"New York Knicks",110,17,16,16
+1984-12-11,"Houston Rockets",112,"Phoenix Suns",120,9,18,18
+1984-12-11,"Utah Jazz",85,"Washington Bullets",82,22,23,22
+1984-12-12,"Cleveland Cavaliers",99,"Atlanta Hawks",116,4,1,1
+1984-12-12,"Kansas City Kings",107,"Dallas Mavericks",116,11,5,5
+1984-12-12,"Chicago Bulls",95,"Detroit Pistons",102,3,7,7
+1984-12-12,"Golden State Warriors",107,"Los Angeles Lakers",131,8,13,13
+1984-12-12,"Milwaukee Bucks",109,"New Jersey Nets",116,14,15,15
+1984-12-12,"Boston Celtics",107,"Philadelphia 76ers",110,2,17,17
+1984-12-12,"Denver Nuggets",105,"San Antonio Spurs",126,6,20,20
+1984-12-13,"Atlanta Hawks",93,"Houston Rockets",96,1,9,9
+1984-12-13,"Portland Trail Blazers",100,"Los Angeles Clippers",106,19,12,12
+1984-12-13,"Utah Jazz",115,"New York Knicks",119,22,16,16
+1984-12-13,"Washington Bullets",86,"Phoenix Suns",116,23,18,18
+1984-12-13,"Los Angeles Lakers",122,"Seattle SuperSonics",124,13,21,21
+1984-12-14,"Utah Jazz",106,"Boston Celtics",117,22,2,2
+1984-12-14,"San Antonio Spurs",102,"Dallas Mavericks",119,20,5,5
+1984-12-14,"Kansas City Kings",123,"Denver Nuggets",117,11,6,11
+1984-12-14,"Indiana Pacers",96,"Detroit Pistons",120,10,7,7
+1984-12-14,"Portland Trail Blazers",92,"Golden State Warriors",105,19,8,8
+1984-12-14,"Philadelphia 76ers",115,"Milwaukee Bucks",111,17,14,17
+1984-12-14,"Chicago Bulls",109,"New Jersey Nets",111,3,15,15
+1984-12-15,"Boston Celtics",101,"Atlanta Hawks",94,2,1,2
+1984-12-15,"Philadelphia 76ers",114,"Chicago Bulls",102,17,3,17
+1984-12-15,"New York Knicks",97,"Cleveland Cavaliers",102,16,4,4
+1984-12-15,"Dallas Mavericks",115,"Houston Rockets",117,5,9,9
+1984-12-15,"New Jersey Nets",100,"Indiana Pacers",112,15,10,10
+1984-12-15,"Seattle SuperSonics",105,"Kansas City Kings",110,21,11,11
+1984-12-15,"Washington Bullets",103,"Los Angeles Clippers",109,23,12,12
+1984-12-15,"Phoenix Suns",111,"San Antonio Spurs",120,18,20,20
+1984-12-16,"Seattle SuperSonics",112,"Denver Nuggets",101,21,6,21
+1984-12-16,"Golden State Warriors",85,"Los Angeles Clippers",103,8,12,12
+1984-12-16,"Washington Bullets",101,"Los Angeles Lakers",109,23,13,13
+1984-12-16,"Utah Jazz",102,"Milwaukee Bucks",115,22,14,14
+1984-12-18,"Los Angeles Lakers",117,"Atlanta Hawks",116,13,1,13
+1984-12-18,"Houston Rockets",104,"Chicago Bulls",96,9,3,9
+1984-12-18,"San Antonio Spurs",110,"Cleveland Cavaliers",118,20,4,4
+1984-12-18,"Denver Nuggets",126,"Golden State Warriors",122,6,8,6
+1984-12-18,"Utah Jazz",81,"Indiana Pacers",88,22,10,10
+1984-12-18,"Phoenix Suns",116,"Kansas City Kings",127,18,11,11
+1984-12-18,"Dallas Mavericks",96,"Milwaukee Bucks",110,5,14,14
+1984-12-18,"Boston Celtics",126,"New York Knicks",108,2,16,2
+1984-12-18,"Portland Trail Blazers",99,"Seattle SuperSonics",109,19,21,21
+1984-12-18,"New Jersey Nets",95,"Washington Bullets",104,15,23,23
+1984-12-19,"Milwaukee Bucks",107,"Boston Celtics",92,14,2,14
+1984-12-19,"Detroit Pistons",148,"Denver Nuggets",129,7,6,7
+1984-12-19,"Los Angeles Lakers",123,"Houston Rockets",116,13,9,13
+1984-12-19,"Seattle SuperSonics",86,"Los Angeles Clippers",91,21,12,12
+1984-12-19,"Washington Bullets",106,"New Jersey Nets",115,23,15,15
+1984-12-19,"San Antonio Spurs",118,"Philadelphia 76ers",123,20,17,17
+1984-12-20,"Chicago Bulls",132,"Atlanta Hawks",129,3,1,3
+1984-12-20,"Cleveland Cavaliers",97,"New York Knicks",112,4,16,16
+1984-12-20,"Kansas City Kings",118,"Portland Trail Blazers",113,11,19,11
+1984-12-20,"Detroit Pistons",116,"Utah Jazz",117,7,22,22
+1984-12-21,"Indiana Pacers",107,"Boston Celtics",117,10,2,2
+1984-12-21,"Dallas Mavericks",93,"Denver Nuggets",116,5,6,6
+1984-12-21,"Seattle SuperSonics",91,"Golden State Warriors",94,21,8,8
+1984-12-21,"Phoenix Suns",105,"Los Angeles Lakers",119,18,13,13
+1984-12-21,"San Antonio Spurs",122,"New Jersey Nets",116,20,15,20
+1984-12-21,"Milwaukee Bucks",104,"Philadelphia 76ers",101,14,17,14
+1984-12-21,"New York Knicks",111,"Washington Bullets",125,16,23,23
+1984-12-22,"Washington Bullets",101,"Atlanta Hawks",119,23,1,1
+1984-12-22,"Boston Celtics",85,"Chicago Bulls",110,2,3,3
+1984-12-22,"Denver Nuggets",107,"Houston Rockets",125,6,9,9
+1984-12-22,"Cleveland Cavaliers",106,"Indiana Pacers",103,4,10,4
+1984-12-22,"Detroit Pistons",123,"Kansas City Kings",129,7,11,11
+1984-12-22,"San Antonio Spurs",90,"Milwaukee Bucks",101,20,14,14
+1984-12-22,"New Jersey Nets",93,"Philadelphia 76ers",107,15,17,17
+1984-12-22,"Portland Trail Blazers",108,"Phoenix Suns",110,19,18,18
+1984-12-22,"Dallas Mavericks",113,"Utah Jazz",96,5,22,5
+1984-12-23,"Los Angeles Clippers",97,"Seattle SuperSonics",107,12,21,21
+1984-12-25,"Atlanta Hawks",106,"Cleveland Cavaliers",109,1,4,4
+1984-12-25,"Philadelphia 76ers",109,"Detroit Pistons",108,17,7,17
+1984-12-25,"New Jersey Nets",120,"New York Knicks",114,15,16,15
+1984-12-25,"Golden State Warriors",97,"Portland Trail Blazers",106,8,19,19
+1984-12-26,"New York Knicks",105,"Atlanta Hawks",117,16,1,1
+1984-12-26,"Los Angeles Clippers",118,"Dallas Mavericks",124,12,5,5
+1984-12-26,"San Antonio Spurs",119,"Denver Nuggets",130,20,6,6
+1984-12-26,"Seattle SuperSonics",97,"Los Angeles Lakers",101,21,13,13
+1984-12-26,"Houston Rockets",87,"Milwaukee Bucks",97,9,14,14
+1984-12-26,"Detroit Pistons",97,"New Jersey Nets",112,7,15,15
+1984-12-26,"Boston Celtics",119,"Phoenix Suns",114,2,18,2
+1984-12-26,"Kansas City Kings",122,"Utah Jazz",133,11,22,22
+1984-12-26,"Indiana Pacers",89,"Washington Bullets",114,10,23,23
+1984-12-27,"Cleveland Cavaliers",108,"Chicago Bulls",112,4,3,3
+1984-12-27,"Houston Rockets",92,"Kansas City Kings",96,9,11,11
+1984-12-27,"Boston Celtics",118,"Los Angeles Clippers",103,2,12,2
+1984-12-27,"Portland Trail Blazers",120,"San Antonio Spurs",141,19,20,20
+1984-12-27,"Golden State Warriors",101,"Seattle SuperSonics",98,8,21,8
+1984-12-28,"Los Angeles Lakers",135,"Denver Nuggets",123,13,6,13
+1984-12-28,"Detroit Pistons",116,"Indiana Pacers",110,7,10,7
+1984-12-28,"New York Knicks",97,"New Jersey Nets",100,16,15,15
+1984-12-28,"Dallas Mavericks",125,"Phoenix Suns",111,5,18,5
+1984-12-28,"Philadelphia 76ers",114,"Utah Jazz",111,17,22,17
+1984-12-28,"Atlanta Hawks",111,"Washington Bullets",125,1,23,23
+1984-12-29,"Atlanta Hawks",104,"Chicago Bulls",101,1,3,1
+1984-12-29,"Milwaukee Bucks",115,"Cleveland Cavaliers",102,14,4,14
+1984-12-29,"Utah Jazz",99,"Dallas Mavericks",97,22,5,22
+1984-12-29,"New Jersey Nets",110,"Detroit Pistons",108,15,7,15
+1984-12-29,"Philadelphia 76ers",109,"Golden State Warriors",95,17,8,17
+1984-12-29,"Portland Trail Blazers",92,"Houston Rockets",108,19,9,9
+1984-12-29,"Indiana Pacers",123,"Kansas City Kings",115,10,11,10
+1984-12-29,"Los Angeles Clippers",107,"Los Angeles Lakers",113,12,13,13
+1984-12-29,"Washington Bullets",116,"New York Knicks",108,23,16,23
+1984-12-29,"Boston Celtics",120,"San Antonio Spurs",112,2,20,2
+1984-12-29,"Denver Nuggets",115,"Seattle SuperSonics",108,6,21,6
+1984-12-30,"Phoenix Suns",117,"Los Angeles Clippers",109,18,12,18
+1984-12-30,"Boston Celtics",98,"Milwaukee Bucks",114,2,14,14
+1985-01-01,"Philadelphia 76ers",111,"Portland Trail Blazers",106,17,19,17
+1985-01-01,"Indiana Pacers",119,"Utah Jazz",117,10,22,10
+1985-01-02,"Chicago Bulls",107,"Atlanta Hawks",121,3,1,1
+1985-01-02,"Houston Rockets",113,"Denver Nuggets",111,9,6,9
+1985-01-02,"Cleveland Cavaliers",100,"Detroit Pistons",108,4,7,7
+1985-01-02,"Phoenix Suns",115,"Kansas City Kings",107,18,11,18
+1985-01-02,"Boston Celtics",110,"New Jersey Nets",95,2,15,2
+1985-01-02,"Philadelphia 76ers",118,"Seattle SuperSonics",109,17,21,17
+1985-01-03,"Washington Bullets",93,"Cleveland Cavaliers",100,23,4,4
+1985-01-03,"Indiana Pacers",112,"Golden State Warriors",96,10,8,10
+1985-01-03,"Los Angeles Clippers",87,"Milwaukee Bucks",111,12,14,14
+1985-01-03,"Seattle SuperSonics",89,"Portland Trail Blazers",123,21,19,19
+1985-01-03,"Dallas Mavericks",115,"San Antonio Spurs",116,5,20,20
+1985-01-04,"New York Knicks",94,"Boston Celtics",105,16,2,2
+1985-01-04,"Milwaukee Bucks",101,"Chicago Bulls",106,14,3,3
+1985-01-04,"Atlanta Hawks",111,"Detroit Pistons",134,1,7,7
+1985-01-04,"Los Angeles Clippers",112,"Kansas City Kings",132,12,11,11
+1985-01-04,"Portland Trail Blazers",95,"Los Angeles Lakers",120,19,13,13
+1985-01-04,"Phoenix Suns",98,"New Jersey Nets",105,18,15,15
+1985-01-04,"Denver Nuggets",108,"Utah Jazz",118,6,22,22
+1985-01-05,"New Jersey Nets",114,"Atlanta Hawks",124,15,1,1
+1985-01-05,"Phoenix Suns",106,"Cleveland Cavaliers",111,18,4,4
+1985-01-05,"Kansas City Kings",107,"Dallas Mavericks",135,11,5,5
+1985-01-05,"Los Angeles Clippers",127,"Denver Nuggets",115,12,6,12
+1985-01-05,"Houston Rockets",103,"Golden State Warriors",94,9,8,9
+1985-01-05,"Philadelphia 76ers",110,"Milwaukee Bucks",106,17,14,17
+1985-01-05,"Chicago Bulls",113,"New York Knicks",119,3,16,16
+1985-01-05,"Indiana Pacers",97,"Seattle SuperSonics",104,10,21,21
+1985-01-05,"Detroit Pistons",121,"Washington Bullets",113,7,23,7
+1985-01-06,"San Antonio Spurs",98,"Los Angeles Lakers",99,20,13,13
+1985-01-06,"Indiana Pacers",101,"Portland Trail Blazers",118,10,19,19
+1985-01-06,"Houston Rockets",92,"Utah Jazz",121,9,22,22
+1985-01-07,"Golden State Warriors",101,"Kansas City Kings",110,8,11,11
+1985-01-07,"Utah Jazz",106,"Los Angeles Clippers",116,22,12,12
+1985-01-07,"Boston Celtics",108,"New York Knicks",97,2,16,2
+1985-01-07,"Phoenix Suns",99,"Philadelphia 76ers",100,18,17,17
+1985-01-07,"Dallas Mavericks",102,"Seattle SuperSonics",84,5,21,5
+1985-01-08,"New Jersey Nets",101,"Cleveland Cavaliers",107,15,4,4
+1985-01-08,"Kansas City Kings",110,"Houston Rockets",112,11,9,9
+1985-01-08,"Denver Nuggets",126,"Los Angeles Lakers",124,6,13,6
+1985-01-08,"Washington Bullets",99,"Milwaukee Bucks",95,23,14,23
+1985-01-08,"Dallas Mavericks",108,"Portland Trail Blazers",102,5,19,5
+1985-01-08,"Golden State Warriors",94,"San Antonio Spurs",139,8,20,20
+1985-01-09,"Chicago Bulls",108,"Boston Celtics",111,3,2,2
+1985-01-09,"New York Knicks",95,"Denver Nuggets",100,16,6,6
+1985-01-09,"Milwaukee Bucks",106,"Indiana Pacers",105,14,10,14
+1985-01-09,"Detroit Pistons",122,"Philadelphia 76ers",126,7,17,17
+1985-01-09,"Seattle SuperSonics",88,"Phoenix Suns",94,21,18,18
+1985-01-10,"Seattle SuperSonics",89,"Golden State Warriors",86,21,8,21
+1985-01-10,"Dallas Mavericks",117,"Kansas City Kings",110,5,11,5
+1985-01-10,"Utah Jazz",112,"Los Angeles Lakers",120,22,13,13
+1985-01-11,"Washington Bullets",101,"Boston Celtics",103,23,2,2
+1985-01-11,"New York Knicks",97,"Chicago Bulls",113,16,3,3
+1985-01-11,"Los Angeles Lakers",121,"Dallas Mavericks",102,13,5,13
+1985-01-11,"Kansas City Kings",121,"Denver Nuggets",143,11,6,6
+1985-01-11,"Indiana Pacers",109,"Detroit Pistons",120,10,7,7
+1985-01-11,"Cleveland Cavaliers",117,"Milwaukee Bucks",130,4,14,14
+1985-01-11,"Atlanta Hawks",103,"New Jersey Nets",122,1,15,15
+1985-01-11,"Houston Rockets",108,"Philadelphia 76ers",115,9,17,17
+1985-01-11,"Los Angeles Clippers",98,"Phoenix Suns",84,12,18,12
+1985-01-11,"Portland Trail Blazers",123,"San Antonio Spurs",103,19,20,19
+1985-01-12,"Boston Celtics",119,"Atlanta Hawks",111,2,1,2
+1985-01-12,"Chicago Bulls",98,"Cleveland Cavaliers",101,3,4,4
+1985-01-12,"Los Angeles Clippers",104,"Golden State Warriors",102,12,8,12
+1985-01-12,"New York Knicks",95,"Indiana Pacers",100,16,10,10
+1985-01-12,"Utah Jazz",94,"Phoenix Suns",109,22,18,18
+1985-01-13,"Portland Trail Blazers",101,"Dallas Mavericks",124,19,5,5
+1985-01-13,"Los Angeles Lakers",98,"Detroit Pistons",121,13,7,7
+1985-01-13,"Denver Nuggets",116,"Milwaukee Bucks",140,6,14,14
+1985-01-13,"Houston Rockets",99,"New Jersey Nets",100,9,15,15
+1985-01-13,"Kansas City Kings",114,"Seattle SuperSonics",119,11,21,21
+1985-01-13,"Philadelphia 76ers",115,"Washington Bullets",104,17,23,17
+1985-01-14,"Denver Nuggets",113,"Chicago Bulls",122,6,3,3
+1985-01-14,"Washington Bullets",101,"Cleveland Cavaliers",91,23,4,23
+1985-01-15,"Dallas Mavericks",149,"Golden State Warriors",104,5,8,5
+1985-01-15,"Atlanta Hawks",120,"Indiana Pacers",113,1,10,1
+1985-01-15,"Cleveland Cavaliers",116,"Kansas City Kings",112,4,11,4
+1985-01-15,"Los Angeles Lakers",105,"Milwaukee Bucks",115,13,14,14
+1985-01-15,"Philadelphia 76ers",93,"New York Knicks",82,17,16,17
+1985-01-15,"Houston Rockets",117,"Portland Trail Blazers",121,9,19,19
+1985-01-15,"Utah Jazz",101,"San Antonio Spurs",121,22,20,20
+1985-01-15,"Los Angeles Clippers",83,"Seattle SuperSonics",101,12,21,21
+1985-01-16,"Los Angeles Lakers",102,"Boston Celtics",104,13,2,2
+1985-01-16,"Golden State Warriors",107,"Denver Nuggets",115,8,6,6
+1985-01-16,"Houston Rockets",88,"Los Angeles Clippers",98,9,12,12
+1985-01-16,"Chicago Bulls",94,"New Jersey Nets",100,3,15,15
+1985-01-16,"Atlanta Hawks",99,"Philadelphia 76ers",122,1,17,17
+1985-01-16,"Dallas Mavericks",95,"Phoenix Suns",98,5,18,18
+1985-01-16,"Washington Bullets",103,"Utah Jazz",101,23,22,23
+1985-01-17,"Cleveland Cavaliers",93,"Chicago Bulls",98,4,3,3
+1985-01-17,"San Antonio Spurs",141,"Kansas City Kings",130,20,11,20
+1985-01-17,"Detroit Pistons",105,"New York Knicks",89,7,16,7
+1985-01-18,"Seattle SuperSonics",90,"Atlanta Hawks",104,21,1,1
+1985-01-18,"Washington Bullets",106,"Denver Nuggets",108,23,6,6
+1985-01-18,"Boston Celtics",86,"Indiana Pacers",91,2,10,10
+1985-01-18,"Dallas Mavericks",92,"Los Angeles Lakers",110,5,13,13
+1985-01-18,"New Jersey Nets",93,"Milwaukee Bucks",102,15,14,14
+1985-01-18,"Houston Rockets",112,"Phoenix Suns",101,9,18,9
+1985-01-18,"Portland Trail Blazers",122,"Utah Jazz",127,19,22,22
+1985-01-19,"Seattle SuperSonics",106,"Cleveland Cavaliers",105,21,4,21
+1985-01-19,"Los Angeles Lakers",139,"Golden State Warriors",109,13,8,13
+1985-01-19,"Utah Jazz",95,"Houston Rockets",120,22,9,9
+1985-01-19,"Chicago Bulls",107,"Indiana Pacers",110,3,10,10
+1985-01-19,"Washington Bullets",98,"Kansas City Kings",103,23,11,11
+1985-01-19,"Dallas Mavericks",101,"Los Angeles Clippers",100,5,12,5
+1985-01-19,"Detroit Pistons",109,"New Jersey Nets",107,7,15,7
+1985-01-19,"Atlanta Hawks",86,"New York Knicks",88,1,16,16
+1985-01-19,"Denver Nuggets",123,"Portland Trail Blazers",120,6,19,6
+1985-01-19,"Phoenix Suns",100,"San Antonio Spurs",106,18,20,20
+1985-01-20,"Philadelphia 76ers",97,"Boston Celtics",113,17,2,2
+1985-01-21,"Golden State Warriors",127,"Indiana Pacers",129,8,10,10
+1985-01-21,"Cleveland Cavaliers",115,"Washington Bullets",128,4,23,23
+1985-01-22,"Detroit Pistons",130,"Atlanta Hawks",113,7,1,7
+1985-01-22,"Portland Trail Blazers",115,"Chicago Bulls",123,19,3,3
+1985-01-22,"Philadelphia 76ers",101,"Cleveland Cavaliers",100,17,4,17
+1985-01-22,"Phoenix Suns",97,"Houston Rockets",101,18,9,9
+1985-01-22,"Los Angeles Clippers",114,"Los Angeles Lakers",123,12,13,13
+1985-01-22,"Seattle SuperSonics",90,"New York Knicks",92,21,16,16
+1985-01-22,"Kansas City Kings",113,"San Antonio Spurs",117,11,20,20
+1985-01-22,"New Jersey Nets",99,"Utah Jazz",102,15,22,22
+1985-01-22,"Golden State Warriors",104,"Washington Bullets",109,8,23,23
+1985-01-23,"Phoenix Suns",100,"Atlanta Hawks",101,18,1,1
+1985-01-23,"Seattle SuperSonics",107,"Boston Celtics",97,21,2,21
+1985-01-23,"San Antonio Spurs",110,"Dallas Mavericks",122,20,5,5
+1985-01-23,"Portland Trail Blazers",136,"Indiana Pacers",104,19,10,19
+1985-01-24,"New Jersey Nets",110,"Denver Nuggets",119,15,6,6
+1985-01-24,"Golden State Warriors",118,"Detroit Pistons",137,8,7,7
+1985-01-24,"Milwaukee Bucks",120,"Kansas City Kings",119,14,11,14
+1985-01-24,"Cleveland Cavaliers",110,"Utah Jazz",109,4,22,4
+1985-01-24,"Dallas Mavericks",92,"Washington Bullets",93,5,23,23
+1985-01-25,"Indiana Pacers",94,"Boston Celtics",125,10,2,2
+1985-01-25,"Seattle SuperSonics",76,"Chicago Bulls",93,21,3,3
+1985-01-25,"San Antonio Spurs",122,"Houston Rockets",107,20,9,20
+1985-01-25,"Philadelphia 76ers",104,"Los Angeles Lakers",109,17,13,13
+1985-01-26,"Atlanta Hawks",104,"Chicago Bulls",117,1,3,3
+1985-01-26,"New Jersey Nets",103,"Dallas Mavericks",93,15,5,15
+1985-01-26,"Cleveland Cavaliers",127,"Denver Nuggets",144,4,6,6
+1985-01-26,"Seattle SuperSonics",113,"Detroit Pistons",132,21,7,7
+1985-01-26,"Milwaukee Bucks",105,"Houston Rockets",102,14,9,14
+1985-01-26,"Golden State Warriors",111,"Kansas City Kings",120,8,11,11
+1985-01-26,"Philadelphia 76ers",120,"Los Angeles Clippers",113,17,12,17
+1985-01-26,"Indiana Pacers",106,"New York Knicks",109,10,16,16
+1985-01-26,"Los Angeles Lakers",83,"Utah Jazz",96,13,22,22
+1985-01-26,"Phoenix Suns",105,"Washington Bullets",110,18,23,23
+1985-01-27,"Portland Trail Blazers",127,"Boston Celtics",128,19,2,2
+1985-01-27,"Washington Bullets",105,"Detroit Pistons",115,23,7,7
+1985-01-27,"Milwaukee Bucks",106,"San Antonio Spurs",93,14,20,14
+1985-01-28,"Philadelphia 76ers",109,"Dallas Mavericks",111,17,5,5
+1985-01-28,"New Jersey Nets",93,"Houston Rockets",97,15,9,9
+1985-01-28,"Los Angeles Clippers",91,"New York Knicks",117,12,16,16
+1985-01-28,"Denver Nuggets",104,"Utah Jazz",100,6,22,6
+1985-01-29,"Indiana Pacers",106,"Atlanta Hawks",115,10,1,1
+1985-01-29,"Detroit Pistons",130,"Boston Celtics",131,7,2,2
+1985-01-29,"Kansas City Kings",97,"Chicago Bulls",103,11,3,3
+1985-01-29,"Los Angeles Clippers",94,"Cleveland Cavaliers",110,12,4,4
+1985-01-29,"Phoenix Suns",100,"Denver Nuggets",128,18,6,6
+1985-01-29,"Milwaukee Bucks",108,"Golden State Warriors",101,14,8,14
+1985-01-29,"Los Angeles Lakers",122,"Portland Trail Blazers",106,13,19,13
+1985-01-29,"New Jersey Nets",127,"San Antonio Spurs",130,15,20,20
+1985-01-30,"Kansas City Kings",116,"Detroit Pistons",120,11,7,7
+1985-01-30,"Cleveland Cavaliers",115,"Indiana Pacers",120,4,10,10
+1985-01-30,"Houston Rockets",116,"Los Angeles Lakers",113,9,13,9
+1985-01-30,"Boston Celtics",104,"Philadelphia 76ers",122,2,17,17
+1985-01-30,"New York Knicks",93,"Phoenix Suns",110,16,18,18
+1985-01-30,"Chicago Bulls",95,"Washington Bullets",106,3,23,23
+1985-01-31,"Dallas Mavericks",110,"Denver Nuggets",121,5,6,6
+1985-01-31,"Portland Trail Blazers",129,"Golden State Warriors",109,19,8,19
+1985-01-31,"Los Angeles Clippers",99,"New Jersey Nets",122,12,15,15
+1985-01-31,"San Antonio Spurs",94,"Seattle SuperSonics",96,20,21,21
+1985-02-01,"Cleveland Cavaliers",108,"Atlanta Hawks",126,4,1,1
+1985-02-01,"Kansas City Kings",123,"Boston Celtics",142,11,2,2
+1985-02-01,"Utah Jazz",121,"Dallas Mavericks",109,22,5,22
+1985-02-01,"Washington Bullets",95,"Indiana Pacers",102,23,10,10
+1985-02-01,"New York Knicks",104,"Los Angeles Lakers",105,16,13,13
+1985-02-01,"Chicago Bulls",110,"Philadelphia 76ers",121,3,17,17
+1985-02-01,"San Antonio Spurs",104,"Portland Trail Blazers",93,20,19,20
+1985-02-01,"Milwaukee Bucks",109,"Seattle SuperSonics",91,14,21,14
+1985-02-02,"Kansas City Kings",106,"Cleveland Cavaliers",124,11,4,4
+1985-02-02,"Atlanta Hawks",102,"Detroit Pistons",110,1,7,7
+1985-02-02,"New York Knicks",98,"Golden State Warriors",114,16,8,8
+1985-02-02,"Denver Nuggets",128,"Houston Rockets",131,6,9,9
+1985-02-02,"Los Angeles Lakers",105,"Los Angeles Clippers",96,13,12,13
+1985-02-02,"Philadelphia 76ers",96,"New Jersey Nets",101,17,15,15
+1985-02-02,"Milwaukee Bucks",105,"Portland Trail Blazers",95,14,19,14
+1985-02-02,"San Antonio Spurs",104,"Utah Jazz",105,20,22,22
+1985-02-02,"Boston Celtics",97,"Washington Bullets",91,2,23,2
+1985-02-03,"Denver Nuggets",106,"Dallas Mavericks",114,6,5,5
+1985-02-03,"Indiana Pacers",100,"Los Angeles Lakers",122,10,13,13
+1985-02-03,"Seattle SuperSonics",109,"Phoenix Suns",120,21,18,18
+1985-02-04,"Indiana Pacers",96,"Los Angeles Clippers",115,10,12,12
+1985-02-04,"Detroit Pistons",113,"Milwaukee Bucks",111,7,14,7
+1985-02-04,"Atlanta Hawks",92,"Philadelphia 76ers",106,1,17,17
+1985-02-04,"Golden State Warriors",109,"San Antonio Spurs",114,8,20,20
+1985-02-04,"Cleveland Cavaliers",121,"Washington Bullets",112,4,23,4
+1985-02-05,"Dallas Mavericks",112,"Atlanta Hawks",103,5,1,5
+1985-02-05,"Boston Celtics",110,"Chicago Bulls",106,2,3,2
+1985-02-05,"New Jersey Nets",119,"Detroit Pistons",117,15,7,15
+1985-02-05,"Los Angeles Lakers",113,"Houston Rockets",104,13,9,13
+1985-02-05,"San Antonio Spurs",116,"Kansas City Kings",135,20,11,11
+1985-02-05,"Denver Nuggets",103,"Phoenix Suns",108,6,18,18
+1985-02-05,"Utah Jazz",106,"Portland Trail Blazers",126,22,19,19
+1985-02-05,"New York Knicks",110,"Seattle SuperSonics",108,16,21,16
+1985-02-06,"Cleveland Cavaliers",108,"Boston Celtics",113,4,2,2
+1985-02-06,"Golden State Warriors",103,"Dallas Mavericks",129,8,5,5
+1985-02-06,"Seattle SuperSonics",101,"Denver Nuggets",120,21,6,6
+1985-02-06,"Milwaukee Bucks",93,"New Jersey Nets",106,14,15,15
+1985-02-06,"Washington Bullets",111,"Philadelphia 76ers",116,23,17,17
+1985-02-07,"Chicago Bulls",99,"Cleveland Cavaliers",108,3,4,4
+1985-02-07,"Golden State Warriors",105,"Houston Rockets",112,8,9,9
+1985-02-07,"Utah Jazz",114,"Kansas City Kings",96,22,11,22
+1985-02-07,"Atlanta Hawks",94,"Milwaukee Bucks",91,1,14,1
+1985-02-07,"Indiana Pacers",97,"Phoenix Suns",105,10,18,18
+1985-02-07,"New York Knicks",122,"Portland Trail Blazers",133,16,19,19
+1985-02-07,"Los Angeles Clippers",108,"San Antonio Spurs",120,12,20,20
+1985-02-07,"Detroit Pistons",126,"Washington Bullets",128,7,23,23
+1985-02-12,"Detroit Pistons",126,"Chicago Bulls",139,7,3,3
+1985-02-12,"Dallas Mavericks",131,"Cleveland Cavaliers",112,5,4,5
+1985-02-12,"Atlanta Hawks",107,"Denver Nuggets",131,1,6,6
+1985-02-12,"Utah Jazz",122,"Golden State Warriors",110,22,8,22
+1985-02-12,"Phoenix Suns",114,"Houston Rockets",126,18,9,9
+1985-02-12,"Philadelphia 76ers",124,"Indiana Pacers",116,17,10,17
+1985-02-12,"Los Angeles Clippers",110,"Los Angeles Lakers",121,12,13,13
+1985-02-12,"New Jersey Nets",103,"Milwaukee Bucks",111,15,14,14
+1985-02-12,"Boston Celtics",103,"Portland Trail Blazers",111,2,19,19
+1985-02-12,"Kansas City Kings",109,"San Antonio Spurs",127,11,20,20
+1985-02-12,"Washington Bullets",94,"Seattle SuperSonics",109,23,21,21
+1985-02-13,"Dallas Mavericks",119,"Detroit Pistons",124,5,7,7
+1985-02-13,"Golden State Warriors",105,"Los Angeles Clippers",108,8,12,12
+1985-02-13,"Cleveland Cavaliers",105,"New Jersey Nets",112,4,15,15
+1985-02-13,"New York Knicks",129,"Philadelphia 76ers",131,16,17,17
+1985-02-13,"Atlanta Hawks",94,"Utah Jazz",88,1,22,1
+1985-02-14,"Milwaukee Bucks",132,"Indiana Pacers",128,14,10,14
+1985-02-14,"Denver Nuggets",138,"Kansas City Kings",123,6,11,6
+1985-02-14,"Houston Rockets",113,"New York Knicks",105,9,16,9
+1985-02-14,"Phoenix Suns",102,"San Antonio Spurs",131,18,20,20
+1985-02-14,"Boston Celtics",110,"Seattle SuperSonics",94,2,21,2
+1985-02-15,"Indiana Pacers",114,"Chicago Bulls",96,10,3,10
+1985-02-15,"Phoenix Suns",126,"Dallas Mavericks",103,18,5,18
+1985-02-15,"San Antonio Spurs",119,"Denver Nuggets",129,20,6,6
+1985-02-15,"Boston Celtics",107,"Golden State Warriors",100,2,8,2
+1985-02-15,"Atlanta Hawks",111,"Los Angeles Lakers",120,1,13,13
+1985-02-15,"Detroit Pistons",123,"New Jersey Nets",124,7,15,15
+1985-02-15,"Cleveland Cavaliers",112,"Philadelphia 76ers",107,4,17,4
+1985-02-15,"Washington Bullets",89,"Portland Trail Blazers",93,23,19,19
+1985-02-15,"Los Angeles Clippers",100,"Utah Jazz",109,12,22,22
+1985-02-16,"Houston Rockets",122,"Cleveland Cavaliers",115,9,4,9
+1985-02-16,"Philadelphia 76ers",125,"Detroit Pistons",114,17,7,17
+1985-02-16,"New Jersey Nets",126,"New York Knicks",117,15,16,15
+1985-02-16,"Kansas City Kings",111,"Seattle SuperSonics",106,11,21,11
+1985-02-17,"Washington Bullets",121,"Golden State Warriors",125,23,8,8
+1985-02-17,"Phoenix Suns",115,"Indiana Pacers",97,18,10,18
+1985-02-17,"Atlanta Hawks",91,"Los Angeles Clippers",90,1,12,1
+1985-02-17,"Boston Celtics",111,"Los Angeles Lakers",117,2,13,13
+1985-02-17,"Chicago Bulls",105,"Milwaukee Bucks",125,3,14,14
+1985-02-17,"Kansas City Kings",96,"Portland Trail Blazers",115,11,19,19
+1985-02-18,"Philadelphia 76ers",113,"Cleveland Cavaliers",120,17,4,4
+1985-02-18,"Phoenix Suns",103,"Detroit Pistons",122,18,7,7
+1985-02-18,"San Antonio Spurs",121,"Los Angeles Clippers",125,20,12,12
+1985-02-18,"Boston Celtics",110,"Utah Jazz",94,2,22,2
+1985-02-19,"Golden State Warriors",104,"Atlanta Hawks",107,8,1,1
+1985-02-19,"Los Angeles Lakers",127,"Chicago Bulls",117,13,3,13
+1985-02-19,"Dallas Mavericks",124,"Houston Rockets",115,5,9,5
+1985-02-19,"Portland Trail Blazers",96,"Kansas City Kings",116,19,11,11
+1985-02-19,"Milwaukee Bucks",129,"New York Knicks",118,14,16,14
+1985-02-20,"Portland Trail Blazers",98,"Dallas Mavericks",104,19,5,5
+1985-02-20,"Boston Celtics",129,"Denver Nuggets",132,2,6,6
+1985-02-20,"Milwaukee Bucks",113,"Detroit Pistons",112,14,7,14
+1985-02-20,"Cleveland Cavaliers",102,"Indiana Pacers",92,4,10,4
+1985-02-20,"Seattle SuperSonics",118,"Los Angeles Clippers",105,21,12,21
+1985-02-20,"Utah Jazz",110,"New Jersey Nets",104,22,15,22
+1985-02-20,"Golden State Warriors",116,"Philadelphia 76ers",137,8,17,17
+1985-02-20,"Houston Rockets",126,"Phoenix Suns",122,9,18,9
+1985-02-20,"Washington Bullets",105,"San Antonio Spurs",104,23,20,23
+1985-02-21,"Los Angeles Lakers",123,"Kansas City Kings",117,13,11,13
+1985-02-22,"New York Knicks",113,"Atlanta Hawks",105,16,1,16
+1985-02-22,"Chicago Bulls",105,"Boston Celtics",115,3,2,2
+1985-02-22,"Utah Jazz",102,"Cleveland Cavaliers",98,22,4,22
+1985-02-22,"Washington Bullets",101,"Dallas Mavericks",110,23,5,5
+1985-02-22,"Portland Trail Blazers",103,"Houston Rockets",117,19,9,9
+1985-02-22,"Los Angeles Lakers",113,"Indiana Pacers",122,13,10,10
+1985-02-22,"Golden State Warriors",131,"New Jersey Nets",127,8,15,8
+1985-02-22,"Detroit Pistons",99,"Philadelphia 76ers",110,7,17,17
+1985-02-22,"San Antonio Spurs",118,"Phoenix Suns",111,20,18,20
+1985-02-22,"Denver Nuggets",123,"Seattle SuperSonics",133,6,21,21
+1985-02-23,"Golden State Warriors",125,"Chicago Bulls",140,8,3,3
+1985-02-23,"Milwaukee Bucks",106,"Cleveland Cavaliers",128,14,4,4
+1985-02-23,"New Jersey Nets",111,"Detroit Pistons",103,15,7,15
+1985-02-23,"Washington Bullets",123,"Houston Rockets",115,23,9,23
+1985-02-23,"Dallas Mavericks",121,"Kansas City Kings",98,5,11,5
+1985-02-24,"Phoenix Suns",107,"Denver Nuggets",117,18,6,6
+1985-02-24,"Boston Celtics",113,"Indiana Pacers",100,2,10,2
+1985-02-24,"Los Angeles Lakers",119,"New York Knicks",114,13,16,13
+1985-02-24,"Utah Jazz",108,"Philadelphia 76ers",117,22,17,17
+1985-02-24,"Portland Trail Blazers",137,"San Antonio Spurs",121,19,20,19
+1985-02-24,"Los Angeles Clippers",102,"Seattle SuperSonics",108,12,21,21
+1985-02-26,"Denver Nuggets",106,"Atlanta Hawks",94,6,1,6
+1985-02-26,"Cleveland Cavaliers",123,"Chicago Bulls",118,4,3,4
+1985-02-26,"Utah Jazz",103,"Dallas Mavericks",96,22,5,22
+1985-02-26,"Seattle SuperSonics",119,"Golden State Warriors",128,21,8,8
+1985-02-26,"Phoenix Suns",103,"Kansas City Kings",110,18,11,11
+1985-02-26,"Houston Rockets",94,"Los Angeles Lakers",100,9,13,13
+1985-02-26,"Philadelphia 76ers",97,"Milwaukee Bucks",116,17,14,14
+1985-02-26,"San Antonio Spurs",122,"New York Knicks",129,20,16,16
+1985-02-26,"Los Angeles Clippers",99,"Portland Trail Blazers",110,12,19,19
+1985-02-27,"San Antonio Spurs",102,"Boston Celtics",111,20,2,2
+1985-02-27,"Chicago Bulls",99,"Detroit Pistons",108,3,7,7
+1985-02-27,"New York Knicks",106,"Indiana Pacers",108,16,10,10
+1985-02-27,"Houston Rockets",117,"Los Angeles Clippers",109,9,12,9
+1985-02-27,"Atlanta Hawks",91,"New Jersey Nets",114,1,15,15
+1985-02-27,"Milwaukee Bucks",119,"Utah Jazz",100,14,22,14
+1985-02-27,"Denver Nuggets",124,"Washington Bullets",111,6,23,6
+1985-02-28,"Portland Trail Blazers",120,"Golden State Warriors",124,19,8,8
+1985-02-28,"Philadelphia 76ers",127,"Kansas City Kings",119,17,11,17
+1985-02-28,"Los Angeles Lakers",105,"Phoenix Suns",117,13,18,18
+1985-02-28,"Cleveland Cavaliers",120,"Seattle SuperSonics",95,4,21,4
+1985-03-01,"Atlanta Hawks",114,"Boston Celtics",105,1,2,1
+1985-03-01,"New York Knicks",104,"Chicago Bulls",109,16,3,3
+1985-03-01,"Denver Nuggets",141,"Dallas Mavericks",140,6,5,6
+1985-03-01,"San Antonio Spurs",108,"Detroit Pistons",98,20,7,20
+1985-03-01,"Cleveland Cavaliers",111,"Portland Trail Blazers",103,4,19,4
+1985-03-01,"Houston Rockets",119,"Utah Jazz",115,9,22,9
+1985-03-01,"New Jersey Nets",100,"Washington Bullets",98,15,23,15
+1985-03-02,"San Antonio Spurs",105,"Atlanta Hawks",92,20,1,20
+1985-03-02,"Los Angeles Lakers",125,"Dallas Mavericks",106,13,5,13
+1985-03-02,"Milwaukee Bucks",122,"Denver Nuggets",123,14,6,6
+1985-03-02,"Los Angeles Clippers",102,"Golden State Warriors",108,12,8,8
+1985-03-02,"Seattle SuperSonics",106,"Indiana Pacers",92,21,10,21
+1985-03-02,"Washington Bullets",109,"New York Knicks",97,23,16,23
+1985-03-02,"Kansas City Kings",111,"Phoenix Suns",114,11,18,18
+1985-03-03,"Detroit Pistons",129,"Boston Celtics",138,7,2,2
+1985-03-03,"New Jersey Nets",117,"Chicago Bulls",113,15,3,15
+1985-03-03,"Philadelphia 76ers",90,"Houston Rockets",99,17,9,9
+1985-03-03,"Kansas City Kings",126,"Los Angeles Clippers",122,11,12,11
+1985-03-03,"Utah Jazz",93,"Portland Trail Blazers",121,22,19,19
+1985-03-04,"Cleveland Cavaliers",108,"Golden State Warriors",104,4,8,4
+1985-03-04,"Dallas Mavericks",107,"Phoenix Suns",99,5,18,5
+1985-03-04,"Philadelphia 76ers",103,"San Antonio Spurs",109,17,20,20
+1985-03-05,"Portland Trail Blazers",100,"Atlanta Hawks",91,19,1,19
+1985-03-05,"Washington Bullets",99,"Chicago Bulls",104,23,3,3
+1985-03-05,"Indiana Pacers",102,"Dallas Mavericks",108,10,5,5
+1985-03-05,"Houston Rockets",131,"Denver Nuggets",133,9,6,6
+1985-03-05,"New Jersey Nets",113,"Kansas City Kings",134,15,11,11
+1985-03-05,"Seattle SuperSonics",87,"Milwaukee Bucks",102,21,14,14
+1985-03-05,"Boston Celtics",110,"New York Knicks",102,2,16,2
+1985-03-06,"Chicago Bulls",107,"Boston Celtics",104,3,2,3
+1985-03-06,"New York Knicks",90,"Detroit Pistons",114,16,7,7
+1985-03-06,"Utah Jazz",94,"Houston Rockets",90,22,9,22
+1985-03-06,"Cleveland Cavaliers",114,"Los Angeles Clippers",112,4,12,4
+1985-03-06,"Golden State Warriors",119,"Los Angeles Lakers",145,8,13,13
+1985-03-06,"Seattle SuperSonics",108,"New Jersey Nets",129,21,15,15
+1985-03-06,"Atlanta Hawks",86,"Philadelphia 76ers",96,1,17,17
+1985-03-06,"Indiana Pacers",102,"San Antonio Spurs",108,10,20,20
+1985-03-06,"Portland Trail Blazers",121,"Washington Bullets",127,19,23,23
+1985-03-07,"Utah Jazz",122,"Detroit Pistons",114,22,7,22
+1985-03-07,"Denver Nuggets",140,"Kansas City Kings",142,6,11,11
+1985-03-07,"San Antonio Spurs",117,"Phoenix Suns",119,20,18,18
+1985-03-08,"Dallas Mavericks",122,"Boston Celtics",133,5,2,2
+1985-03-08,"Los Angeles Clippers",101,"Chicago Bulls",117,12,3,3
+1985-03-08,"Indiana Pacers",105,"Houston Rockets",125,10,9,9
+1985-03-08,"Kansas City Kings",114,"Milwaukee Bucks",127,11,14,14
+1985-03-08,"Portland Trail Blazers",128,"New Jersey Nets",110,19,15,19
+1985-03-08,"Seattle SuperSonics",114,"Philadelphia 76ers",128,21,17,17
+1985-03-09,"Detroit Pistons",115,"Atlanta Hawks",113,7,1,7
+1985-03-09,"Utah Jazz",111,"Chicago Bulls",105,22,3,22
+1985-03-09,"Indiana Pacers",116,"Denver Nuggets",126,10,6,6
+1985-03-09,"Cleveland Cavaliers",106,"Los Angeles Lakers",133,4,13,13
+1985-03-09,"Philadelphia 76ers",129,"New York Knicks",131,17,16,16
+1985-03-09,"Golden State Warriors",118,"Phoenix Suns",115,8,18,8
+1985-03-09,"Houston Rockets",123,"San Antonio Spurs",117,9,20,9
+1985-03-09,"Seattle SuperSonics",93,"Washington Bullets",92,21,23,21
+1985-03-10,"Los Angeles Clippers",111,"Kansas City Kings",129,12,11,11
+1985-03-10,"Portland Trail Blazers",94,"Milwaukee Bucks",110,19,14,14
+1985-03-10,"Dallas Mavericks",126,"New Jersey Nets",113,5,15,5
+1985-03-11,"Milwaukee Bucks",121,"Atlanta Hawks",115,14,1,14
+1985-03-11,"Indiana Pacers",110,"Cleveland Cavaliers",122,10,4,4
+1985-03-11,"Seattle SuperSonics",100,"Dallas Mavericks",103,21,5,5
+1985-03-11,"Los Angeles Clippers",114,"Detroit Pistons",121,12,7,7
+1985-03-11,"Chicago Bulls",112,"Washington Bullets",119,3,23,23
+1985-03-12,"Boston Celtics",126,"Atlanta Hawks",115,2,1,2
+1985-03-12,"Detroit Pistons",110,"Chicago Bulls",111,7,3,3
+1985-03-12,"San Antonio Spurs",122,"Golden State Warriors",145,20,8,8
+1985-03-12,"Denver Nuggets",129,"Houston Rockets",131,6,9,9
+1985-03-12,"New Jersey Nets",108,"Indiana Pacers",109,15,10,10
+1985-03-12,"Portland Trail Blazers",114,"Kansas City Kings",120,19,11,11
+1985-03-12,"Utah Jazz",108,"Los Angeles Lakers",123,22,13,13
+1985-03-12,"Phoenix Suns",123,"New York Knicks",119,18,16,18
+1985-03-13,"Phoenix Suns",106,"Boston Celtics",123,18,2,2
+1985-03-13,"Kansas City Kings",100,"Dallas Mavericks",118,11,5,5
+1985-03-13,"Cleveland Cavaliers",93,"Milwaukee Bucks",128,4,14,14
+1985-03-13,"Washington Bullets",109,"New Jersey Nets",114,23,15,15
+1985-03-13,"Los Angeles Clippers",103,"Philadelphia 76ers",121,12,17,17
+1985-03-13,"Los Angeles Lakers",120,"Utah Jazz",105,13,22,13
+1985-03-14,"Atlanta Hawks",120,"Golden State Warriors",112,1,8,1
+1985-03-14,"Los Angeles Clippers",113,"Indiana Pacers",112,12,10,12
+1985-03-14,"Chicago Bulls",97,"New York Knicks",106,3,16,16
+1985-03-14,"San Antonio Spurs",100,"Seattle SuperSonics",93,20,21,20
+1985-03-15,"Phoenix Suns",97,"Chicago Bulls",103,18,3,3
+1985-03-15,"Boston Celtics",119,"Cleveland Cavaliers",96,2,4,2
+1985-03-15,"Denver Nuggets",108,"Dallas Mavericks",127,6,5,5
+1985-03-15,"San Antonio Spurs",114,"Los Angeles Lakers",115,20,13,13
+1985-03-15,"New York Knicks",110,"Philadelphia 76ers",119,16,17,17
+1985-03-15,"Golden State Warriors",101,"Portland Trail Blazers",126,8,19,19
+1985-03-15,"Kansas City Kings",112,"Utah Jazz",115,11,22,22
+1985-03-15,"Houston Rockets",114,"Washington Bullets",120,9,23,23
+1985-03-16,"Cleveland Cavaliers",135,"Dallas Mavericks",128,4,5,4
+1985-03-16,"Los Angeles Lakers",123,"Los Angeles Clippers",112,13,12,13
+1985-03-16,"Phoenix Suns",96,"Milwaukee Bucks",125,18,14,14
+1985-03-16,"Indiana Pacers",114,"New York Knicks",116,10,16,16
+1985-03-16,"New Jersey Nets",107,"Philadelphia 76ers",127,15,17,17
+1985-03-16,"Atlanta Hawks",99,"Seattle SuperSonics",108,1,21,21
+1985-03-17,"Houston Rockets",120,"Boston Celtics",134,9,2,2
+1985-03-17,"Milwaukee Bucks",117,"Chicago Bulls",119,14,3,3
+1985-03-17,"Utah Jazz",101,"Kansas City Kings",107,22,11,11
+1985-03-17,"Golden State Warriors",109,"Los Angeles Clippers",100,8,12,8
+1985-03-17,"Indiana Pacers",105,"New Jersey Nets",129,10,15,15
+1985-03-17,"Atlanta Hawks",101,"Portland Trail Blazers",114,1,19,19
+1985-03-17,"Denver Nuggets",119,"San Antonio Spurs",124,6,20,20
+1985-03-17,"Detroit Pistons",98,"Seattle SuperSonics",106,7,21,21
+1985-03-18,"Dallas Mavericks",111,"Denver Nuggets",113,5,6,6
+1985-03-18,"Detroit Pistons",116,"Los Angeles Clippers",136,7,12,12
+1985-03-18,"Golden State Warriors",125,"Utah Jazz",136,8,22,22
+1985-03-19,"Washington Bullets",97,"Atlanta Hawks",103,23,1,1
+1985-03-19,"Philadelphia 76ers",89,"Cleveland Cavaliers",116,17,4,4
+1985-03-19,"San Antonio Spurs",89,"Dallas Mavericks",96,20,5,5
+1985-03-19,"Chicago Bulls",100,"Houston Rockets",106,3,9,9
+1985-03-19,"New Jersey Nets",111,"Milwaukee Bucks",130,15,14,14
+1985-03-19,"Los Angeles Lakers",130,"Phoenix Suns",112,13,18,13
+1985-03-19,"Detroit Pistons",123,"Portland Trail Blazers",143,7,19,19
+1985-03-20,"Milwaukee Bucks",105,"Boston Celtics",107,14,2,2
+1985-03-20,"Denver Nuggets",123,"Indiana Pacers",119,6,10,6
+1985-03-20,"Utah Jazz",110,"Los Angeles Clippers",121,22,12,12
+1985-03-20,"Cleveland Cavaliers",108,"New Jersey Nets",128,4,15,15
+1985-03-20,"Kansas City Kings",118,"Philadelphia 76ers",117,11,17,11
+1985-03-20,"Chicago Bulls",98,"San Antonio Spurs",106,3,20,20
+1985-03-20,"Golden State Warriors",109,"Seattle SuperSonics",123,8,21,21
+1985-03-20,"New York Knicks",102,"Washington Bullets",105,16,23,23
+1985-03-21,"Detroit Pistons",122,"Golden State Warriors",113,7,8,7
+1985-03-21,"Portland Trail Blazers",104,"Phoenix Suns",114,19,18,18
+1985-03-22,"Kansas City Kings",121,"Atlanta Hawks",102,11,1,11
+1985-03-22,"Cleveland Cavaliers",117,"Boston Celtics",129,4,2,2
+1985-03-22,"Los Angeles Lakers",130,"Houston Rockets",107,13,9,13
+1985-03-22,"New York Knicks",118,"Indiana Pacers",113,16,10,16
+1985-03-22,"Denver Nuggets",123,"New Jersey Nets",111,6,15,6
+1985-03-22,"Milwaukee Bucks",131,"Philadelphia 76ers",112,14,17,14
+1985-03-22,"Dallas Mavericks",123,"San Antonio Spurs",114,5,20,5
+1985-03-22,"Utah Jazz",110,"Seattle SuperSonics",85,22,21,22
+1985-03-23,"Atlanta Hawks",91,"Cleveland Cavaliers",86,1,4,1
+1985-03-23,"Chicago Bulls",107,"Dallas Mavericks",97,3,5,3
+1985-03-23,"Phoenix Suns",109,"Golden State Warriors",123,18,8,8
+1985-03-23,"New York Knicks",105,"Kansas City Kings",113,16,11,11
+1985-03-23,"Indiana Pacers",129,"Milwaukee Bucks",140,10,14,14
+1985-03-23,"Los Angeles Clippers",123,"Portland Trail Blazers",126,12,19,19
+1985-03-23,"Boston Celtics",104,"Washington Bullets",98,2,23,2
+1985-03-24,"Detroit Pistons",130,"Los Angeles Lakers",148,7,13,13
+1985-03-24,"Denver Nuggets",103,"Philadelphia 76ers",124,6,17,17
+1985-03-24,"Seattle SuperSonics",99,"San Antonio Spurs",104,21,20,20
+1985-03-24,"Chicago Bulls",92,"Utah Jazz",110,3,22,22
+1985-03-25,"Seattle SuperSonics",106,"Kansas City Kings",121,21,11,11
+1985-03-25,"Portland Trail Blazers",120,"Los Angeles Clippers",99,19,12,19
+1985-03-25,"New York Knicks",106,"Milwaukee Bucks",126,16,14,14
+1985-03-26,"New Jersey Nets",109,"Atlanta Hawks",108,15,1,15
+1985-03-26,"Indiana Pacers",119,"Chicago Bulls",120,10,3,3
+1985-03-26,"New York Knicks",98,"Cleveland Cavaliers",112,16,4,4
+1985-03-26,"Golden State Warriors",107,"Dallas Mavericks",134,8,5,5
+1985-03-26,"Utah Jazz",89,"Denver Nuggets",104,22,6,6
+1985-03-26,"Kansas City Kings",93,"Houston Rockets",115,11,9,9
+1985-03-26,"Detroit Pistons",119,"Phoenix Suns",93,7,18,7
+1985-03-26,"Los Angeles Lakers",113,"Portland Trail Blazers",116,13,19,19
+1985-03-26,"Milwaukee Bucks",107,"Washington Bullets",96,14,23,14
+1985-03-27,"Houston Rockets",110,"Detroit Pistons",127,9,7,7
+1985-03-27,"Atlanta Hawks",125,"Indiana Pacers",99,1,10,1
+1985-03-27,"Boston Celtics",105,"New Jersey Nets",95,2,15,2
+1985-03-27,"Washington Bullets",97,"Philadelphia 76ers",115,23,17,17
+1985-03-27,"Golden State Warriors",120,"San Antonio Spurs",121,8,20,20
+1985-03-27,"Los Angeles Lakers",122,"Seattle SuperSonics",97,13,21,13
+1985-03-27,"Dallas Mavericks",101,"Utah Jazz",116,5,22,22
+1985-03-28,"Chicago Bulls",114,"Cleveland Cavaliers",122,3,4,4
+1985-03-28,"Kansas City Kings",115,"Denver Nuggets",133,11,6,6
+1985-03-28,"Phoenix Suns",110,"Los Angeles Clippers",116,18,12,12
+1985-03-28,"Milwaukee Bucks",121,"New York Knicks",116,14,16,14
+1985-03-29,"Philadelphia 76ers",108,"Boston Celtics",112,17,2,2
+1985-03-29,"Golden State Warriors",116,"Houston Rockets",121,8,9,9
+1985-03-29,"Dallas Mavericks",115,"Los Angeles Lakers",120,5,13,13
+1985-03-29,"Portland Trail Blazers",125,"Seattle SuperSonics",99,19,21,19
+1985-03-29,"San Antonio Spurs",109,"Utah Jazz",114,20,22,22
+1985-03-29,"New Jersey Nets",98,"Washington Bullets",122,15,23,23
+1985-03-30,"Philadelphia 76ers",122,"Chicago Bulls",117,17,3,17
+1985-03-30,"Indiana Pacers",94,"Cleveland Cavaliers",117,10,4,4
+1985-03-30,"Portland Trail Blazers",117,"Denver Nuggets",129,19,6,6
+1985-03-30,"Utah Jazz",96,"Houston Rockets",106,22,9,9
+1985-03-30,"Golden State Warriors",121,"Kansas City Kings",137,8,11,11
+1985-03-30,"Atlanta Hawks",95,"Milwaukee Bucks",106,1,14,14
+1985-03-30,"New Jersey Nets",123,"New York Knicks",114,15,16,15
+1985-03-30,"Los Angeles Clippers",123,"Phoenix Suns",114,12,18,12
+1985-03-31,"Boston Celtics",105,"Detroit Pistons",113,2,7,7
+1985-03-31,"Washington Bullets",111,"Indiana Pacers",105,23,10,23
+1985-03-31,"San Antonio Spurs",126,"Los Angeles Clippers",115,20,12,20
+1985-03-31,"Phoenix Suns",98,"Los Angeles Lakers",123,18,13,13
+1985-04-01,"Atlanta Hawks",114,"Detroit Pistons",100,1,7,1
+1985-04-01,"Houston Rockets",127,"Seattle SuperSonics",116,9,21,9
+1985-04-02,"Philadelphia 76ers",102,"Atlanta Hawks",91,17,1,17
+1985-04-02,"New Jersey Nets",94,"Chicago Bulls",108,15,3,3
+1985-04-02,"Washington Bullets",107,"Cleveland Cavaliers",122,23,4,4
+1985-04-02,"Los Angeles Lakers",118,"Denver Nuggets",104,13,6,13
+1985-04-02,"Dallas Mavericks",127,"Golden State Warriors",121,5,8,5
+1985-04-02,"Detroit Pistons",124,"Indiana Pacers",121,7,10,7
+1985-04-02,"Boston Celtics",103,"Milwaukee Bucks",109,2,14,14
+1985-04-02,"Seattle SuperSonics",109,"Phoenix Suns",119,21,18,18
+1985-04-02,"Houston Rockets",113,"Portland Trail Blazers",127,9,19,19
+1985-04-03,"Indiana Pacers",103,"Boston Celtics",119,10,2,2
+1985-04-03,"Kansas City Kings",122,"Los Angeles Clippers",124,11,12,12
+1985-04-03,"New York Knicks",100,"New Jersey Nets",113,16,15,15
+1985-04-03,"Cleveland Cavaliers",113,"Philadelphia 76ers",110,4,17,4
+1985-04-03,"Los Angeles Lakers",108,"San Antonio Spurs",122,13,20,20
+1985-04-03,"Chicago Bulls",100,"Washington Bullets",91,3,23,3
+1985-04-04,"Houston Rockets",108,"Golden State Warriors",113,9,8,8
+1985-04-04,"Detroit Pistons",121,"Milwaukee Bucks",130,7,14,14
+1985-04-04,"Atlanta Hawks",100,"New York Knicks",79,1,16,1
+1985-04-04,"Denver Nuggets",110,"Phoenix Suns",103,6,18,6
+1985-04-04,"Seattle SuperSonics",119,"Utah Jazz",118,21,22,21
+1985-04-05,"Washington Bullets",104,"Boston Celtics",115,23,2,2
+1985-04-05,"Los Angeles Clippers",126,"Dallas Mavericks",122,12,5,12
+1985-04-05,"San Antonio Spurs",109,"Denver Nuggets",118,20,6,6
+1985-04-05,"Cleveland Cavaliers",119,"Detroit Pistons",118,4,7,4
+1985-04-05,"Kansas City Kings",125,"Los Angeles Lakers",132,11,13,13
+1985-04-05,"Chicago Bulls",113,"Philadelphia 76ers",116,3,17,17
+1985-04-05,"Seattle SuperSonics",120,"Portland Trail Blazers",145,21,19,19
+1985-04-06,"Chicago Bulls",117,"Atlanta Hawks",114,3,1,3
+1985-04-06,"Houston Rockets",139,"Dallas Mavericks",127,9,5,9
+1985-04-06,"Kansas City Kings",125,"Golden State Warriors",141,11,8,8
+1985-04-06,"Philadelphia 76ers",117,"Indiana Pacers",121,17,10,10
+1985-04-06,"Milwaukee Bucks",104,"New Jersey Nets",108,14,15,15
+1985-04-06,"Phoenix Suns",94,"Utah Jazz",105,18,22,22
+1985-04-06,"Cleveland Cavaliers",101,"Washington Bullets",109,4,23,23
+1985-04-07,"New York Knicks",102,"Boston Celtics",114,16,2,2
+1985-04-07,"Golden State Warriors",125,"Denver Nuggets",130,8,6,6
+1985-04-07,"Milwaukee Bucks",91,"Detroit Pistons",113,14,7,7
+1985-04-07,"Portland Trail Blazers",133,"Los Angeles Lakers",135,19,13,13
+1985-04-07,"Houston Rockets",105,"San Antonio Spurs",126,9,20,20
+1985-04-07,"Phoenix Suns",125,"Seattle SuperSonics",110,18,21,18
+1985-04-08,"Chicago Bulls",103,"Indiana Pacers",107,3,10,10
+1985-04-09,"New Jersey Nets",100,"Cleveland Cavaliers",114,15,4,4
+1985-04-09,"San Antonio Spurs",103,"Houston Rockets",124,20,9,9
+1985-04-09,"Dallas Mavericks",105,"Kansas City Kings",117,5,11,11
+1985-04-09,"Denver Nuggets",119,"Los Angeles Lakers",148,6,13,13
+1985-04-09,"Detroit Pistons",107,"New York Knicks",97,7,16,7
+1985-04-09,"Boston Celtics",104,"Philadelphia 76ers",113,2,17,17
+1985-04-09,"Phoenix Suns",100,"Portland Trail Blazers",116,18,19,19
+1985-04-09,"Los Angeles Clippers",104,"Utah Jazz",123,12,22,22
+1985-04-09,"Atlanta Hawks",110,"Washington Bullets",130,1,23,23
+1985-04-10,"New York Knicks",94,"Atlanta Hawks",98,16,1,1
+1985-04-10,"Indiana Pacers",114,"Detroit Pistons",116,10,7,7
+1985-04-10,"Denver Nuggets",127,"Los Angeles Clippers",129,6,12,12
+1985-04-10,"Washington Bullets",97,"Milwaukee Bucks",106,23,14,14
+1985-04-10,"Philadelphia 76ers",100,"New Jersey Nets",125,17,15,15
+1985-04-11,"Boston Celtics",121,"Cleveland Cavaliers",115,2,4,2
+1985-04-11,"Los Angeles Lakers",137,"Golden State Warriors",130,13,8,13
+1985-04-11,"Houston Rockets",125,"Kansas City Kings",123,9,11,9
+1985-04-11,"Dallas Mavericks",124,"Seattle SuperSonics",80,5,21,5
+1985-04-11,"Portland Trail Blazers",107,"Utah Jazz",145,19,22,22
+1985-04-12,"Milwaukee Bucks",115,"Boston Celtics",113,14,2,14
+1985-04-12,"Atlanta Hawks",119,"Chicago Bulls",108,1,3,1
+1985-04-12,"Washington Bullets",96,"Detroit Pistons",102,23,7,7
+1985-04-12,"Los Angeles Clippers",115,"Houston Rockets",110,12,9,12
+1985-04-12,"Seattle SuperSonics",131,"Los Angeles Lakers",145,21,13,13
+1985-04-12,"Cleveland Cavaliers",109,"New York Knicks",108,4,16,4
+1985-04-12,"Indiana Pacers",105,"Philadelphia 76ers",111,10,17,17
+1985-04-12,"Utah Jazz",92,"Phoenix Suns",96,22,18,18
+1985-04-12,"Dallas Mavericks",111,"Portland Trail Blazers",131,5,19,19
+1985-04-12,"Kansas City Kings",112,"San Antonio Spurs",117,11,20,20
+1985-04-13,"Indiana Pacers",117,"Atlanta Hawks",122,10,1,1
+1985-04-13,"Denver Nuggets",127,"Golden State Warriors",120,6,8,6
+1985-04-13,"New York Knicks",84,"Milwaukee Bucks",88,16,14,14
+1985-04-13,"Chicago Bulls",111,"New Jersey Nets",123,3,15,15
+1985-04-13,"Philadelphia 76ers",106,"Washington Bullets",118,17,23,23
+1985-04-14,"New Jersey Nets",129,"Boston Celtics",118,15,2,15
+1985-04-14,"Detroit Pistons",116,"Cleveland Cavaliers",113,7,4,7
+1985-04-14,"Seattle SuperSonics",98,"Houston Rockets",121,21,9,9
+1985-04-14,"Los Angeles Lakers",122,"Kansas City Kings",116,13,11,13
+1985-04-14,"Dallas Mavericks",96,"Los Angeles Clippers",92,5,12,5
+1985-04-14,"Golden State Warriors",111,"Phoenix Suns",124,8,18,18
+1985-04-14,"Denver Nuggets",112,"Portland Trail Blazers",117,6,19,19
+1985-04-14,"Utah Jazz",104,"San Antonio Spurs",102,22,20,22

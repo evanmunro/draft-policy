@@ -1,7 +1,8 @@
 .ipynb_checkpoints*
-data/*
+data/NBA*
+data/NHL*
+data/draft*
 figures/*
 .DS_Store
-*.csv
 *.pdf
 old/*
