@@ -229,7 +229,7 @@ function add_win(wins,team::Int)::Array{Int}
     return new_wins
 end
 
-function get_losers(winners::Array{Int},matches::Array{Int,2})::Array{Int}
+function get_losers(winners::Array, matches::Array{Int,2})::Array{Int}
     losers = zeros(Int,length(winners))
     for i in 1:length(winners)
         match = matches[i,:]
@@ -244,11 +244,13 @@ end
 ##############################################################################
 
 #estimate evolution of draft rule based on real data
-function calculate_draft_rule(s::Season, winners=nothing, calc_ability=true,
-                              abilities=nothing, multiple=10, lambda=10,top_k = 1,
-                              seed=0)
+function calculate_draft_rule(s::Season, winners=nothing, multiple=10,
+                                top_k = 1, calc_ability=false, abilities=nothing,
+                                lambda=10, seed=0)
     #Random.seed!(seed)
     #default is to not calculate ability updates
+    println(multiple)
+    println(top_k)
     adjust = true
     matches = s.matches
     teams = s.teams
@@ -259,6 +261,10 @@ function calculate_draft_rule(s::Season, winners=nothing, calc_ability=true,
 
     if abilities==nothing && winners == nothing
         error("To simulate a season, must provide abilities to simulate from")
+    end
+
+    if abilities == nothing
+        abilities = zeros(N) .+ 1/N
     end
 
     if calc_ability==false
