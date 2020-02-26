@@ -269,7 +269,7 @@ function calculate_draft_rule(s::Season, winners=nothing, multiple=10,
 
     if calc_ability==false
         ahat =  zeros(N,M) .+ abilities
-        #println("not calculating")
+        println("not calculating")
     end
     if winners == nothing
         winners = zeros(Int64,M)
@@ -313,12 +313,13 @@ function calculate_draft_rule(s::Season, winners=nothing, multiple=10,
             probw2,probl2 = win_prob_sim(add_win(cwins[:,lag],t2),
                                         teams, matches[(m+1):M,:],
                                         game_prob(ahat2),top_k)
+
             diff1 = max(multiple*(probw1[t1]-probw2[t1]),0)
             diff2 = max(multiple*(probw2[t2]-probw1[t2]),0)
             if t1==1
-                incentives[m] = diff1
+                incentives[m] = diff1/multiple
             elseif t2==1
-                incentives[m] = diff2
+                incentives[m] = diff2/multiple
             else
                 incentives[m] = incentives[lag]
             end
@@ -345,5 +346,5 @@ function calculate_draft_rule(s::Season, winners=nothing, multiple=10,
         cwins[winners[m],m] += 1
         losers[m] = match[match.!=winners[m]][1]
     end
-    return Record(draft_prob, stop_time, cwins, ahat)#, incentives
+    return Record(draft_prob, stop_time, cwins, ahat), incentives
 end

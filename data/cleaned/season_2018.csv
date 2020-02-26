@@ -1,0 +1,1231 @@
+"Date","HTeam","HScore","ATeam","AScore","hID","aID","win"
+2017-10-17,"Boston Celtics",99,"Cleveland Cavaliers",102,2,6,6
+2017-10-17,"Houston Rockets",122,"Golden State Warriors",121,11,10,11
+2017-10-18,"Charlotte Hornets",90,"Detroit Pistons",102,4,9,9
+2017-10-18,"Brooklyn Nets",131,"Indiana Pacers",140,3,12,12
+2017-10-18,"Miami Heat",109,"Orlando Magic",116,16,22,22
+2017-10-18,"Philadelphia 76ers",115,"Washington Wizards",120,23,30,30
+2017-10-18,"Milwaukee Bucks",108,"Boston Celtics",100,17,2,17
+2017-10-18,"New Orleans Pelicans",91,"Memphis Grizzlies",103,19,15,15
+2017-10-18,"Atlanta Hawks",117,"Dallas Mavericks",111,1,7,1
+2017-10-18,"Denver Nuggets",96,"Utah Jazz",106,8,29,29
+2017-10-18,"Minnesota Timberwolves",99,"San Antonio Spurs",107,18,27,27
+2017-10-18,"Portland Trail Blazers",124,"Phoenix Suns",76,25,24,25
+2017-10-18,"Houston Rockets",105,"Sacramento Kings",100,11,26,11
+2017-10-19,"Chicago Bulls",100,"Toronto Raptors",117,5,28,28
+2017-10-19,"New York Knicks",84,"Oklahoma City Thunder",105,20,21,21
+2017-10-19,"Los Angeles Clippers",108,"Los Angeles Lakers",92,13,14,13
+2017-10-20,"Atlanta Hawks",91,"Charlotte Hornets",109,1,4,4
+2017-10-20,"Portland Trail Blazers",114,"Indiana Pacers",96,25,12,25
+2017-10-20,"Cleveland Cavaliers",116,"Milwaukee Bucks",97,6,17,6
+2017-10-20,"Boston Celtics",102,"Philadelphia 76ers",92,2,23,2
+2017-10-20,"Detroit Pistons",111,"Washington Wizards",115,9,30,30
+2017-10-20,"Orlando Magic",121,"Brooklyn Nets",126,22,3,3
+2017-10-20,"Utah Jazz",97,"Minnesota Timberwolves",100,29,18,18
+2017-10-20,"Sacramento Kings",93,"Dallas Mavericks",88,26,7,26
+2017-10-20,"Golden State Warriors",128,"New Orleans Pelicans",120,10,19,10
+2017-10-20,"Los Angeles Lakers",132,"Phoenix Suns",130,14,24,14
+2017-10-21,"Philadelphia 76ers",94,"Toronto Raptors",128,23,28,28
+2017-10-21,"San Antonio Spurs",87,"Chicago Bulls",77,27,5,27
+2017-10-21,"Orlando Magic",114,"Cleveland Cavaliers",93,22,6,22
+2017-10-21,"Dallas Mavericks",91,"Houston Rockets",107,7,11,11
+2017-10-21,"Golden State Warriors",101,"Memphis Grizzlies",111,10,15,15
+2017-10-21,"Indiana Pacers",108,"Miami Heat",112,12,16,16
+2017-10-21,"Detroit Pistons",111,"New York Knicks",107,9,20,9
+2017-10-21,"Portland Trail Blazers",110,"Milwaukee Bucks",113,25,17,17
+2017-10-21,"Sacramento Kings",79,"Denver Nuggets",96,26,8,8
+2017-10-21,"Oklahoma City Thunder",87,"Utah Jazz",96,21,29,29
+2017-10-21,"Phoenix Suns",88,"Los Angeles Clippers",130,24,13,13
+2017-10-22,"Atlanta Hawks",104,"Brooklyn Nets",116,1,3,3
+2017-10-22,"Minnesota Timberwolves",115,"Oklahoma City Thunder",113,18,21,18
+2017-10-22,"New Orleans Pelicans",119,"Los Angeles Lakers",112,19,14,19
+2017-10-23,"Philadelphia 76ers",97,"Detroit Pistons",86,23,9,23
+2017-10-23,"Atlanta Hawks",93,"Miami Heat",104,1,16,16
+2017-10-23,"Memphis Grizzlies",98,"Houston Rockets",90,15,11,15
+2017-10-23,"Charlotte Hornets",94,"Milwaukee Bucks",103,4,17,17
+2017-10-23,"Golden State Warriors",133,"Dallas Mavericks",103,10,7,10
+2017-10-23,"Toronto Raptors",97,"San Antonio Spurs",101,28,27,27
+2017-10-23,"Washington Wizards",109,"Denver Nuggets",104,30,8,30
+2017-10-23,"Sacramento Kings",115,"Phoenix Suns",117,26,24,24
+2017-10-24,"Chicago Bulls",112,"Cleveland Cavaliers",119,5,6,6
+2017-10-24,"Brooklyn Nets",121,"Orlando Magic",125,3,22,22
+2017-10-24,"New York Knicks",89,"Boston Celtics",110,20,2,2
+2017-10-24,"Indiana Pacers",130,"Minnesota Timberwolves",107,12,18,12
+2017-10-24,"New Orleans Pelicans",93,"Portland Trail Blazers",103,19,25,25
+2017-10-24,"Utah Jazz",84,"Los Angeles Clippers",102,29,13,13
+2017-10-25,"Denver Nuggets",93,"Charlotte Hornets",110,8,4,4
+2017-10-25,"Minnesota Timberwolves",101,"Detroit Pistons",122,18,9,9
+2017-10-25,"Houston Rockets",105,"Philadelphia 76ers",104,11,23,11
+2017-10-25,"Cleveland Cavaliers",107,"Brooklyn Nets",112,6,3,3
+2017-10-25,"San Antonio Spurs",117,"Miami Heat",100,27,16,27
+2017-10-25,"Indiana Pacers",96,"Oklahoma City Thunder",114,12,21,21
+2017-10-25,"Memphis Grizzlies",94,"Dallas Mavericks",103,15,7,7
+2017-10-25,"Utah Jazz",88,"Phoenix Suns",97,29,24,24
+2017-10-25,"Toronto Raptors",112,"Golden State Warriors",117,28,10,10
+2017-10-25,"Washington Wizards",99,"Los Angeles Lakers",102,30,14,14
+2017-10-26,"Atlanta Hawks",86,"Chicago Bulls",91,1,5,5
+2017-10-26,"Dallas Mavericks",91,"Memphis Grizzlies",96,7,15,15
+2017-10-26,"Boston Celtics",96,"Milwaukee Bucks",89,2,17,2
+2017-10-26,"Los Angeles Clippers",104,"Portland Trail Blazers",103,13,25,13
+2017-10-26,"New Orleans Pelicans",114,"Sacramento Kings",106,19,26,19
+2017-10-27,"Houston Rockets",109,"Charlotte Hornets",93,11,4,11
+2017-10-27,"San Antonio Spurs",87,"Orlando Magic",114,27,22,22
+2017-10-27,"Denver Nuggets",105,"Atlanta Hawks",100,8,1,8
+2017-10-27,"Brooklyn Nets",86,"New York Knicks",107,3,20,20
+2017-10-27,"Oklahoma City Thunder",116,"Minnesota Timberwolves",119,21,18,18
+2017-10-27,"Washington Wizards",117,"Golden State Warriors",120,30,10,10
+2017-10-27,"Toronto Raptors",101,"Los Angeles Lakers",92,28,14,28
+2017-10-28,"Cleveland Cavaliers",101,"New Orleans Pelicans",123,6,19,19
+2017-10-28,"Oklahoma City Thunder",101,"Chicago Bulls",69,21,5,21
+2017-10-28,"Houston Rockets",89,"Memphis Grizzlies",103,11,15,15
+2017-10-28,"Boston Celtics",96,"Miami Heat",90,2,16,2
+2017-10-28,"Philadelphia 76ers",112,"Dallas Mavericks",110,23,7,23
+2017-10-28,"Los Angeles Lakers",81,"Utah Jazz",96,14,29,29
+2017-10-28,"Phoenix Suns",107,"Portland Trail Blazers",114,24,25,25
+2017-10-28,"Detroit Pistons",95,"Los Angeles Clippers",87,9,13,9
+2017-10-29,"Milwaukee Bucks",117,"Atlanta Hawks",106,17,1,17
+2017-10-29,"San Antonio Spurs",94,"Indiana Pacers",97,27,12,12
+2017-10-29,"Denver Nuggets",124,"Brooklyn Nets",111,8,3,8
+2017-10-29,"Orlando Magic",113,"Charlotte Hornets",120,22,4,4
+2017-10-29,"Washington Wizards",110,"Sacramento Kings",83,30,26,30
+2017-10-29,"New York Knicks",114,"Cleveland Cavaliers",95,20,6,20
+2017-10-29,"Detroit Pistons",115,"Golden State Warriors",107,9,10,9
+2017-10-30,"San Antonio Spurs",94,"Boston Celtics",108,27,2,2
+2017-10-30,"Minnesota Timberwolves",125,"Miami Heat",122,18,16,18
+2017-10-30,"Denver Nuggets",110,"New York Knicks",116,8,20,20
+2017-10-30,"Philadelphia 76ers",115,"Houston Rockets",107,23,11,23
+2017-10-30,"Charlotte Hornets",104,"Memphis Grizzlies",99,4,15,4
+2017-10-30,"Orlando Magic",115,"New Orleans Pelicans",99,22,19,22
+2017-10-30,"Dallas Mavericks",89,"Utah Jazz",104,7,29,29
+2017-10-30,"Toronto Raptors",99,"Portland Trail Blazers",85,28,25,28
+2017-10-30,"Golden State Warriors",141,"Los Angeles Clippers",113,10,13,10
+2017-10-31,"Sacramento Kings",83,"Indiana Pacers",101,26,12,12
+2017-10-31,"Phoenix Suns",122,"Brooklyn Nets",114,24,3,24
+2017-10-31,"Oklahoma City Thunder",110,"Milwaukee Bucks",91,21,17,21
+2017-10-31,"Detroit Pistons",93,"Los Angeles Lakers",113,9,14,14
+2017-11-01,"Milwaukee Bucks",121,"Charlotte Hornets",126,17,4,4
+2017-11-01,"Indiana Pacers",124,"Cleveland Cavaliers",107,12,6,12
+2017-11-01,"Atlanta Hawks",109,"Philadelphia 76ers",119,1,23,23
+2017-11-01,"Phoenix Suns",122,"Washington Wizards",116,24,30,24
+2017-11-01,"Sacramento Kings",86,"Boston Celtics",113,26,2,2
+2017-11-01,"Chicago Bulls",91,"Miami Heat",97,5,16,16
+2017-11-01,"Orlando Magic",101,"Memphis Grizzlies",99,22,15,22
+2017-11-01,"Minnesota Timberwolves",104,"New Orleans Pelicans",98,18,19,18
+2017-11-01,"Houston Rockets",119,"New York Knicks",97,11,20,11
+2017-11-01,"Toronto Raptors",111,"Denver Nuggets",129,28,8,8
+2017-11-01,"Portland Trail Blazers",103,"Utah Jazz",112,25,29,29
+2017-11-01,"Dallas Mavericks",98,"Los Angeles Clippers",119,7,13,13
+2017-11-02,"Golden State Warriors",112,"San Antonio Spurs",92,10,27,10
+2017-11-02,"Los Angeles Lakers",110,"Portland Trail Blazers",113,14,25,25
+2017-11-03,"Milwaukee Bucks",96,"Detroit Pistons",105,17,9,9
+2017-11-03,"Chicago Bulls",105,"Orlando Magic",83,5,22,5
+2017-11-03,"Indiana Pacers",110,"Philadelphia 76ers",121,12,23,23
+2017-11-03,"Cleveland Cavaliers",130,"Washington Wizards",122,6,30,6
+2017-11-03,"Houston Rockets",119,"Atlanta Hawks",104,11,1,11
+2017-11-03,"Phoenix Suns",107,"New York Knicks",120,24,20,20
+2017-11-03,"New Orleans Pelicans",99,"Dallas Mavericks",94,19,7,19
+2017-11-03,"Charlotte Hornets",101,"San Antonio Spurs",108,4,27,27
+2017-11-03,"Miami Heat",94,"Denver Nuggets",95,16,8,8
+2017-11-03,"Toronto Raptors",109,"Utah Jazz",100,28,29,28
+2017-11-03,"Boston Celtics",101,"Oklahoma City Thunder",94,2,21,2
+2017-11-03,"Brooklyn Nets",112,"Los Angeles Lakers",124,3,14,14
+2017-11-04,"Memphis Grizzlies",113,"Los Angeles Clippers",104,15,13,15
+2017-11-04,"Sacramento Kings",99,"Detroit Pistons",108,26,9,9
+2017-11-04,"New Orleans Pelicans",96,"Chicago Bulls",90,19,5,19
+2017-11-04,"Dallas Mavericks",99,"Minnesota Timberwolves",112,7,18,18
+2017-11-04,"Golden State Warriors",127,"Denver Nuggets",108,10,8,10
+2017-11-05,"Atlanta Hawks",117,"Cleveland Cavaliers",115,1,6,1
+2017-11-05,"Miami Heat",104,"Los Angeles Clippers",101,16,13,16
+2017-11-05,"Boston Celtics",104,"Orlando Magic",88,2,22,2
+2017-11-05,"Washington Wizards",107,"Toronto Raptors",96,30,28,30
+2017-11-05,"Utah Jazz",110,"Houston Rockets",137,29,11,11
+2017-11-05,"Phoenix Suns",95,"San Antonio Spurs",112,24,27,27
+2017-11-05,"Indiana Pacers",101,"New York Knicks",108,12,20,20
+2017-11-05,"Charlotte Hornets",94,"Minnesota Timberwolves",112,4,18,18
+2017-11-05,"Oklahoma City Thunder",99,"Portland Trail Blazers",103,21,25,25
+2017-11-05,"Memphis Grizzlies",102,"Los Angeles Lakers",107,15,14,14
+2017-11-06,"Boston Celtics",110,"Atlanta Hawks",107,2,1,2
+2017-11-06,"Brooklyn Nets",98,"Phoenix Suns",92,3,24,3
+2017-11-06,"Miami Heat",80,"Golden State Warriors",97,16,10,10
+2017-11-07,"Milwaukee Bucks",119,"Cleveland Cavaliers",124,17,6,6
+2017-11-07,"New Orleans Pelicans",117,"Indiana Pacers",112,19,12,19
+2017-11-07,"Dallas Mavericks",113,"Washington Wizards",99,7,30,7
+2017-11-07,"Charlotte Hornets",113,"New York Knicks",118,4,20,20
+2017-11-07,"Chicago Bulls",114,"Toronto Raptors",119,5,28,28
+2017-11-07,"Los Angeles Clippers",107,"San Antonio Spurs",120,13,27,27
+2017-11-07,"Brooklyn Nets",104,"Denver Nuggets",112,3,8,8
+2017-11-07,"Philadelphia 76ers",104,"Utah Jazz",97,23,29,23
+2017-11-07,"Memphis Grizzlies",98,"Portland Trail Blazers",97,15,25,15
+2017-11-07,"Oklahoma City Thunder",86,"Sacramento Kings",94,21,26,26
+2017-11-08,"Indiana Pacers",97,"Detroit Pistons",114,12,9,9
+2017-11-08,"New York Knicks",99,"Orlando Magic",112,20,22,22
+2017-11-08,"Los Angeles Lakers",96,"Boston Celtics",107,14,2,2
+2017-11-08,"Miami Heat",126,"Phoenix Suns",115,16,24,16
+2017-11-08,"Minnesota Timberwolves",101,"Golden State Warriors",125,18,10,10
+2017-11-09,"Los Angeles Lakers",95,"Washington Wizards",111,14,30,30
+2017-11-09,"New Orleans Pelicans",118,"Toronto Raptors",122,19,28,28
+2017-11-09,"Cleveland Cavaliers",113,"Houston Rockets",117,6,11,11
+2017-11-09,"Philadelphia 76ers",108,"Sacramento Kings",109,23,26,26
+2017-11-09,"Oklahoma City Thunder",94,"Denver Nuggets",102,21,8,8
+2017-11-10,"Atlanta Hawks",104,"Detroit Pistons",111,1,9,9
+2017-11-10,"Charlotte Hornets",87,"Boston Celtics",90,4,2,2
+2017-11-10,"Indiana Pacers",105,"Chicago Bulls",87,12,5,12
+2017-11-10,"Los Angeles Clippers",111,"Oklahoma City Thunder",120,13,21,21
+2017-11-10,"Orlando Magic",128,"Phoenix Suns",112,22,24,22
+2017-11-10,"Milwaukee Bucks",94,"San Antonio Spurs",87,17,27,17
+2017-11-10,"Miami Heat",84,"Utah Jazz",74,16,29,16
+2017-11-10,"Brooklyn Nets",101,"Portland Trail Blazers",97,3,25,3
+2017-11-11,"Los Angeles Clippers",103,"New Orleans Pelicans",111,13,19,19
+2017-11-11,"Atlanta Hawks",94,"Washington Wizards",113,1,30,30
+2017-11-11,"Memphis Grizzlies",96,"Houston Rockets",111,15,11,11
+2017-11-11,"Sacramento Kings",91,"New York Knicks",118,26,20,20
+2017-11-11,"Cleveland Cavaliers",111,"Dallas Mavericks",104,6,7,6
+2017-11-11,"Philadelphia 76ers",114,"Golden State Warriors",135,23,10,10
+2017-11-11,"Los Angeles Lakers",90,"Milwaukee Bucks",98,14,17,17
+2017-11-11,"Chicago Bulls",94,"San Antonio Spurs",133,5,27,27
+2017-11-11,"Orlando Magic",107,"Denver Nuggets",125,22,8,8
+2017-11-11,"Minnesota Timberwolves",110,"Phoenix Suns",118,18,24,24
+2017-11-11,"Brooklyn Nets",106,"Utah Jazz",114,3,29,29
+2017-11-12,"Toronto Raptors",94,"Boston Celtics",95,28,2,2
+2017-11-12,"Miami Heat",103,"Detroit Pistons",112,16,9,9
+2017-11-12,"Houston Rockets",118,"Indiana Pacers",95,11,12,11
+2017-11-12,"Dallas Mavericks",99,"Oklahoma City Thunder",112,7,21,21
+2017-11-13,"Sacramento Kings",92,"Washington Wizards",110,26,30,30
+2017-11-13,"Cleveland Cavaliers",104,"New York Knicks",101,6,20,6
+2017-11-13,"Memphis Grizzlies",103,"Milwaukee Bucks",110,15,17,17
+2017-11-13,"Atlanta Hawks",105,"New Orleans Pelicans",106,1,19,19
+2017-11-13,"Los Angeles Lakers",100,"Phoenix Suns",93,14,24,14
+2017-11-13,"Minnesota Timberwolves",109,"Utah Jazz",98,18,29,18
+2017-11-13,"Denver Nuggets",82,"Portland Trail Blazers",99,8,25,25
+2017-11-13,"Orlando Magic",100,"Golden State Warriors",110,22,10,10
+2017-11-13,"Philadelphia 76ers",109,"Los Angeles Clippers",105,23,13,23
+2017-11-14,"Boston Celtics",109,"Brooklyn Nets",102,2,3,2
+2017-11-14,"Toronto Raptors",129,"Houston Rockets",113,28,11,28
+2017-11-14,"San Antonio Spurs",97,"Dallas Mavericks",91,27,7,27
+2017-11-15,"Sacramento Kings",80,"Atlanta Hawks",126,26,1,1
+2017-11-15,"Washington Wizards",102,"Miami Heat",93,30,16,30
+2017-11-15,"Utah Jazz",101,"New York Knicks",106,29,20,20
+2017-11-15,"Cleveland Cavaliers",115,"Charlotte Hornets",107,6,4,6
+2017-11-15,"Indiana Pacers",116,"Memphis Grizzlies",113,12,15,12
+2017-11-15,"Detroit Pistons",95,"Milwaukee Bucks",99,9,17,17
+2017-11-15,"San Antonio Spurs",86,"Minnesota Timberwolves",98,27,18,18
+2017-11-15,"Toronto Raptors",125,"New Orleans Pelicans",116,28,19,28
+2017-11-15,"Chicago Bulls",79,"Oklahoma City Thunder",92,5,21,21
+2017-11-15,"Orlando Magic",94,"Portland Trail Blazers",99,22,25,25
+2017-11-15,"Philadelphia 76ers",115,"Los Angeles Lakers",109,23,14,23
+2017-11-16,"Golden State Warriors",88,"Boston Celtics",92,10,2,2
+2017-11-16,"Houston Rockets",142,"Phoenix Suns",116,11,24,11
+2017-11-17,"Detroit Pistons",100,"Indiana Pacers",107,9,12,12
+2017-11-17,"Miami Heat",91,"Washington Wizards",88,16,30,16
+2017-11-17,"Utah Jazz",107,"Brooklyn Nets",118,29,3,3
+2017-11-17,"Los Angeles Clippers",113,"Cleveland Cavaliers",118,13,6,6
+2017-11-17,"New York Knicks",84,"Toronto Raptors",107,20,28,28
+2017-11-17,"Charlotte Hornets",120,"Chicago Bulls",123,4,5,5
+2017-11-17,"Oklahoma City Thunder",101,"San Antonio Spurs",104,21,27,27
+2017-11-17,"Minnesota Timberwolves",111,"Dallas Mavericks",87,18,7,18
+2017-11-17,"Portland Trail Blazers",82,"Sacramento Kings",86,25,26,26
+2017-11-17,"New Orleans Pelicans",114,"Denver Nuggets",146,19,8,8
+2017-11-17,"Phoenix Suns",122,"Los Angeles Lakers",113,24,14,24
+2017-11-18,"Los Angeles Clippers",87,"Charlotte Hornets",102,13,4,4
+2017-11-18,"Utah Jazz",125,"Orlando Magic",85,29,22,29
+2017-11-18,"Boston Celtics",110,"Atlanta Hawks",99,2,1,2
+2017-11-18,"Golden State Warriors",124,"Philadelphia 76ers",116,10,23,10
+2017-11-18,"Houston Rockets",105,"Memphis Grizzlies",83,11,15,11
+2017-11-18,"Milwaukee Bucks",79,"Dallas Mavericks",111,17,7,7
+2017-11-18,"Sacramento Kings",90,"Portland Trail Blazers",102,26,25,25
+2017-11-19,"Washington Wizards",91,"Toronto Raptors",100,30,28,28
+2017-11-19,"Indiana Pacers",120,"Miami Heat",95,12,16,12
+2017-11-19,"Golden State Warriors",118,"Brooklyn Nets",111,10,3,10
+2017-11-19,"Detroit Pistons",100,"Minnesota Timberwolves",97,9,18,9
+2017-11-19,"Chicago Bulls",105,"Phoenix Suns",113,5,24,24
+2017-11-19,"Denver Nuggets",109,"Los Angeles Lakers",127,8,14,14
+2017-11-20,"Minnesota Timberwolves",102,"Charlotte Hornets",118,18,4,4
+2017-11-20,"Cleveland Cavaliers",116,"Detroit Pistons",88,6,9,6
+2017-11-20,"Indiana Pacers",105,"Orlando Magic",97,12,22,12
+2017-11-20,"Utah Jazz",86,"Philadelphia 76ers",107,29,23,23
+2017-11-20,"Los Angeles Clippers",85,"New York Knicks",107,13,20,20
+2017-11-20,"Portland Trail Blazers",100,"Memphis Grizzlies",92,25,15,25
+2017-11-20,"Washington Wizards",99,"Milwaukee Bucks",88,30,17,30
+2017-11-20,"Oklahoma City Thunder",107,"New Orleans Pelicans",114,21,19,19
+2017-11-20,"Boston Celtics",110,"Dallas Mavericks",102,2,7,2
+2017-11-20,"Atlanta Hawks",85,"San Antonio Spurs",96,1,27,27
+2017-11-20,"Denver Nuggets",114,"Sacramento Kings",98,8,26,8
+2017-11-21,"Chicago Bulls",94,"Los Angeles Lakers",103,5,14,14
+2017-11-22,"Washington Wizards",124,"Charlotte Hornets",129,30,4,4
+2017-11-22,"Brooklyn Nets",109,"Cleveland Cavaliers",119,3,6,6
+2017-11-22,"Portland Trail Blazers",81,"Philadelphia 76ers",101,25,23,23
+2017-11-22,"Los Angeles Clippers",116,"Atlanta Hawks",103,13,1,13
+2017-11-22,"Boston Celtics",98,"Miami Heat",104,2,16,16
+2017-11-22,"Toronto Raptors",100,"New York Knicks",108,28,20,20
+2017-11-22,"Denver Nuggets",95,"Houston Rockets",125,8,11,11
+2017-11-22,"Dallas Mavericks",95,"Memphis Grizzlies",94,7,15,7
+2017-11-22,"Orlando Magic",118,"Minnesota Timberwolves",124,22,18,18
+2017-11-22,"San Antonio Spurs",90,"New Orleans Pelicans",107,27,19,19
+2017-11-22,"Golden State Warriors",91,"Oklahoma City Thunder",108,10,21,21
+2017-11-22,"Milwaukee Bucks",113,"Phoenix Suns",107,17,24,17
+2017-11-22,"Chicago Bulls",80,"Utah Jazz",110,5,29,29
+2017-11-22,"Los Angeles Lakers",102,"Sacramento Kings",113,14,26,26
+2017-11-24,"Portland Trail Blazers",127,"Brooklyn Nets",125,25,3,25
+2017-11-24,"New York Knicks",104,"Atlanta Hawks",116,20,1,1
+2017-11-24,"Orlando Magic",103,"Boston Celtics",118,22,2,2
+2017-11-24,"Charlotte Hornets",99,"Cleveland Cavaliers",100,4,6,6
+2017-11-24,"Toronto Raptors",104,"Indiana Pacers",107,28,12,12
+2017-11-24,"Miami Heat",109,"Minnesota Timberwolves",97,16,18,16
+2017-11-24,"Detroit Pistons",99,"Oklahoma City Thunder",98,9,21,9
+2017-11-24,"Memphis Grizzlies",92,"Denver Nuggets",104,15,8,8
+2017-11-24,"New Orleans Pelicans",115,"Phoenix Suns",91,19,24,19
+2017-11-24,"Chicago Bulls",94,"Golden State Warriors",143,5,10,10
+2017-11-25,"San Antonio Spurs",106,"Charlotte Hornets",86,27,4,27
+2017-11-25,"Orlando Magic",111,"Philadelphia 76ers",130,22,23,23
+2017-11-25,"Portland Trail Blazers",108,"Washington Wizards",105,25,30,25
+2017-11-25,"Toronto Raptors",112,"Atlanta Hawks",78,28,1,28
+2017-11-25,"New York Knicks",102,"Houston Rockets",117,20,11,11
+2017-11-25,"Boston Celtics",108,"Indiana Pacers",98,2,12,2
+2017-11-25,"Oklahoma City Thunder",81,"Dallas Mavericks",97,21,7,7
+2017-11-25,"New Orleans Pelicans",95,"Golden State Warriors",110,19,10,10
+2017-11-25,"Milwaukee Bucks",108,"Utah Jazz",121,17,29,29
+2017-11-25,"Los Angeles Clippers",97,"Sacramento Kings",95,13,26,13
+2017-11-26,"Miami Heat",100,"Chicago Bulls",93,16,5,16
+2017-11-26,"Phoenix Suns",108,"Minnesota Timberwolves",119,24,18,18
+2017-11-26,"Brooklyn Nets",98,"Memphis Grizzlies",88,3,15,3
+2017-11-27,"Orlando Magic",109,"Indiana Pacers",121,22,12,12
+2017-11-27,"Cleveland Cavaliers",113,"Philadelphia 76ers",91,6,23,6
+2017-11-27,"Detroit Pistons",118,"Boston Celtics",108,9,2,9
+2017-11-27,"Portland Trail Blazers",103,"New York Knicks",91,25,20,25
+2017-11-27,"Brooklyn Nets",103,"Houston Rockets",117,3,11,11
+2017-11-27,"Dallas Mavericks",108,"San Antonio Spurs",115,7,27,27
+2017-11-27,"Sacramento Kings",110,"Golden State Warriors",106,26,10,26
+2017-11-27,"Los Angeles Lakers",115,"Los Angeles Clippers",120,14,13,13
+2017-11-28,"Miami Heat",97,"Cleveland Cavaliers",108,16,6,6
+2017-11-28,"Phoenix Suns",104,"Chicago Bulls",99,24,5,24
+2017-11-28,"Washington Wizards",92,"Minnesota Timberwolves",89,30,18,30
+2017-11-28,"Milwaukee Bucks",112,"Sacramento Kings",87,17,26,17
+2017-11-28,"Denver Nuggets",77,"Utah Jazz",106,8,29,29
+2017-11-29,"Phoenix Suns",107,"Detroit Pistons",131,24,9,9
+2017-11-29,"Oklahoma City Thunder",108,"Orlando Magic",121,21,22,22
+2017-11-29,"Washington Wizards",113,"Philadelphia 76ers",118,30,23,23
+2017-11-29,"Miami Heat",86,"New York Knicks",115,16,20,20
+2017-11-29,"Charlotte Hornets",113,"Toronto Raptors",126,4,28,28
+2017-11-29,"Indiana Pacers",97,"Houston Rockets",118,12,11,11
+2017-11-29,"Minnesota Timberwolves",120,"New Orleans Pelicans",102,18,19,18
+2017-11-29,"Brooklyn Nets",109,"Dallas Mavericks",104,3,7,3
+2017-11-29,"Memphis Grizzlies",95,"San Antonio Spurs",104,15,27,27
+2017-11-29,"Golden State Warriors",127,"Los Angeles Lakers",123,10,14,10
+2017-11-30,"Cleveland Cavaliers",121,"Atlanta Hawks",114,6,1,6
+2017-11-30,"Philadelphia 76ers",97,"Boston Celtics",108,23,2,2
+2017-11-30,"Chicago Bulls",110,"Denver Nuggets",111,5,8,8
+2017-11-30,"Milwaukee Bucks",103,"Portland Trail Blazers",91,17,25,17
+2017-11-30,"Utah Jazz",126,"Los Angeles Clippers",107,29,13,29
+2017-12-01,"Golden State Warriors",133,"Orlando Magic",112,10,22,10
+2017-12-01,"Detroit Pistons",91,"Washington Wizards",109,9,30,30
+2017-12-01,"Indiana Pacers",115,"Toronto Raptors",120,12,28,28
+2017-12-01,"Sacramento Kings",107,"Chicago Bulls",106,26,5,26
+2017-12-01,"San Antonio Spurs",95,"Memphis Grizzlies",79,27,15,27
+2017-12-01,"Charlotte Hornets",100,"Miami Heat",105,4,16,16
+2017-12-01,"Minnesota Timberwolves",107,"Oklahoma City Thunder",111,18,21,21
+2017-12-01,"New Orleans Pelicans",108,"Utah Jazz",114,19,29,29
+2017-12-02,"Phoenix Suns",111,"Boston Celtics",116,24,2,2
+2017-12-02,"Los Angeles Clippers",82,"Dallas Mavericks",108,13,7,7
+2017-12-02,"Atlanta Hawks",114,"Brooklyn Nets",102,1,3,1
+2017-12-02,"Memphis Grizzlies",111,"Cleveland Cavaliers",116,15,6,6
+2017-12-02,"Detroit Pistons",103,"Philadelphia 76ers",108,9,23,23
+2017-12-02,"Sacramento Kings",104,"Milwaukee Bucks",109,26,17,17
+2017-12-02,"Los Angeles Lakers",100,"Denver Nuggets",115,14,8,8
+2017-12-02,"New Orleans Pelicans",123,"Portland Trail Blazers",116,19,25,19
+2017-12-03,"Orlando Magic",105,"New York Knicks",100,22,20,22
+2017-12-03,"Golden State Warriors",123,"Miami Heat",95,10,16,10
+2017-12-03,"Los Angeles Clippers",106,"Minnesota Timberwolves",112,13,18,18
+2017-12-03,"San Antonio Spurs",87,"Oklahoma City Thunder",90,27,21,21
+2017-12-03,"Houston Rockets",118,"Los Angeles Lakers",95,11,14,11
+2017-12-04,"Orlando Magic",94,"Charlotte Hornets",104,22,4,4
+2017-12-04,"New York Knicks",97,"Indiana Pacers",115,20,12,12
+2017-12-04,"Phoenix Suns",115,"Philadelphia 76ers",101,24,23,24
+2017-12-04,"Brooklyn Nets",110,"Atlanta Hawks",90,3,1,3
+2017-12-04,"Milwaukee Bucks",100,"Boston Celtics",111,17,2,2
+2017-12-04,"Cleveland Cavaliers",113,"Chicago Bulls",91,6,5,6
+2017-12-04,"Minnesota Timberwolves",92,"Memphis Grizzlies",95,18,15,15
+2017-12-04,"Golden State Warriors",125,"New Orleans Pelicans",115,10,19,10
+2017-12-04,"Denver Nuggets",105,"Dallas Mavericks",122,8,7,7
+2017-12-04,"Detroit Pistons",93,"San Antonio Spurs",96,9,27,27
+2017-12-04,"Washington Wizards",69,"Utah Jazz",116,30,29,29
+2017-12-05,"Phoenix Suns",113,"Toronto Raptors",126,24,28,28
+2017-12-05,"Utah Jazz",94,"Oklahoma City Thunder",100,29,21,21
+2017-12-05,"Washington Wizards",106,"Portland Trail Blazers",92,30,25,30
+2017-12-06,"Sacramento Kings",95,"Cleveland Cavaliers",101,26,6,6
+2017-12-06,"Chicago Bulls",96,"Indiana Pacers",98,5,12,12
+2017-12-06,"Atlanta Hawks",106,"Orlando Magic",110,1,22,22
+2017-12-06,"Dallas Mavericks",90,"Boston Celtics",97,7,2,2
+2017-12-06,"Memphis Grizzlies",88,"New York Knicks",99,15,20,20
+2017-12-06,"Golden State Warriors",101,"Charlotte Hornets",87,10,4,10
+2017-12-06,"Detroit Pistons",100,"Milwaukee Bucks",104,9,17,17
+2017-12-06,"Denver Nuggets",114,"New Orleans Pelicans",123,8,19,19
+2017-12-06,"Miami Heat",105,"San Antonio Spurs",117,16,27,27
+2017-12-06,"Minnesota Timberwolves",113,"Los Angeles Clippers",107,18,13,18
+2017-12-07,"Los Angeles Lakers",107,"Philadelphia 76ers",104,14,23,14
+2017-12-07,"Washington Wizards",109,"Phoenix Suns",99,30,24,30
+2017-12-07,"Oklahoma City Thunder",95,"Brooklyn Nets",100,21,3,3
+2017-12-07,"Houston Rockets",112,"Utah Jazz",101,11,29,11
+2017-12-08,"Chicago Bulls",119,"Charlotte Hornets",111,5,4,5
+2017-12-08,"Golden State Warriors",102,"Detroit Pistons",98,10,9,10
+2017-12-08,"Cleveland Cavaliers",102,"Indiana Pacers",106,6,12,12
+2017-12-08,"Denver Nuggets",103,"Orlando Magic",89,8,22,8
+2017-12-08,"Toronto Raptors",116,"Memphis Grizzlies",107,28,15,28
+2017-12-08,"Dallas Mavericks",102,"Milwaukee Bucks",109,7,17,17
+2017-12-08,"Sacramento Kings",116,"New Orleans Pelicans",109,26,19,26
+2017-12-08,"Boston Celtics",102,"San Antonio Spurs",105,2,27,27
+2017-12-09,"Washington Wizards",112,"Los Angeles Clippers",113,30,13,13
+2017-12-09,"Miami Heat",101,"Brooklyn Nets",89,16,3,16
+2017-12-09,"Los Angeles Lakers",110,"Charlotte Hornets",99,14,4,14
+2017-12-09,"Orlando Magic",110,"Atlanta Hawks",117,22,1,1
+2017-12-09,"New York Knicks",102,"Chicago Bulls",104,20,5,5
+2017-12-09,"Philadelphia 76ers",98,"Cleveland Cavaliers",105,23,6,6
+2017-12-09,"Utah Jazz",100,"Milwaukee Bucks",117,29,17,17
+2017-12-09,"Oklahoma City Thunder",102,"Memphis Grizzlies",101,21,15,21
+2017-12-09,"San Antonio Spurs",104,"Phoenix Suns",101,27,24,27
+2017-12-09,"Houston Rockets",124,"Portland Trail Blazers",117,11,25,11
+2017-12-10,"Toronto Raptors",102,"Sacramento Kings",87,28,26,28
+2017-12-10,"Boston Celtics",91,"Detroit Pistons",81,2,9,2
+2017-12-10,"Denver Nuggets",116,"Indiana Pacers",126,8,12,12
+2017-12-10,"Dallas Mavericks",92,"Minnesota Timberwolves",97,7,18,18
+2017-12-10,"Philadelphia 76ers",124,"New Orleans Pelicans",131,23,19,19
+2017-12-10,"Atlanta Hawks",107,"New York Knicks",111,1,20,20
+2017-12-11,"Boston Celtics",85,"Chicago Bulls",108,2,5,5
+2017-12-11,"New Orleans Pelicans",123,"Houston Rockets",130,19,11,11
+2017-12-11,"Miami Heat",107,"Memphis Grizzlies",82,16,15,16
+2017-12-11,"Charlotte Hornets",116,"Oklahoma City Thunder",103,4,21,4
+2017-12-11,"Portland Trail Blazers",104,"Golden State Warriors",111,25,10,10
+2017-12-11,"Toronto Raptors",91,"Los Angeles Clippers",96,28,13,13
+2017-12-12,"Atlanta Hawks",114,"Cleveland Cavaliers",123,1,6,6
+2017-12-12,"Denver Nuggets",103,"Detroit Pistons",84,8,9,8
+2017-12-12,"Los Angeles Lakers",109,"New York Knicks",113,14,20,20
+2017-12-12,"Washington Wizards",98,"Brooklyn Nets",103,30,3,3
+2017-12-12,"San Antonio Spurs",89,"Dallas Mavericks",95,27,7,7
+2017-12-12,"Philadelphia 76ers",118,"Minnesota Timberwolves",112,23,18,23
+2017-12-12,"Phoenix Suns",92,"Sacramento Kings",99,24,26,26
+2017-12-13,"Oklahoma City Thunder",100,"Indiana Pacers",95,21,12,21
+2017-12-13,"Los Angeles Clippers",106,"Orlando Magic",95,13,22,13
+2017-12-13,"Memphis Grizzlies",87,"Washington Wizards",93,15,30,30
+2017-12-13,"Denver Nuggets",118,"Boston Celtics",124,8,2,2
+2017-12-13,"Portland Trail Blazers",102,"Miami Heat",95,25,16,25
+2017-12-13,"Utah Jazz",100,"Chicago Bulls",103,29,5,5
+2017-12-13,"Milwaukee Bucks",108,"New Orleans Pelicans",115,17,19,19
+2017-12-13,"Toronto Raptors",115,"Phoenix Suns",109,28,24,28
+2017-12-13,"Charlotte Hornets",96,"Houston Rockets",108,4,11,11
+2017-12-14,"Detroit Pistons",105,"Atlanta Hawks",91,9,1,9
+2017-12-14,"New York Knicks",111,"Brooklyn Nets",104,20,3,20
+2017-12-14,"Los Angeles Lakers",112,"Cleveland Cavaliers",121,14,6,6
+2017-12-14,"Sacramento Kings",96,"Minnesota Timberwolves",119,26,18,18
+2017-12-14,"Dallas Mavericks",97,"Golden State Warriors",112,7,10,10
+2017-12-15,"Miami Heat",104,"Charlotte Hornets",98,16,4,16
+2017-12-15,"Detroit Pistons",104,"Indiana Pacers",98,9,12,9
+2017-12-15,"Portland Trail Blazers",95,"Orlando Magic",88,25,22,25
+2017-12-15,"Oklahoma City Thunder",119,"Philadelphia 76ers",117,21,23,21
+2017-12-15,"Los Angeles Clippers",91,"Washington Wizards",100,13,30,30
+2017-12-15,"Utah Jazz",107,"Boston Celtics",95,29,2,29
+2017-12-15,"Brooklyn Nets",87,"Toronto Raptors",120,3,28,28
+2017-12-15,"Atlanta Hawks",94,"Memphis Grizzlies",96,1,15,15
+2017-12-15,"Chicago Bulls",115,"Milwaukee Bucks",109,5,17,5
+2017-12-15,"New Orleans Pelicans",111,"Denver Nuggets",117,19,8,8
+2017-12-15,"San Antonio Spurs",109,"Houston Rockets",124,27,11,11
+2017-12-16,"Portland Trail Blazers",93,"Charlotte Hornets",91,25,4,25
+2017-12-16,"Utah Jazz",100,"Cleveland Cavaliers",109,29,6,6
+2017-12-16,"Oklahoma City Thunder",96,"New York Knicks",111,21,20,20
+2017-12-16,"Milwaukee Bucks",111,"Houston Rockets",115,17,11,11
+2017-12-16,"Los Angeles Clippers",85,"Miami Heat",90,13,16,16
+2017-12-16,"Phoenix Suns",108,"Minnesota Timberwolves",106,24,18,24
+2017-12-16,"Dallas Mavericks",96,"San Antonio Spurs",98,7,27,27
+2017-12-16,"Boston Celtics",102,"Memphis Grizzlies",93,2,15,2
+2017-12-17,"Sacramento Kings",93,"Toronto Raptors",108,26,28,28
+2017-12-17,"Orlando Magic",110,"Detroit Pistons",114,22,9,9
+2017-12-17,"Indiana Pacers",109,"Brooklyn Nets",97,12,3,12
+2017-12-17,"Cleveland Cavaliers",106,"Washington Wizards",99,6,30,6
+2017-12-18,"New York Knicks",91,"Charlotte Hornets",109,20,4,4
+2017-12-18,"Boston Celtics",112,"Indiana Pacers",111,2,12,2
+2017-12-18,"Miami Heat",104,"Atlanta Hawks",110,16,1,1
+2017-12-18,"Philadelphia 76ers",115,"Chicago Bulls",117,23,5,5
+2017-12-18,"Utah Jazz",99,"Houston Rockets",120,29,11,11
+2017-12-18,"Portland Trail Blazers",107,"Minnesota Timberwolves",108,25,18,18
+2017-12-18,"Denver Nuggets",94,"Oklahoma City Thunder",95,8,21,21
+2017-12-18,"Phoenix Suns",97,"Dallas Mavericks",91,24,7,24
+2017-12-18,"Los Angeles Clippers",91,"San Antonio Spurs",109,13,27,27
+2017-12-18,"Golden State Warriors",116,"Los Angeles Lakers",114,10,14,10
+2017-12-19,"Sacramento Kings",101,"Philadelphia 76ers",95,26,23,26
+2017-12-19,"New Orleans Pelicans",106,"Washington Wizards",116,19,30,30
+2017-12-19,"Cleveland Cavaliers",116,"Milwaukee Bucks",119,6,17,17
+2017-12-20,"Toronto Raptors",129,"Charlotte Hornets",111,28,4,28
+2017-12-20,"Indiana Pacers",105,"Atlanta Hawks",95,12,1,12
+2017-12-20,"Miami Heat",90,"Boston Celtics",89,16,2,16
+2017-12-20,"Sacramento Kings",104,"Brooklyn Nets",99,26,3,26
+2017-12-20,"Orlando Magic",94,"Chicago Bulls",112,22,5,5
+2017-12-20,"Los Angeles Lakers",122,"Houston Rockets",116,14,11,14
+2017-12-20,"Utah Jazz",79,"Oklahoma City Thunder",107,29,21,21
+2017-12-20,"Detroit Pistons",93,"Dallas Mavericks",110,9,7,7
+2017-12-20,"Minnesota Timberwolves",112,"Denver Nuggets",104,18,8,18
+2017-12-20,"San Antonio Spurs",93,"Portland Trail Blazers",91,27,25,27
+2017-12-20,"Memphis Grizzlies",84,"Golden State Warriors",97,15,10,10
+2017-12-20,"Phoenix Suns",95,"Los Angeles Clippers",108,24,13,13
+2017-12-21,"Chicago Bulls",112,"Cleveland Cavaliers",115,5,6,6
+2017-12-21,"Toronto Raptors",114,"Philadelphia 76ers",109,28,23,28
+2017-12-21,"Boston Celtics",93,"New York Knicks",102,2,20,20
+2017-12-21,"Memphis Grizzlies",95,"Phoenix Suns",97,15,24,24
+2017-12-21,"San Antonio Spurs",89,"Utah Jazz",100,27,29,29
+2017-12-22,"New York Knicks",101,"Detroit Pistons",104,20,9,9
+2017-12-22,"New Orleans Pelicans",111,"Orlando Magic",97,19,22,19
+2017-12-22,"Washington Wizards",84,"Brooklyn Nets",119,30,3,3
+2017-12-22,"Los Angeles Clippers",128,"Houston Rockets",118,13,11,13
+2017-12-22,"Dallas Mavericks",101,"Miami Heat",113,7,16,16
+2017-12-22,"Charlotte Hornets",104,"Milwaukee Bucks",109,4,17,17
+2017-12-22,"Atlanta Hawks",117,"Oklahoma City Thunder",120,1,21,21
+2017-12-22,"Denver Nuggets",102,"Portland Trail Blazers",85,8,25,8
+2017-12-22,"Los Angeles Lakers",106,"Golden State Warriors",113,14,10,10
+2017-12-23,"Philadelphia 76ers",86,"Toronto Raptors",102,23,28,28
+2017-12-23,"Milwaukee Bucks",106,"Charlotte Hornets",111,17,4,4
+2017-12-23,"Brooklyn Nets",119,"Indiana Pacers",123,3,12,12
+2017-12-23,"Orlando Magic",103,"Washington Wizards",130,22,30,30
+2017-12-23,"Dallas Mavericks",107,"Atlanta Hawks",112,7,1,1
+2017-12-23,"Chicago Bulls",92,"Boston Celtics",117,5,2,2
+2017-12-23,"Los Angeles Clippers",112,"Memphis Grizzlies",115,13,15,15
+2017-12-23,"New Orleans Pelicans",109,"Miami Heat",94,19,16,19
+2017-12-23,"Oklahoma City Thunder",103,"Utah Jazz",89,21,29,21
+2017-12-23,"Denver Nuggets",96,"Golden State Warriors",81,8,10,8
+2017-12-23,"Minnesota Timberwolves",115,"Phoenix Suns",106,18,24,18
+2017-12-23,"Portland Trail Blazers",95,"Los Angeles Lakers",92,25,14,25
+2017-12-23,"San Antonio Spurs",108,"Sacramento Kings",99,27,26,27
+2017-12-25,"Philadelphia 76ers",105,"New York Knicks",98,23,20,23
+2017-12-25,"Cleveland Cavaliers",92,"Golden State Warriors",99,6,10,10
+2017-12-25,"Washington Wizards",111,"Boston Celtics",103,30,2,30
+2017-12-25,"Houston Rockets",107,"Oklahoma City Thunder",112,11,21,21
+2017-12-25,"Minnesota Timberwolves",121,"Los Angeles Lakers",104,18,14,18
+2017-12-26,"Toronto Raptors",93,"Dallas Mavericks",98,28,7,7
+2017-12-26,"Indiana Pacers",83,"Detroit Pistons",107,12,9,9
+2017-12-26,"Orlando Magic",89,"Miami Heat",107,22,16,16
+2017-12-26,"Chicago Bulls",115,"Milwaukee Bucks",106,5,17,5
+2017-12-26,"Brooklyn Nets",97,"San Antonio Spurs",109,3,27,27
+2017-12-26,"Utah Jazz",83,"Denver Nuggets",107,29,8,8
+2017-12-26,"Memphis Grizzlies",97,"Phoenix Suns",99,15,24,24
+2017-12-26,"Sacramento Kings",95,"Los Angeles Clippers",122,26,13,13
+2017-12-27,"Boston Celtics",102,"Charlotte Hornets",91,2,4,2
+2017-12-27,"Dallas Mavericks",98,"Indiana Pacers",94,7,12,7
+2017-12-27,"Washington Wizards",99,"Atlanta Hawks",113,30,1,1
+2017-12-27,"New York Knicks",87,"Chicago Bulls",92,20,5,5
+2017-12-27,"Denver Nuggets",125,"Minnesota Timberwolves",128,8,18,18
+2017-12-27,"Brooklyn Nets",113,"New Orleans Pelicans",128,3,19,19
+2017-12-27,"Toronto Raptors",107,"Oklahoma City Thunder",124,28,21,21
+2017-12-27,"Cleveland Cavaliers",95,"Sacramento Kings",109,6,26,26
+2017-12-27,"Utah Jazz",101,"Golden State Warriors",126,29,10,10
+2017-12-27,"Memphis Grizzlies",109,"Los Angeles Lakers",99,15,14,15
+2017-12-28,"Detroit Pistons",89,"Orlando Magic",102,9,22,22
+2017-12-28,"Houston Rockets",98,"Boston Celtics",99,11,2,2
+2017-12-28,"Minnesota Timberwolves",96,"Milwaukee Bucks",102,18,17,17
+2017-12-28,"New York Knicks",107,"San Antonio Spurs",119,20,27,27
+2017-12-28,"Philadelphia 76ers",110,"Portland Trail Blazers",114,23,25,25
+2017-12-29,"Houston Rockets",103,"Washington Wizards",121,11,30,30
+2017-12-29,"Atlanta Hawks",98,"Toronto Raptors",111,1,28,28
+2017-12-29,"Indiana Pacers",107,"Chicago Bulls",119,12,5,5
+2017-12-29,"Brooklyn Nets",111,"Miami Heat",87,3,16,3
+2017-12-29,"Dallas Mavericks",128,"New Orleans Pelicans",120,7,19,7
+2017-12-29,"Milwaukee Bucks",97,"Oklahoma City Thunder",95,17,21,17
+2017-12-29,"Phoenix Suns",111,"Sacramento Kings",101,24,26,24
+2017-12-29,"Charlotte Hornets",111,"Golden State Warriors",100,4,10,4
+2017-12-29,"Los Angeles Clippers",121,"Los Angeles Lakers",106,13,14,13
+2017-12-30,"San Antonio Spurs",79,"Detroit Pistons",93,27,9,9
+2017-12-30,"New York Knicks",105,"New Orleans Pelicans",103,20,19,20
+2017-12-30,"Miami Heat",117,"Orlando Magic",111,16,22,16
+2017-12-30,"Portland Trail Blazers",89,"Atlanta Hawks",104,25,1,1
+2017-12-30,"Cleveland Cavaliers",101,"Utah Jazz",104,6,29,29
+2017-12-30,"Memphis Grizzlies",128,"Golden State Warriors",141,15,10,10
+2017-12-30,"Philadelphia 76ers",107,"Denver Nuggets",102,23,8,23
+2017-12-31,"Chicago Bulls",110,"Washington Wizards",114,5,30,30
+2017-12-31,"Minnesota Timberwolves",107,"Indiana Pacers",90,18,12,18
+2017-12-31,"Brooklyn Nets",105,"Boston Celtics",108,3,2,2
+2017-12-31,"Los Angeles Lakers",142,"Houston Rockets",148,14,11,11
+2017-12-31,"Charlotte Hornets",98,"Los Angeles Clippers",106,4,13,13
+2017-12-31,"Dallas Mavericks",116,"Oklahoma City Thunder",113,7,21,7
+2017-12-31,"Memphis Grizzlies",114,"Sacramento Kings",96,15,26,15
+2017-12-31,"Philadelphia 76ers",123,"Phoenix Suns",110,23,24,23
+2018-01-01,"Orlando Magic",95,"Brooklyn Nets",98,22,3,3
+2018-01-01,"Milwaukee Bucks",127,"Toronto Raptors",131,17,28,28
+2018-01-01,"Portland Trail Blazers",124,"Chicago Bulls",120,25,5,25
+2018-01-01,"Los Angeles Lakers",96,"Minnesota Timberwolves",114,14,18,18
+2018-01-02,"Portland Trail Blazers",110,"Cleveland Cavaliers",127,25,6,6
+2018-01-02,"San Antonio Spurs",100,"New York Knicks",91,27,20,27
+2018-01-02,"Atlanta Hawks",103,"Phoenix Suns",104,1,24,24
+2018-01-02,"Charlotte Hornets",131,"Sacramento Kings",111,4,26,4
+2018-01-02,"Memphis Grizzlies",105,"Los Angeles Clippers",113,15,13,13
+2018-01-03,"Houston Rockets",116,"Orlando Magic",98,11,22,11
+2018-01-03,"San Antonio Spurs",106,"Philadelphia 76ers",112,27,23,23
+2018-01-03,"New York Knicks",103,"Washington Wizards",121,20,30,30
+2018-01-03,"Minnesota Timberwolves",97,"Brooklyn Nets",98,18,3,3
+2018-01-03,"Detroit Pistons",104,"Miami Heat",111,9,16,16
+2018-01-03,"Cleveland Cavaliers",88,"Boston Celtics",102,6,2,2
+2018-01-03,"Toronto Raptors",124,"Chicago Bulls",115,28,5,28
+2018-01-03,"Indiana Pacers",101,"Milwaukee Bucks",122,12,17,17
+2018-01-03,"Golden State Warriors",125,"Dallas Mavericks",122,10,7,10
+2018-01-03,"Phoenix Suns",111,"Denver Nuggets",134,24,8,8
+2018-01-03,"New Orleans Pelicans",108,"Utah Jazz",98,19,29,19
+2018-01-03,"Oklahoma City Thunder",133,"Los Angeles Lakers",96,21,14,21
+2018-01-04,"Golden State Warriors",124,"Houston Rockets",114,10,11,10
+2018-01-04,"Oklahoma City Thunder",127,"Los Angeles Clippers",117,21,13,21
+2018-01-05,"Minnesota Timberwolves",84,"Boston Celtics",91,18,2,2
+2018-01-05,"Detroit Pistons",78,"Philadelphia 76ers",114,9,23,23
+2018-01-05,"New York Knicks",103,"Miami Heat",107,20,16,16
+2018-01-05,"Toronto Raptors",129,"Milwaukee Bucks",110,28,17,28
+2018-01-05,"Chicago Bulls",127,"Dallas Mavericks",124,5,7,5
+2018-01-05,"Phoenix Suns",89,"San Antonio Spurs",103,24,27,27
+2018-01-05,"Utah Jazz",91,"Denver Nuggets",99,29,8,8
+2018-01-05,"Washington Wizards",102,"Memphis Grizzlies",100,30,15,30
+2018-01-05,"Atlanta Hawks",89,"Portland Trail Blazers",110,1,25,25
+2018-01-05,"Charlotte Hornets",108,"Los Angeles Lakers",94,4,14,4
+2018-01-06,"Golden State Warriors",121,"Los Angeles Clippers",105,10,13,10
+2018-01-06,"Boston Celtics",87,"Brooklyn Nets",85,2,3,2
+2018-01-06,"Houston Rockets",101,"Detroit Pistons",108,11,9,9
+2018-01-06,"Chicago Bulls",86,"Indiana Pacers",125,5,12,12
+2018-01-06,"Cleveland Cavaliers",131,"Orlando Magic",127,6,22,6
+2018-01-06,"Milwaukee Bucks",110,"Washington Wizards",103,17,30,17
+2018-01-06,"New Orleans Pelicans",98,"Minnesota Timberwolves",116,19,18,18
+2018-01-06,"Denver Nuggets",98,"Sacramento Kings",106,8,26,26
+2018-01-07,"Utah Jazz",102,"Miami Heat",103,29,16,16
+2018-01-07,"New York Knicks",100,"Dallas Mavericks",96,20,7,20
+2018-01-07,"Oklahoma City Thunder",100,"Phoenix Suns",114,21,24,24
+2018-01-07,"San Antonio Spurs",110,"Portland Trail Blazers",111,27,25,25
+2018-01-07,"Atlanta Hawks",113,"Los Angeles Lakers",132,1,14,14
+2018-01-08,"Milwaukee Bucks",96,"Indiana Pacers",109,17,12,12
+2018-01-08,"Toronto Raptors",114,"Brooklyn Nets",113,28,3,28
+2018-01-08,"Houston Rockets",116,"Chicago Bulls",107,11,5,11
+2018-01-08,"Cleveland Cavaliers",99,"Minnesota Timberwolves",127,6,18,18
+2018-01-08,"Detroit Pistons",109,"New Orleans Pelicans",112,9,19,19
+2018-01-08,"San Antonio Spurs",107,"Sacramento Kings",100,27,26,27
+2018-01-08,"Denver Nuggets",114,"Golden State Warriors",124,8,10,10
+2018-01-08,"Atlanta Hawks",107,"Los Angeles Clippers",108,1,13,13
+2018-01-09,"Miami Heat",90,"Toronto Raptors",89,16,28,16
+2018-01-09,"Portland Trail Blazers",117,"Oklahoma City Thunder",106,25,21,25
+2018-01-09,"Orlando Magic",99,"Dallas Mavericks",114,22,7,7
+2018-01-09,"Sacramento Kings",86,"Los Angeles Lakers",99,26,14,14
+2018-01-10,"Dallas Mavericks",115,"Charlotte Hornets",111,7,4,7
+2018-01-10,"Miami Heat",114,"Indiana Pacers",106,16,12,16
+2018-01-10,"Utah Jazz",107,"Washington Wizards",104,29,30,29
+2018-01-10,"Detroit Pistons",114,"Brooklyn Nets",80,9,3,9
+2018-01-10,"Chicago Bulls",122,"New York Knicks",119,5,20,5
+2018-01-10,"Portland Trail Blazers",112,"Houston Rockets",121,25,11,11
+2018-01-10,"New Orleans Pelicans",102,"Memphis Grizzlies",105,19,15,15
+2018-01-10,"Orlando Magic",103,"Milwaukee Bucks",110,22,17,17
+2018-01-10,"Oklahoma City Thunder",88,"Minnesota Timberwolves",104,21,18,18
+2018-01-10,"Atlanta Hawks",110,"Denver Nuggets",97,1,8,1
+2018-01-10,"Los Angeles Clippers",125,"Golden State Warriors",106,13,10,13
+2018-01-11,"Boston Celtics",114,"Philadelphia 76ers",103,2,23,2
+2018-01-11,"Cleveland Cavaliers",99,"Toronto Raptors",133,6,28,28
+2018-01-11,"Los Angeles Clippers",121,"Sacramento Kings",115,13,26,13
+2018-01-11,"San Antonio Spurs",81,"Los Angeles Lakers",93,27,14,14
+2018-01-12,"Utah Jazz",88,"Charlotte Hornets",99,29,4,4
+2018-01-12,"Cleveland Cavaliers",95,"Indiana Pacers",97,6,12,12
+2018-01-12,"Orlando Magic",119,"Washington Wizards",125,22,30,30
+2018-01-12,"Brooklyn Nets",110,"Atlanta Hawks",105,3,1,3
+2018-01-12,"Golden State Warriors",108,"Milwaukee Bucks",94,10,17,10
+2018-01-12,"New York Knicks",108,"Minnesota Timberwolves",118,20,18,18
+2018-01-12,"Portland Trail Blazers",113,"New Orleans Pelicans",119,25,19,19
+2018-01-12,"Memphis Grizzlies",78,"Denver Nuggets",87,15,8,8
+2018-01-12,"Houston Rockets",112,"Phoenix Suns",95,11,24,11
+2018-01-13,"Los Angeles Lakers",107,"Dallas Mavericks",101,14,7,14
+2018-01-13,"Sacramento Kings",105,"Los Angeles Clippers",126,26,13,13
+2018-01-13,"Oklahoma City Thunder",101,"Charlotte Hornets",91,21,4,21
+2018-01-13,"Brooklyn Nets",113,"Washington Wizards",119,3,30,30
+2018-01-13,"Golden State Warriors",127,"Toronto Raptors",125,10,28,10
+2018-01-13,"Detroit Pistons",105,"Chicago Bulls",107,9,5,5
+2018-01-13,"Denver Nuggets",80,"San Antonio Spurs",112,8,27,27
+2018-01-14,"Milwaukee Bucks",79,"Miami Heat",97,17,16,16
+2018-01-14,"New Orleans Pelicans",123,"New York Knicks",118,19,20,19
+2018-01-14,"Indiana Pacers",120,"Phoenix Suns",97,12,24,12
+2018-01-14,"Portland Trail Blazers",103,"Minnesota Timberwolves",120,25,18,18
+2018-01-15,"Charlotte Hornets",118,"Detroit Pistons",107,4,9,4
+2018-01-15,"Toronto Raptors",111,"Philadelphia 76ers",117,28,23,23
+2018-01-15,"Milwaukee Bucks",104,"Washington Wizards",95,17,30,17
+2018-01-15,"San Antonio Spurs",99,"Atlanta Hawks",102,27,1,1
+2018-01-15,"New York Knicks",119,"Brooklyn Nets",104,20,3,20
+2018-01-15,"Miami Heat",111,"Chicago Bulls",119,16,5,5
+2018-01-15,"Los Angeles Lakers",114,"Memphis Grizzlies",123,14,15,15
+2018-01-15,"Golden State Warriors",118,"Cleveland Cavaliers",108,10,6,10
+2018-01-15,"Sacramento Kings",88,"Oklahoma City Thunder",95,26,21,21
+2018-01-15,"Indiana Pacers",109,"Utah Jazz",94,12,29,12
+2018-01-15,"Houston Rockets",102,"Los Angeles Clippers",113,11,13,13
+2018-01-16,"Minnesota Timberwolves",102,"Orlando Magic",108,18,22,22
+2018-01-16,"New Orleans Pelicans",116,"Boston Celtics",113,19,2,19
+2018-01-16,"Dallas Mavericks",102,"Denver Nuggets",105,7,8,8
+2018-01-16,"Phoenix Suns",111,"Portland Trail Blazers",118,24,25,25
+2018-01-17,"Washington Wizards",109,"Charlotte Hornets",133,30,4,4
+2018-01-17,"New Orleans Pelicans",93,"Atlanta Hawks",94,19,1,1
+2018-01-17,"San Antonio Spurs",100,"Brooklyn Nets",95,27,3,27
+2018-01-17,"Detroit Pistons",91,"Toronto Raptors",96,9,28,28
+2018-01-17,"Golden State Warriors",119,"Chicago Bulls",112,10,5,10
+2018-01-17,"New York Knicks",99,"Memphis Grizzlies",105,20,15,15
+2018-01-17,"Miami Heat",106,"Milwaukee Bucks",101,16,17,16
+2018-01-17,"Los Angeles Lakers",90,"Oklahoma City Thunder",114,14,21,21
+2018-01-17,"Utah Jazz",120,"Sacramento Kings",105,29,26,29
+2018-01-17,"Denver Nuggets",104,"Los Angeles Clippers",109,8,13,13
+2018-01-18,"Philadelphia 76ers",89,"Boston Celtics",80,23,2,23
+2018-01-18,"Orlando Magic",103,"Cleveland Cavaliers",104,22,6,6
+2018-01-18,"Minnesota Timberwolves",98,"Houston Rockets",116,18,11,11
+2018-01-18,"Indiana Pacers",86,"Portland Trail Blazers",100,12,25,25
+2018-01-19,"San Antonio Spurs",83,"Toronto Raptors",86,27,28,28
+2018-01-19,"Miami Heat",95,"Brooklyn Nets",101,16,3,3
+2018-01-19,"Washington Wizards",122,"Detroit Pistons",112,30,9,30
+2018-01-19,"Sacramento Kings",88,"Memphis Grizzlies",106,26,15,15
+2018-01-19,"Phoenix Suns",108,"Denver Nuggets",100,24,8,24
+2018-01-19,"Indiana Pacers",86,"Los Angeles Lakers",99,12,14,14
+2018-01-19,"New York Knicks",117,"Utah Jazz",115,20,29,20
+2018-01-20,"Oklahoma City Thunder",148,"Cleveland Cavaliers",124,21,6,21
+2018-01-20,"Chicago Bulls",113,"Atlanta Hawks",97,5,1,5
+2018-01-20,"Miami Heat",106,"Charlotte Hornets",105,16,4,16
+2018-01-20,"Memphis Grizzlies",104,"New Orleans Pelicans",111,15,19,19
+2018-01-20,"Milwaukee Bucks",94,"Philadelphia 76ers",116,17,23,23
+2018-01-20,"Golden State Warriors",108,"Houston Rockets",116,10,11,11
+2018-01-20,"Toronto Raptors",109,"Minnesota Timberwolves",115,28,18,18
+2018-01-20,"Los Angeles Clippers",113,"Utah Jazz",125,13,29,29
+2018-01-20,"Dallas Mavericks",108,"Portland Trail Blazers",117,7,25,25
+2018-01-21,"Orlando Magic",103,"Boston Celtics",95,22,2,22
+2018-01-21,"New York Knicks",107,"Los Angeles Lakers",127,20,14,14
+2018-01-21,"Brooklyn Nets",101,"Detroit Pistons",100,3,9,3
+2018-01-21,"Indiana Pacers",94,"San Antonio Spurs",86,12,27,12
+2018-01-22,"Sacramento Kings",107,"Charlotte Hornets",112,26,4,4
+2018-01-22,"Utah Jazz",90,"Atlanta Hawks",104,29,1,1
+2018-01-22,"Miami Heat",90,"Houston Rockets",99,16,11,11
+2018-01-22,"Philadelphia 76ers",101,"Memphis Grizzlies",105,23,15,15
+2018-01-22,"Phoenix Suns",105,"Milwaukee Bucks",109,24,17,17
+2018-01-22,"Chicago Bulls",128,"New Orleans Pelicans",132,5,19,19
+2018-01-22,"Washington Wizards",75,"Dallas Mavericks",98,30,7,7
+2018-01-22,"Portland Trail Blazers",101,"Denver Nuggets",104,25,8,8
+2018-01-22,"Minnesota Timberwolves",126,"Los Angeles Clippers",118,18,13,18
+2018-01-23,"Sacramento Kings",105,"Orlando Magic",99,26,22,26
+2018-01-23,"Brooklyn Nets",108,"Oklahoma City Thunder",109,3,21,21
+2018-01-23,"Cleveland Cavaliers",102,"San Antonio Spurs",114,6,27,27
+2018-01-23,"New York Knicks",112,"Golden State Warriors",123,20,10,10
+2018-01-23,"Boston Celtics",107,"Los Angeles Lakers",108,2,14,14
+2018-01-24,"New Orleans Pelicans",101,"Charlotte Hornets",96,19,4,19
+2018-01-24,"Utah Jazz",98,"Detroit Pistons",95,29,9,29
+2018-01-24,"Phoenix Suns",101,"Indiana Pacers",116,24,12,12
+2018-01-24,"Chicago Bulls",101,"Philadelphia 76ers",115,5,23,23
+2018-01-24,"Toronto Raptors",108,"Atlanta Hawks",93,28,1,28
+2018-01-24,"Houston Rockets",104,"Dallas Mavericks",97,11,7,11
+2018-01-24,"San Antonio Spurs",108,"Memphis Grizzlies",85,27,15,27
+2018-01-24,"Minnesota Timberwolves",114,"Portland Trail Blazers",123,18,25,25
+2018-01-24,"Boston Celtics",113,"Los Angeles Clippers",102,2,13,2
+2018-01-25,"Sacramento Kings",89,"Miami Heat",88,26,16,26
+2018-01-25,"Washington Wizards",112,"Oklahoma City Thunder",121,30,21,21
+2018-01-25,"New York Knicks",118,"Denver Nuggets",130,20,8,8
+2018-01-25,"Minnesota Timberwolves",113,"Golden State Warriors",126,18,10,10
+2018-01-26,"Atlanta Hawks",110,"Charlotte Hornets",121,1,4,4
+2018-01-26,"Indiana Pacers",108,"Cleveland Cavaliers",115,12,6,6
+2018-01-26,"Utah Jazz",97,"Toronto Raptors",93,29,28,29
+2018-01-26,"Los Angeles Lakers",108,"Chicago Bulls",103,14,5,14
+2018-01-26,"Los Angeles Clippers",109,"Memphis Grizzlies",100,13,15,13
+2018-01-26,"Brooklyn Nets",91,"Milwaukee Bucks",116,3,17,17
+2018-01-26,"Houston Rockets",113,"New Orleans Pelicans",115,11,19,19
+2018-01-26,"Portland Trail Blazers",107,"Dallas Mavericks",93,25,7,25
+2018-01-26,"Philadelphia 76ers",97,"San Antonio Spurs",78,23,27,23
+2018-01-26,"New York Knicks",107,"Phoenix Suns",85,20,24,20
+2018-01-27,"Oklahoma City Thunder",121,"Detroit Pistons",108,21,9,21
+2018-01-27,"Orlando Magic",112,"Indiana Pacers",114,22,12,12
+2018-01-27,"Washington Wizards",129,"Atlanta Hawks",104,30,1,30
+2018-01-27,"Charlotte Hornets",91,"Miami Heat",95,4,16,16
+2018-01-27,"Boston Celtics",105,"Golden State Warriors",109,2,10,10
+2018-01-27,"Dallas Mavericks",89,"Denver Nuggets",91,7,8,8
+2018-01-27,"Brooklyn Nets",97,"Minnesota Timberwolves",111,3,18,18
+2018-01-28,"Milwaukee Bucks",110,"Chicago Bulls",96,17,5,17
+2018-01-28,"Phoenix Suns",102,"Houston Rockets",113,24,11,11
+2018-01-28,"Los Angeles Clippers",112,"New Orleans Pelicans",103,13,19,13
+2018-01-28,"Detroit Pistons",104,"Cleveland Cavaliers",121,9,6,6
+2018-01-28,"Philadelphia 76ers",112,"Oklahoma City Thunder",122,23,21,21
+2018-01-28,"Los Angeles Lakers",111,"Toronto Raptors",123,14,28,28
+2018-01-28,"Sacramento Kings",98,"San Antonio Spurs",113,26,27,27
+2018-01-29,"Charlotte Hornets",96,"Indiana Pacers",105,4,12,12
+2018-01-29,"Minnesota Timberwolves",100,"Atlanta Hawks",105,18,1,1
+2018-01-29,"Phoenix Suns",109,"Memphis Grizzlies",120,24,15,15
+2018-01-29,"Philadelphia 76ers",95,"Milwaukee Bucks",107,23,17,17
+2018-01-29,"Miami Heat",95,"Dallas Mavericks",88,16,7,16
+2018-01-29,"Boston Celtics",111,"Denver Nuggets",110,2,8,2
+2018-01-30,"Oklahoma City Thunder",96,"Washington Wizards",102,21,30,30
+2018-01-30,"Brooklyn Nets",95,"New York Knicks",111,3,20,20
+2018-01-30,"Minnesota Timberwolves",104,"Toronto Raptors",109,18,28,28
+2018-01-30,"Cleveland Cavaliers",114,"Detroit Pistons",125,6,9,9
+2018-01-30,"Orlando Magic",107,"Houston Rockets",114,22,11,11
+2018-01-30,"Sacramento Kings",114,"New Orleans Pelicans",103,26,19,26
+2018-01-30,"Denver Nuggets",104,"San Antonio Spurs",106,8,27,27
+2018-01-30,"Golden State Warriors",99,"Utah Jazz",129,10,29,29
+2018-01-30,"Portland Trail Blazers",104,"Los Angeles Clippers",96,25,13,25
+2018-01-31,"Memphis Grizzlies",101,"Indiana Pacers",105,15,12,12
+2018-01-31,"Los Angeles Lakers",105,"Orlando Magic",127,14,22,22
+2018-01-31,"Charlotte Hornets",123,"Atlanta Hawks",110,4,1,4
+2018-01-31,"Philadelphia 76ers",108,"Brooklyn Nets",116,23,3,3
+2018-01-31,"Miami Heat",89,"Cleveland Cavaliers",91,16,6,6
+2018-01-31,"New York Knicks",73,"Boston Celtics",103,20,2,2
+2018-01-31,"Chicago Bulls",108,"Portland Trail Blazers",124,5,25,25
+2018-01-31,"Dallas Mavericks",88,"Phoenix Suns",102,7,24,24
+2018-02-01,"Memphis Grizzlies",102,"Detroit Pistons",104,15,9,9
+2018-02-01,"Toronto Raptors",119,"Washington Wizards",122,28,30,30
+2018-02-01,"Milwaukee Bucks",89,"Minnesota Timberwolves",108,17,18,18
+2018-02-01,"Houston Rockets",102,"San Antonio Spurs",91,11,27,11
+2018-02-01,"Oklahoma City Thunder",124,"Denver Nuggets",127,21,8,8
+2018-02-02,"Indiana Pacers",126,"Charlotte Hornets",133,12,4,4
+2018-02-02,"Atlanta Hawks",110,"Boston Celtics",119,1,2,2
+2018-02-02,"Los Angeles Lakers",102,"Brooklyn Nets",99,14,3,14
+2018-02-02,"Portland Trail Blazers",105,"Toronto Raptors",130,25,28,28
+2018-02-02,"New York Knicks",90,"Milwaukee Bucks",92,20,17,17
+2018-02-02,"Miami Heat",97,"Philadelphia 76ers",103,16,23,23
+2018-02-02,"New Orleans Pelicans",114,"Oklahoma City Thunder",100,19,21,19
+2018-02-02,"Utah Jazz",129,"Phoenix Suns",97,29,24,29
+2018-02-02,"Golden State Warriors",119,"Sacramento Kings",104,10,26,10
+2018-02-03,"Chicago Bulls",103,"Los Angeles Clippers",113,5,13,13
+2018-02-03,"Miami Heat",107,"Detroit Pistons",111,16,9,9
+2018-02-03,"Philadelphia 76ers",92,"Indiana Pacers",100,23,12,12
+2018-02-03,"Washington Wizards",115,"Orlando Magic",98,30,22,30
+2018-02-03,"Houston Rockets",120,"Cleveland Cavaliers",88,11,6,11
+2018-02-03,"Golden State Warriors",108,"Denver Nuggets",115,10,8,8
+2018-02-03,"New Orleans Pelicans",107,"Minnesota Timberwolves",118,19,18,18
+2018-02-03,"Utah Jazz",120,"San Antonio Spurs",111,29,27,29
+2018-02-03,"Dallas Mavericks",106,"Sacramento Kings",99,7,26,7
+2018-02-04,"Portland Trail Blazers",96,"Boston Celtics",97,25,2,2
+2018-02-04,"Milwaukee Bucks",109,"Brooklyn Nets",94,17,3,17
+2018-02-04,"Atlanta Hawks",99,"New York Knicks",96,1,20,1
+2018-02-04,"Memphis Grizzlies",86,"Toronto Raptors",101,15,28,28
+2018-02-04,"Los Angeles Lakers",108,"Oklahoma City Thunder",104,14,21,14
+2018-02-04,"Charlotte Hornets",115,"Phoenix Suns",110,4,24,4
+2018-02-05,"Portland Trail Blazers",91,"Detroit Pistons",111,25,9,9
+2018-02-05,"Washington Wizards",111,"Indiana Pacers",102,30,12,30
+2018-02-05,"Orlando Magic",111,"Miami Heat",109,22,16,22
+2018-02-05,"Utah Jazz",133,"New Orleans Pelicans",109,29,19,29
+2018-02-05,"Charlotte Hornets",104,"Denver Nuggets",121,4,8,8
+2018-02-05,"Chicago Bulls",98,"Sacramento Kings",104,5,26,26
+2018-02-05,"Dallas Mavericks",101,"Los Angeles Clippers",104,7,13,13
+2018-02-06,"Cleveland Cavaliers",98,"Orlando Magic",116,6,22,22
+2018-02-06,"Memphis Grizzlies",82,"Atlanta Hawks",108,15,1,1
+2018-02-06,"Houston Rockets",123,"Brooklyn Nets",113,11,3,11
+2018-02-06,"Milwaukee Bucks",103,"New York Knicks",89,17,20,17
+2018-02-06,"Boston Celtics",91,"Toronto Raptors",111,2,28,28
+2018-02-06,"Washington Wizards",102,"Philadelphia 76ers",115,30,23,23
+2018-02-06,"Oklahoma City Thunder",125,"Golden State Warriors",105,21,10,21
+2018-02-06,"Phoenix Suns",93,"Los Angeles Lakers",112,24,14,14
+2018-02-07,"Brooklyn Nets",106,"Detroit Pistons",115,3,9,9
+2018-02-07,"Houston Rockets",109,"Miami Heat",101,11,16,11
+2018-02-07,"Minnesota Timberwolves",138,"Cleveland Cavaliers",140,18,6,6
+2018-02-07,"Utah Jazz",92,"Memphis Grizzlies",88,29,15,29
+2018-02-07,"San Antonio Spurs",129,"Phoenix Suns",81,27,24,27
+2018-02-08,"Atlanta Hawks",98,"Orlando Magic",100,1,22,22
+2018-02-08,"New York Knicks",88,"Toronto Raptors",113,20,28,28
+2018-02-08,"Boston Celtics",110,"Washington Wizards",104,2,30,2
+2018-02-08,"Charlotte Hornets",103,"Portland Trail Blazers",109,4,25,25
+2018-02-08,"Dallas Mavericks",103,"Golden State Warriors",121,7,10,10
+2018-02-08,"Oklahoma City Thunder",81,"Los Angeles Lakers",106,21,14,14
+2018-02-09,"Los Angeles Clippers",108,"Detroit Pistons",95,13,9,13
+2018-02-09,"New Orleans Pelicans",82,"Philadelphia 76ers",100,19,23,23
+2018-02-09,"Cleveland Cavaliers",123,"Atlanta Hawks",107,6,1,6
+2018-02-09,"Indiana Pacers",97,"Boston Celtics",91,12,2,12
+2018-02-09,"Denver Nuggets",104,"Houston Rockets",130,8,11,11
+2018-02-09,"Milwaukee Bucks",85,"Miami Heat",91,17,16,16
+2018-02-09,"Charlotte Hornets",94,"Utah Jazz",106,4,29,29
+2018-02-09,"Minnesota Timberwolves",113,"Chicago Bulls",114,18,5,5
+2018-02-09,"Portland Trail Blazers",118,"Sacramento Kings",100,25,26,25
+2018-02-10,"New Orleans Pelicans",138,"Brooklyn Nets",128,19,3,19
+2018-02-10,"Milwaukee Bucks",111,"Orlando Magic",104,17,22,17
+2018-02-10,"Los Angeles Clippers",98,"Philadelphia 76ers",112,13,23,23
+2018-02-10,"Washington Wizards",101,"Chicago Bulls",90,30,5,30
+2018-02-10,"Los Angeles Lakers",123,"Dallas Mavericks",130,14,7,7
+2018-02-10,"San Antonio Spurs",105,"Golden State Warriors",122,27,10,10
+2018-02-10,"Denver Nuggets",123,"Phoenix Suns",113,8,24,8
+2018-02-11,"Toronto Raptors",123,"Charlotte Hornets",103,28,4,28
+2018-02-11,"Detroit Pistons",115,"Atlanta Hawks",118,9,1,1
+2018-02-11,"Cleveland Cavaliers",121,"Boston Celtics",99,6,2,6
+2018-02-11,"New York Knicks",113,"Indiana Pacers",121,20,12,12
+2018-02-11,"Dallas Mavericks",97,"Houston Rockets",104,7,11,11
+2018-02-11,"Sacramento Kings",106,"Minnesota Timberwolves",111,26,18,18
+2018-02-11,"Memphis Grizzlies",92,"Oklahoma City Thunder",110,15,21,21
+2018-02-11,"Utah Jazz",115,"Portland Trail Blazers",96,29,25,29
+2018-02-12,"New Orleans Pelicans",118,"Detroit Pistons",103,19,9,19
+2018-02-12,"New York Knicks",92,"Philadelphia 76ers",108,20,23,23
+2018-02-12,"Los Angeles Clippers",114,"Brooklyn Nets",101,13,3,13
+2018-02-12,"Orlando Magic",101,"Chicago Bulls",105,22,5,5
+2018-02-12,"San Antonio Spurs",99,"Utah Jazz",101,27,29,29
+2018-02-12,"Phoenix Suns",83,"Golden State Warriors",129,24,10,10
+2018-02-13,"Miami Heat",112,"Toronto Raptors",115,16,28,28
+2018-02-13,"Atlanta Hawks",92,"Milwaukee Bucks",97,1,17,17
+2018-02-13,"Houston Rockets",126,"Minnesota Timberwolves",108,11,18,11
+2018-02-13,"Cleveland Cavaliers",120,"Oklahoma City Thunder",112,6,21,6
+2018-02-13,"Sacramento Kings",114,"Dallas Mavericks",109,26,7,26
+2018-02-13,"San Antonio Spurs",109,"Denver Nuggets",117,27,8,8
+2018-02-14,"Atlanta Hawks",98,"Detroit Pistons",104,1,9,9
+2018-02-14,"Charlotte Hornets",104,"Orlando Magic",102,4,22,4
+2018-02-14,"Miami Heat",102,"Philadelphia 76ers",104,16,23,23
+2018-02-14,"Indiana Pacers",108,"Brooklyn Nets",103,12,3,12
+2018-02-14,"Washington Wizards",118,"New York Knicks",113,30,20,30
+2018-02-14,"Los Angeles Clippers",129,"Boston Celtics",119,13,2,13
+2018-02-14,"Toronto Raptors",122,"Chicago Bulls",98,28,5,28
+2018-02-14,"Sacramento Kings",91,"Houston Rockets",100,26,11,11
+2018-02-14,"Oklahoma City Thunder",121,"Memphis Grizzlies",114,21,15,21
+2018-02-14,"Los Angeles Lakers",117,"New Orleans Pelicans",139,14,19,19
+2018-02-14,"Phoenix Suns",97,"Utah Jazz",107,24,29,29
+2018-02-14,"Golden State Warriors",117,"Portland Trail Blazers",123,10,25,25
+2018-02-15,"Denver Nuggets",134,"Milwaukee Bucks",123,8,17,8
+2018-02-15,"Los Angeles Lakers",111,"Minnesota Timberwolves",119,14,18,18
+2018-02-22,"Brooklyn Nets",96,"Charlotte Hornets",111,3,4,4
+2018-02-22,"New York Knicks",120,"Orlando Magic",113,20,22,20
+2018-02-22,"Philadelphia 76ers",116,"Chicago Bulls",115,23,5,23
+2018-02-22,"Washington Wizards",110,"Cleveland Cavaliers",103,30,6,30
+2018-02-22,"Oklahoma City Thunder",110,"Sacramento Kings",107,21,26,21
+2018-02-22,"Los Angeles Clippers",127,"Golden State Warriors",134,13,10,10
+2018-02-23,"Boston Celtics",110,"Detroit Pistons",98,2,9,2
+2018-02-23,"Atlanta Hawks",93,"Indiana Pacers",116,1,12,12
+2018-02-23,"Charlotte Hornets",122,"Washington Wizards",105,4,30,4
+2018-02-23,"Milwaukee Bucks",122,"Toronto Raptors",119,17,28,17
+2018-02-23,"Minnesota Timberwolves",102,"Houston Rockets",120,18,11,11
+2018-02-23,"Cleveland Cavaliers",112,"Memphis Grizzlies",89,6,15,6
+2018-02-23,"Miami Heat",123,"New Orleans Pelicans",124,16,19,19
+2018-02-23,"San Antonio Spurs",119,"Denver Nuggets",122,27,8,8
+2018-02-23,"Los Angeles Clippers",128,"Phoenix Suns",117,13,24,13
+2018-02-23,"Portland Trail Blazers",100,"Utah Jazz",81,25,29,25
+2018-02-23,"Dallas Mavericks",102,"Los Angeles Lakers",124,7,14,14
+2018-02-24,"Orlando Magic",105,"Philadelphia 76ers",116,22,23,23
+2018-02-24,"Memphis Grizzlies",89,"Miami Heat",115,15,16,16
+2018-02-24,"Boston Celtics",121,"New York Knicks",112,2,20,2
+2018-02-24,"Oklahoma City Thunder",80,"Golden State Warriors",112,21,10,10
+2018-02-24,"Chicago Bulls",104,"Minnesota Timberwolves",122,5,18,18
+2018-02-24,"Portland Trail Blazers",106,"Phoenix Suns",104,25,24,25
+2018-02-24,"Dallas Mavericks",90,"Utah Jazz",97,7,29,29
+2018-02-24,"Los Angeles Lakers",113,"Sacramento Kings",108,14,26,14
+2018-02-25,"Detroit Pistons",98,"Charlotte Hornets",114,9,4,4
+2018-02-25,"New Orleans Pelicans",123,"Milwaukee Bucks",121,19,17,19
+2018-02-25,"San Antonio Spurs",110,"Cleveland Cavaliers",94,27,6,27
+2018-02-25,"Houston Rockets",119,"Denver Nuggets",114,11,8,11
+2018-02-25,"Philadelphia 76ers",94,"Washington Wizards",109,23,30,30
+2018-02-26,"Los Angeles Lakers",123,"Atlanta Hawks",104,14,1,14
+2018-02-26,"Memphis Grizzlies",98,"Boston Celtics",109,15,2,2
+2018-02-26,"Chicago Bulls",87,"Brooklyn Nets",104,5,3,3
+2018-02-26,"Golden State Warriors",125,"New York Knicks",111,10,20,10
+2018-02-26,"Detroit Pistons",94,"Toronto Raptors",123,9,28,28
+2018-02-26,"Phoenix Suns",116,"New Orleans Pelicans",125,24,19,19
+2018-02-26,"Orlando Magic",105,"Oklahoma City Thunder",112,22,21,21
+2018-02-26,"Indiana Pacers",103,"Dallas Mavericks",109,12,7,7
+2018-02-26,"Houston Rockets",96,"Utah Jazz",85,11,29,11
+2018-02-26,"Minnesota Timberwolves",118,"Sacramento Kings",100,18,26,18
+2018-02-27,"Chicago Bulls",103,"Charlotte Hornets",118,5,4,4
+2018-02-27,"Brooklyn Nets",123,"Cleveland Cavaliers",129,3,6,6
+2018-02-27,"Philadelphia 76ers",101,"Miami Heat",102,23,16,16
+2018-02-27,"Washington Wizards",107,"Milwaukee Bucks",104,30,17,30
+2018-02-27,"Sacramento Kings",99,"Portland Trail Blazers",116,26,25,25
+2018-02-27,"Los Angeles Clippers",122,"Denver Nuggets",120,13,8,13
+2018-02-28,"Milwaukee Bucks",87,"Detroit Pistons",110,17,9,9
+2018-02-28,"Toronto Raptors",117,"Orlando Magic",104,28,22,28
+2018-02-28,"Indiana Pacers",102,"Atlanta Hawks",107,12,1,1
+2018-02-28,"Charlotte Hornets",106,"Boston Celtics",134,4,2,2
+2018-02-28,"Phoenix Suns",110,"Memphis Grizzlies",102,24,15,24
+2018-02-28,"Golden State Warriors",109,"Washington Wizards",101,10,30,10
+2018-02-28,"Oklahoma City Thunder",111,"Dallas Mavericks",110,21,7,21
+2018-02-28,"New Orleans Pelicans",121,"San Antonio Spurs",116,19,27,19
+2018-02-28,"Houston Rockets",105,"Los Angeles Clippers",92,11,13,11
+2018-03-01,"Los Angeles Lakers",131,"Miami Heat",113,14,16,14
+2018-03-01,"Philadelphia 76ers",108,"Cleveland Cavaliers",97,23,6,23
+2018-03-01,"Brooklyn Nets",111,"Sacramento Kings",116,3,26,26
+2018-03-01,"Minnesota Timberwolves",99,"Portland Trail Blazers",108,18,25,25
+2018-03-02,"Detroit Pistons",106,"Orlando Magic",115,9,22,22
+2018-03-02,"Charlotte Hornets",99,"Philadelphia 76ers",110,4,23,23
+2018-03-02,"Golden State Warriors",114,"Atlanta Hawks",109,10,1,10
+2018-03-02,"Dallas Mavericks",100,"Chicago Bulls",108,7,5,5
+2018-03-02,"Denver Nuggets",108,"Memphis Grizzlies",102,8,15,8
+2018-03-02,"Indiana Pacers",103,"Milwaukee Bucks",96,12,17,12
+2018-03-02,"Toronto Raptors",102,"Washington Wizards",95,28,30,28
+2018-03-02,"Oklahoma City Thunder",124,"Phoenix Suns",116,21,24,21
+2018-03-02,"New York Knicks",105,"Los Angeles Clippers",128,20,13,13
+2018-03-02,"Minnesota Timberwolves",108,"Utah Jazz",116,18,29,29
+2018-03-03,"Memphis Grizzlies",100,"Orlando Magic",107,15,22,22
+2018-03-03,"Denver Nuggets",126,"Cleveland Cavaliers",117,8,6,8
+2018-03-03,"Detroit Pistons",96,"Miami Heat",105,9,16,16
+2018-03-03,"Boston Celtics",120,"Houston Rockets",123,2,11,11
+2018-03-03,"Los Angeles Lakers",116,"San Antonio Spurs",112,14,27,14
+2018-03-03,"Oklahoma City Thunder",100,"Portland Trail Blazers",108,21,25,25
+2018-03-03,"Utah Jazz",98,"Sacramento Kings",91,29,26,29
+2018-03-04,"Phoenix Suns",112,"Atlanta Hawks",113,24,1,1
+2018-03-04,"Charlotte Hornets",98,"Toronto Raptors",103,4,28,28
+2018-03-04,"Indiana Pacers",98,"Washington Wizards",95,12,30,12
+2018-03-04,"New Orleans Pelicans",126,"Dallas Mavericks",109,19,7,19
+2018-03-04,"Philadelphia 76ers",110,"Milwaukee Bucks",118,23,17,17
+2018-03-04,"Brooklyn Nets",120,"Los Angeles Clippers",123,3,13,13
+2018-03-04,"New York Knicks",99,"Sacramento Kings",102,20,26,26
+2018-03-05,"Detroit Pistons",90,"Cleveland Cavaliers",112,9,6,6
+2018-03-05,"Milwaukee Bucks",89,"Indiana Pacers",92,17,12,12
+2018-03-05,"Phoenix Suns",103,"Miami Heat",125,24,16,16
+2018-03-05,"Boston Celtics",105,"Chicago Bulls",89,2,5,2
+2018-03-05,"Memphis Grizzlies",98,"San Antonio Spurs",100,15,27,27
+2018-03-05,"Orlando Magic",80,"Utah Jazz",94,22,29,29
+2018-03-05,"Portland Trail Blazers",108,"Los Angeles Lakers",103,25,14,25
+2018-03-06,"Philadelphia 76ers",128,"Charlotte Hornets",114,23,4,23
+2018-03-06,"Atlanta Hawks",90,"Toronto Raptors",106,1,28,28
+2018-03-06,"Miami Heat",113,"Washington Wizards",117,16,30,30
+2018-03-06,"Houston Rockets",122,"Oklahoma City Thunder",112,11,21,11
+2018-03-06,"Denver Nuggets",107,"Dallas Mavericks",118,8,7,7
+2018-03-06,"New York Knicks",87,"Portland Trail Blazers",111,20,25,25
+2018-03-06,"Brooklyn Nets",101,"Golden State Warriors",114,3,10,10
+2018-03-06,"New Orleans Pelicans",121,"Los Angeles Clippers",116,19,13,19
+2018-03-07,"Utah Jazz",104,"Indiana Pacers",84,29,12,29
+2018-03-07,"Memphis Grizzlies",110,"Chicago Bulls",119,15,5,5
+2018-03-07,"Toronto Raptors",121,"Detroit Pistons",119,28,9,28
+2018-03-07,"Houston Rockets",110,"Milwaukee Bucks",99,11,17,11
+2018-03-07,"New Orleans Pelicans",114,"Sacramento Kings",101,19,26,19
+2018-03-07,"Cleveland Cavaliers",113,"Denver Nuggets",108,6,8,6
+2018-03-07,"Orlando Magic",107,"Los Angeles Lakers",108,22,14,14
+2018-03-08,"Brooklyn Nets",125,"Charlotte Hornets",111,3,4,3
+2018-03-08,"Philadelphia 76ers",99,"Miami Heat",108,23,16,16
+2018-03-08,"Boston Celtics",117,"Minnesota Timberwolves",109,2,18,2
+2018-03-08,"Phoenix Suns",87,"Oklahoma City Thunder",115,24,21,21
+2018-03-08,"San Antonio Spurs",107,"Golden State Warriors",110,27,10,10
+2018-03-09,"Chicago Bulls",83,"Detroit Pistons",99,5,9,9
+2018-03-09,"Atlanta Hawks",87,"Indiana Pacers",112,1,12,12
+2018-03-09,"Houston Rockets",105,"Toronto Raptors",108,11,28,28
+2018-03-09,"Utah Jazz",95,"Memphis Grizzlies",78,29,15,29
+2018-03-09,"New York Knicks",112,"Milwaukee Bucks",120,20,17,17
+2018-03-09,"Washington Wizards",116,"New Orleans Pelicans",97,30,19,30
+2018-03-09,"Los Angeles Lakers",116,"Denver Nuggets",125,14,8,8
+2018-03-09,"Golden State Warriors",108,"Portland Trail Blazers",125,10,25,25
+2018-03-09,"Orlando Magic",88,"Sacramento Kings",94,22,26,26
+2018-03-09,"Cleveland Cavaliers",102,"Los Angeles Clippers",116,6,13,13
+2018-03-10,"Phoenix Suns",115,"Charlotte Hornets",122,24,4,4
+2018-03-10,"Washington Wizards",102,"Miami Heat",129,30,16,16
+2018-03-10,"Memphis Grizzlies",80,"Dallas Mavericks",114,15,7,7
+2018-03-10,"San Antonio Spurs",94,"Oklahoma City Thunder",104,27,21,21
+2018-03-10,"Orlando Magic",105,"Los Angeles Clippers",113,22,13,13
+2018-03-11,"Toronto Raptors",132,"New York Knicks",106,28,20,28
+2018-03-11,"Chicago Bulls",129,"Atlanta Hawks",122,5,1,5
+2018-03-11,"Golden State Warriors",103,"Minnesota Timberwolves",109,10,18,18
+2018-03-11,"Utah Jazz",116,"New Orleans Pelicans",99,29,19,29
+2018-03-11,"Sacramento Kings",104,"Denver Nuggets",130,26,8,8
+2018-03-11,"Houston Rockets",105,"Dallas Mavericks",82,11,7,11
+2018-03-11,"Indiana Pacers",99,"Boston Celtics",97,12,2,12
+2018-03-11,"Philadelphia 76ers",120,"Brooklyn Nets",97,23,3,23
+2018-03-11,"Cleveland Cavaliers",113,"Los Angeles Lakers",127,6,14,14
+2018-03-12,"San Antonio Spurs",93,"Houston Rockets",109,27,11,11
+2018-03-12,"Milwaukee Bucks",121,"Memphis Grizzlies",103,17,15,17
+2018-03-12,"Sacramento Kings",101,"Oklahoma City Thunder",106,26,21,21
+2018-03-12,"Miami Heat",99,"Portland Trail Blazers",115,16,25,25
+2018-03-13,"Indiana Pacers",101,"Philadelphia 76ers",98,12,23,12
+2018-03-13,"Minnesota Timberwolves",116,"Washington Wizards",111,18,30,18
+2018-03-13,"Oklahoma City Thunder",119,"Atlanta Hawks",107,21,1,21
+2018-03-13,"Toronto Raptors",116,"Brooklyn Nets",102,28,3,28
+2018-03-13,"Dallas Mavericks",110,"New York Knicks",97,7,20,7
+2018-03-13,"Los Angeles Clippers",112,"Chicago Bulls",106,13,5,13
+2018-03-13,"Charlotte Hornets",115,"New Orleans Pelicans",119,4,19,19
+2018-03-13,"Orlando Magic",72,"San Antonio Spurs",108,22,27,27
+2018-03-13,"Detroit Pistons",79,"Utah Jazz",110,9,29,29
+2018-03-13,"Cleveland Cavaliers",129,"Phoenix Suns",107,6,24,6
+2018-03-13,"Denver Nuggets",103,"Los Angeles Lakers",112,8,14,14
+2018-03-14,"Milwaukee Bucks",117,"Orlando Magic",126,17,22,22
+2018-03-14,"Washington Wizards",125,"Boston Celtics",124,30,2,30
+2018-03-14,"Miami Heat",119,"Sacramento Kings",123,16,26,26
+2018-03-14,"Los Angeles Lakers",106,"Golden State Warriors",117,14,10,10
+2018-03-15,"Toronto Raptors",106,"Indiana Pacers",99,28,12,28
+2018-03-15,"Charlotte Hornets",129,"Atlanta Hawks",117,4,1,4
+2018-03-15,"Philadelphia 76ers",118,"New York Knicks",110,23,20,23
+2018-03-15,"Los Angeles Clippers",96,"Houston Rockets",101,13,11,11
+2018-03-15,"Chicago Bulls",111,"Memphis Grizzlies",110,5,15,5
+2018-03-15,"New Orleans Pelicans",93,"San Antonio Spurs",98,19,27,27
+2018-03-15,"Detroit Pistons",113,"Denver Nuggets",120,9,8,8
+2018-03-15,"Phoenix Suns",88,"Utah Jazz",116,24,29,29
+2018-03-15,"Cleveland Cavaliers",105,"Portland Trail Blazers",113,6,25,25
+2018-03-16,"Boston Celtics",92,"Orlando Magic",83,2,22,2
+2018-03-16,"Brooklyn Nets",116,"Philadelphia 76ers",120,3,23,23
+2018-03-16,"Dallas Mavericks",115,"Toronto Raptors",122,7,28,28
+2018-03-16,"Los Angeles Clippers",113,"Oklahoma City Thunder",121,13,21,21
+2018-03-16,"Sacramento Kings",98,"Golden State Warriors",93,26,10,26
+2018-03-16,"Miami Heat",92,"Los Angeles Lakers",91,16,14,16
+2018-03-17,"Atlanta Hawks",117,"Milwaukee Bucks",122,1,17,17
+2018-03-17,"Houston Rockets",107,"New Orleans Pelicans",101,11,19,11
+2018-03-17,"Indiana Pacers",102,"Washington Wizards",109,12,30,30
+2018-03-17,"Dallas Mavericks",106,"Brooklyn Nets",114,7,3,3
+2018-03-17,"Charlotte Hornets",101,"New York Knicks",124,4,20,20
+2018-03-17,"Cleveland Cavaliers",114,"Chicago Bulls",109,6,5,6
+2018-03-17,"Denver Nuggets",94,"Memphis Grizzlies",101,8,15,15
+2018-03-17,"Minnesota Timberwolves",101,"San Antonio Spurs",117,18,27,27
+2018-03-17,"Sacramento Kings",97,"Utah Jazz",103,26,29,29
+2018-03-17,"Golden State Warriors",124,"Phoenix Suns",109,10,24,10
+2018-03-17,"Detroit Pistons",87,"Portland Trail Blazers",100,9,25,25
+2018-03-18,"Oklahoma City Thunder",132,"Toronto Raptors",125,21,28,21
+2018-03-18,"Boston Celtics",89,"New Orleans Pelicans",108,2,19,19
+2018-03-18,"Houston Rockets",129,"Minnesota Timberwolves",120,11,18,11
+2018-03-18,"Portland Trail Blazers",122,"Los Angeles Clippers",109,25,13,25
+2018-03-19,"Milwaukee Bucks",117,"Cleveland Cavaliers",124,17,6,6
+2018-03-19,"Los Angeles Lakers",100,"Indiana Pacers",110,14,12,12
+2018-03-19,"Charlotte Hornets",94,"Philadelphia 76ers",108,4,23,23
+2018-03-19,"Memphis Grizzlies",115,"Brooklyn Nets",118,15,3,3
+2018-03-19,"Denver Nuggets",141,"Miami Heat",149,8,16,16
+2018-03-19,"Chicago Bulls",92,"New York Knicks",110,5,20,20
+2018-03-19,"Golden State Warriors",75,"San Antonio Spurs",89,10,27,27
+2018-03-19,"Detroit Pistons",106,"Sacramento Kings",90,9,26,9
+2018-03-20,"Toronto Raptors",93,"Orlando Magic",86,28,22,28
+2018-03-20,"Oklahoma City Thunder",99,"Boston Celtics",100,21,2,2
+2018-03-20,"Los Angeles Clippers",109,"Minnesota Timberwolves",123,13,18,18
+2018-03-20,"Dallas Mavericks",105,"New Orleans Pelicans",115,7,19,19
+2018-03-20,"Atlanta Hawks",99,"Utah Jazz",94,1,29,1
+2018-03-20,"Detroit Pistons",115,"Phoenix Suns",88,9,24,9
+2018-03-20,"Houston Rockets",115,"Portland Trail Blazers",111,11,25,11
+2018-03-21,"Toronto Raptors",129,"Cleveland Cavaliers",132,28,6,6
+2018-03-21,"Memphis Grizzlies",105,"Philadelphia 76ers",119,15,23,23
+2018-03-21,"Charlotte Hornets",111,"Brooklyn Nets",105,4,3,4
+2018-03-21,"New York Knicks",98,"Miami Heat",119,20,16,16
+2018-03-21,"Denver Nuggets",135,"Chicago Bulls",102,8,5,8
+2018-03-21,"Los Angeles Clippers",127,"Milwaukee Bucks",120,13,17,13
+2018-03-21,"Indiana Pacers",92,"New Orleans Pelicans",96,12,19,19
+2018-03-21,"Washington Wizards",90,"San Antonio Spurs",98,30,27,27
+2018-03-22,"Memphis Grizzlies",79,"Charlotte Hornets",140,15,4,4
+2018-03-22,"Philadelphia 76ers",118,"Orlando Magic",98,23,22,23
+2018-03-22,"Detroit Pistons",96,"Houston Rockets",100,9,11,11
+2018-03-22,"Los Angeles Lakers",125,"New Orleans Pelicans",128,14,19,19
+2018-03-22,"Utah Jazz",119,"Dallas Mavericks",112,29,7,29
+2018-03-22,"Atlanta Hawks",90,"Sacramento Kings",105,1,26,26
+2018-03-23,"Los Angeles Clippers",104,"Indiana Pacers",109,13,12,12
+2018-03-23,"Denver Nuggets",108,"Washington Wizards",100,8,30,8
+2018-03-23,"Phoenix Suns",95,"Cleveland Cavaliers",120,24,6,6
+2018-03-23,"Minnesota Timberwolves",108,"New York Knicks",104,18,20,18
+2018-03-23,"Brooklyn Nets",112,"Toronto Raptors",116,3,28,28
+2018-03-23,"Milwaukee Bucks",118,"Chicago Bulls",105,17,5,17
+2018-03-23,"Miami Heat",99,"Oklahoma City Thunder",105,16,21,21
+2018-03-23,"Utah Jazz",120,"San Antonio Spurs",124,29,27,27
+2018-03-23,"Boston Celtics",105,"Portland Trail Blazers",100,2,25,2
+2018-03-23,"Atlanta Hawks",94,"Golden State Warriors",106,1,10,10
+2018-03-24,"Minnesota Timberwolves",108,"Philadelphia 76ers",120,18,23,23
+2018-03-24,"Chicago Bulls",95,"Detroit Pistons",117,5,9,9
+2018-03-24,"Phoenix Suns",99,"Orlando Magic",105,24,22,22
+2018-03-24,"New Orleans Pelicans",91,"Houston Rockets",114,19,11,11
+2018-03-24,"Los Angeles Lakers",100,"Memphis Grizzlies",93,14,15,14
+2018-03-24,"Charlotte Hornets",102,"Dallas Mavericks",98,4,7,4
+2018-03-25,"Cleveland Cavaliers",121,"Brooklyn Nets",114,6,3,6
+2018-03-25,"San Antonio Spurs",103,"Milwaukee Bucks",106,27,17,17
+2018-03-25,"Miami Heat",107,"Indiana Pacers",113,16,12,12
+2018-03-25,"Boston Celtics",104,"Sacramento Kings",93,2,26,2
+2018-03-25,"Los Angeles Clippers",117,"Toronto Raptors",106,13,28,13
+2018-03-25,"New York Knicks",101,"Washington Wizards",97,20,30,20
+2018-03-25,"Portland Trail Blazers",108,"Oklahoma City Thunder",105,25,21,25
+2018-03-25,"Atlanta Hawks",99,"Houston Rockets",118,1,11,11
+2018-03-25,"Utah Jazz",110,"Golden State Warriors",91,29,10,29
+2018-03-26,"New York Knicks",128,"Charlotte Hornets",137,20,4,4
+2018-03-26,"Los Angeles Lakers",106,"Detroit Pistons",112,14,9,9
+2018-03-26,"Denver Nuggets",104,"Philadelphia 76ers",123,8,23,23
+2018-03-26,"Memphis Grizzlies",101,"Minnesota Timberwolves",93,15,18,15
+2018-03-26,"Boston Celtics",102,"Phoenix Suns",94,2,24,2
+2018-03-27,"San Antonio Spurs",106,"Washington Wizards",116,27,30,30
+2018-03-27,"Denver Nuggets",110,"Toronto Raptors",114,8,28,28
+2018-03-27,"Chicago Bulls",86,"Houston Rockets",118,5,11,11
+2018-03-27,"Cleveland Cavaliers",79,"Miami Heat",98,6,16,16
+2018-03-27,"Portland Trail Blazers",107,"New Orleans Pelicans",103,25,19,25
+2018-03-27,"Dallas Mavericks",103,"Sacramento Kings",97,7,26,7
+2018-03-27,"Indiana Pacers",92,"Golden State Warriors",81,12,10,12
+2018-03-27,"Milwaukee Bucks",98,"Los Angeles Clippers",105,17,13,13
+2018-03-28,"Cleveland Cavaliers",118,"Charlotte Hornets",105,6,4,6
+2018-03-28,"Brooklyn Nets",111,"Orlando Magic",104,3,22,3
+2018-03-28,"New York Knicks",101,"Philadelphia 76ers",118,20,23,23
+2018-03-28,"Portland Trail Blazers",103,"Memphis Grizzlies",108,25,15,15
+2018-03-28,"Atlanta Hawks",114,"Minnesota Timberwolves",126,1,18,18
+2018-03-28,"Boston Celtics",97,"Utah Jazz",94,2,29,2
+2018-03-28,"Los Angeles Clippers",111,"Phoenix Suns",99,13,24,13
+2018-03-28,"Dallas Mavericks",93,"Los Angeles Lakers",103,7,14,14
+2018-03-29,"Washington Wizards",92,"Detroit Pistons",103,30,9,9
+2018-03-29,"Chicago Bulls",92,"Miami Heat",103,5,16,16
+2018-03-29,"Oklahoma City Thunder",99,"San Antonio Spurs",103,21,27,27
+2018-03-29,"Indiana Pacers",106,"Sacramento Kings",103,12,26,12
+2018-03-29,"Milwaukee Bucks",116,"Golden State Warriors",107,17,10,17
+2018-03-30,"Chicago Bulls",90,"Orlando Magic",82,5,22,5
+2018-03-30,"Philadelphia 76ers",101,"Atlanta Hawks",91,23,1,23
+2018-03-30,"New Orleans Pelicans",102,"Cleveland Cavaliers",107,19,6,6
+2018-03-30,"Phoenix Suns",103,"Houston Rockets",104,24,11,11
+2018-03-30,"Denver Nuggets",126,"Oklahoma City Thunder",125,8,21,8
+2018-03-30,"Minnesota Timberwolves",93,"Dallas Mavericks",92,18,7,18
+2018-03-30,"Memphis Grizzlies",97,"Utah Jazz",107,15,29,29
+2018-03-30,"Milwaukee Bucks",124,"Los Angeles Lakers",122,17,14,17
+2018-03-30,"Los Angeles Clippers",96,"Portland Trail Blazers",105,13,25,25
+2018-03-31,"Charlotte Hornets",93,"Washington Wizards",107,4,30,30
+2018-03-31,"Detroit Pistons",115,"New York Knicks",109,9,20,9
+2018-03-31,"Toronto Raptors",99,"Boston Celtics",110,28,2,2
+2018-03-31,"Brooklyn Nets",110,"Miami Heat",109,3,16,3
+2018-03-31,"Golden State Warriors",112,"Sacramento Kings",96,10,26,10
+2018-04-01,"Philadelphia 76ers",119,"Charlotte Hornets",102,23,4,23
+2018-04-01,"Washington Wizards",94,"Chicago Bulls",113,30,5,5
+2018-04-01,"Indiana Pacers",111,"Los Angeles Clippers",104,12,13,12
+2018-04-01,"Houston Rockets",83,"San Antonio Spurs",100,11,27,27
+2018-04-01,"Orlando Magic",88,"Atlanta Hawks",94,22,1,1
+2018-04-01,"Detroit Pistons",108,"Brooklyn Nets",96,9,3,9
+2018-04-01,"Dallas Mavericks",87,"Cleveland Cavaliers",98,7,6,6
+2018-04-01,"Oklahoma City Thunder",109,"New Orleans Pelicans",104,21,19,21
+2018-04-01,"Utah Jazz",121,"Minnesota Timberwolves",97,29,18,29
+2018-04-01,"Milwaukee Bucks",125,"Denver Nuggets",128,17,8,8
+2018-04-01,"Phoenix Suns",107,"Golden State Warriors",117,24,10,10
+2018-04-01,"Memphis Grizzlies",98,"Portland Trail Blazers",113,15,25,25
+2018-04-01,"Sacramento Kings",84,"Los Angeles Lakers",83,26,14,26
+2018-04-03,"Toronto Raptors",106,"Cleveland Cavaliers",112,28,6,6
+2018-04-03,"Brooklyn Nets",95,"Philadelphia 76ers",121,3,23,23
+2018-04-03,"Atlanta Hawks",98,"Miami Heat",101,1,16,16
+2018-04-03,"Orlando Magic",97,"New York Knicks",73,22,20,22
+2018-04-03,"Charlotte Hornets",114,"Chicago Bulls",120,4,5,5
+2018-04-03,"Washington Wizards",104,"Houston Rockets",120,30,11,11
+2018-04-03,"Boston Celtics",102,"Milwaukee Bucks",106,2,17,17
+2018-04-03,"Golden State Warriors",111,"Oklahoma City Thunder",107,10,21,10
+2018-04-03,"Portland Trail Blazers",109,"Dallas Mavericks",115,25,7,7
+2018-04-03,"Indiana Pacers",104,"Denver Nuggets",107,12,8,8
+2018-04-03,"Los Angeles Lakers",110,"Utah Jazz",117,14,29,29
+2018-04-03,"Sacramento Kings",94,"Phoenix Suns",97,26,24,24
+2018-04-03,"San Antonio Spurs",110,"Los Angeles Clippers",113,27,13,13
+2018-04-04,"Philadelphia 76ers",115,"Detroit Pistons",108,23,9,23
+2018-04-04,"Dallas Mavericks",100,"Orlando Magic",105,7,22,22
+2018-04-04,"Miami Heat",115,"Atlanta Hawks",86,16,1,16
+2018-04-04,"Memphis Grizzlies",95,"New Orleans Pelicans",123,15,19,19
+2018-04-04,"Boston Celtics",78,"Toronto Raptors",96,2,28,28
+2018-04-04,"San Antonio Spurs",112,"Los Angeles Lakers",122,27,14,14
+2018-04-05,"Golden State Warriors",106,"Indiana Pacers",126,10,12,12
+2018-04-05,"Washington Wizards",115,"Cleveland Cavaliers",119,30,6,6
+2018-04-05,"Portland Trail Blazers",94,"Houston Rockets",96,25,11,11
+2018-04-05,"Brooklyn Nets",119,"Milwaukee Bucks",111,3,17,3
+2018-04-05,"Los Angeles Clippers",95,"Utah Jazz",117,13,29,29
+2018-04-05,"Minnesota Timberwolves",96,"Denver Nuggets",100,18,8,8
+2018-04-06,"Dallas Mavericks",106,"Detroit Pistons",113,7,9,9
+2018-04-06,"Charlotte Hornets",137,"Orlando Magic",100,4,22,4
+2018-04-06,"Cleveland Cavaliers",130,"Philadelphia 76ers",132,6,23,23
+2018-04-06,"Atlanta Hawks",103,"Washington Wizards",97,1,30,1
+2018-04-06,"Chicago Bulls",104,"Boston Celtics",111,5,2,2
+2018-04-06,"Miami Heat",98,"New York Knicks",122,16,20,20
+2018-04-06,"Indiana Pacers",73,"Toronto Raptors",92,12,28,28
+2018-04-06,"Sacramento Kings",94,"Memphis Grizzlies",93,26,15,26
+2018-04-06,"New Orleans Pelicans",122,"Phoenix Suns",103,19,24,19
+2018-04-06,"Minnesota Timberwolves",113,"Los Angeles Lakers",96,18,14,18
+2018-04-07,"Denver Nuggets",134,"Los Angeles Clippers",115,8,13,8
+2018-04-07,"Milwaukee Bucks",115,"New York Knicks",102,17,20,17
+2018-04-07,"Brooklyn Nets",124,"Chicago Bulls",96,3,5,3
+2018-04-07,"New Orleans Pelicans",126,"Golden State Warriors",120,19,10,19
+2018-04-07,"Oklahoma City Thunder",108,"Houston Rockets",102,21,11,21
+2018-04-07,"Portland Trail Blazers",105,"San Antonio Spurs",116,25,27,27
+2018-04-08,"Atlanta Hawks",112,"Boston Celtics",106,1,2,1
+2018-04-08,"Indiana Pacers",123,"Charlotte Hornets",117,12,4,12
+2018-04-08,"Dallas Mavericks",97,"Philadelphia 76ers",109,7,23,23
+2018-04-08,"Detroit Pistons",117,"Memphis Grizzlies",130,9,15,15
+2018-04-08,"Utah Jazz",112,"Los Angeles Lakers",97,29,14,29
+2018-04-08,"Orlando Magic",101,"Toronto Raptors",112,22,28,28
+2018-04-08,"Golden State Warriors",117,"Phoenix Suns",100,10,24,10
+2018-04-09,"Toronto Raptors",108,"Detroit Pistons",98,28,9,28
+2018-04-09,"Chicago Bulls",105,"Brooklyn Nets",114,5,3,3
+2018-04-09,"Oklahoma City Thunder",115,"Miami Heat",93,21,16,21
+2018-04-09,"Cleveland Cavaliers",123,"New York Knicks",109,6,20,6
+2018-04-09,"Orlando Magic",86,"Milwaukee Bucks",102,22,17,17
+2018-04-09,"Memphis Grizzlies",94,"Minnesota Timberwolves",113,15,18,18
+2018-04-09,"Sacramento Kings",85,"San Antonio Spurs",98,26,27,27
+2018-04-09,"Portland Trail Blazers",82,"Denver Nuggets",88,25,8,8
+2018-04-09,"New Orleans Pelicans",113,"Los Angeles Clippers",100,19,13,19
+2018-04-10,"Charlotte Hornets",119,"Indiana Pacers",93,4,12,4
+2018-04-10,"Philadelphia 76ers",121,"Atlanta Hawks",113,23,1,23
+2018-04-10,"Boston Celtics",101,"Washington Wizards",113,2,30,30
+2018-04-10,"Phoenix Suns",124,"Dallas Mavericks",97,24,7,24
+2018-04-10,"Golden State Warriors",79,"Utah Jazz",119,10,29,29
+2018-04-10,"Houston Rockets",105,"Los Angeles Lakers",99,11,14,11
+2018-04-11,"Brooklyn Nets",97,"Boston Celtics",110,3,2,2
+2018-04-11,"Detroit Pistons",119,"Chicago Bulls",87,9,5,9
+2018-04-11,"New York Knicks",110,"Cleveland Cavaliers",98,20,6,20
+2018-04-11,"Toronto Raptors",109,"Miami Heat",116,28,16,16
+2018-04-11,"Denver Nuggets",106,"Minnesota Timberwolves",112,8,18,18
+2018-04-11,"San Antonio Spurs",98,"New Orleans Pelicans",122,27,19,19
+2018-04-11,"Memphis Grizzlies",123,"Oklahoma City Thunder",137,15,21,21
+2018-04-11,"Washington Wizards",92,"Orlando Magic",101,30,22,22
+2018-04-11,"Milwaukee Bucks",95,"Philadelphia 76ers",130,17,23,23
+2018-04-11,"Los Angeles Lakers",115,"Los Angeles Clippers",100,14,13,14
+2018-04-11,"Utah Jazz",93,"Portland Trail Blazers",102,29,25,25
+2018-04-11,"Houston Rockets",83,"Sacramento Kings",96,11,26,26

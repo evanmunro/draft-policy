@@ -26,17 +26,23 @@ files = lapply(filenames, read.csv,header=F)
 #38 is 1987
 #39 is 1988
 #40 us 1989
+
 files <- lapply(files,process_schedule)
 
-tm = 40
-season <- files[[tm]]
-season$hID <- as.integer(as.factor(files[[tm]]$HTeam))-1
-season$aID <- as.integer(as.factor(files[[tm]]$ATeam))-1
-season$win <- season$hID
-season$win[season$AScore>season$HScore]=season$aID[season$AScore>season$HScore]
+tms = c(66,67,68,69,70)
+yrs = c(2015,2016,2017,2018,2019)
+for (i in 1:length(tms)) {
+  tm = tms[i] 
+  yr = yrs[i] 
+  season <- files[[tm]]
+  season$hID <- as.integer(as.factor(files[[tm]]$HTeam))-1
+  season$aID <- as.integer(as.factor(files[[tm]]$ATeam))-1
+  season$win <- season$hID
+  season$win[season$AScore>season$HScore]=season$aID[season$AScore>season$HScore]
 
-teams <- data.frame(team=unique(season$HTeam),id=unique(season$hID))
-teams <- teams[order(teams$id),]
+  teams <- data.frame(team=unique(season$HTeam),id=unique(season$hID))
+  teams <- teams[order(teams$id),]
 
-write.csv(teams,file="../cleaned/teams_1989.csv",row.names=F)
-write.csv(season,file="../cleaned/season_1989.csv",row.names=F)
+  write.csv(teams,file=paste("../cleaned/teams_",yr,".csv",sep=""),row.names=F)
+  write.csv(season,file=paste("../cleaned/season_",yr,".csv",sep=""),row.names=F)
+} 
