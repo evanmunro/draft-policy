@@ -1,5 +1,5 @@
 #using Revise
-using Plots, CSV, DataFrames
+using Plots, CSV, DataFrames, Serialization
 include("draftpolicy.jl")
 path = "/scratch/users/munro/draft-policy/"
 
