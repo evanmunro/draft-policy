@@ -13,6 +13,8 @@ function simulate_season(year,mult=10)
     s = Season(teams,matches)
     record,_=calculate_draft_rule(s,wins,mult,16)
     stoptime=record.stop
+    println(year)
+    println(stoptime)
     end_wins = record.cwins[:,size(record.cwins,2)]
     end_draft = record.draft_prob[:,size(record.draft_prob,2)]
     print("got here")
