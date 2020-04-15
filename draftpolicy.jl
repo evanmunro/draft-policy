@@ -71,7 +71,7 @@ function expected_objective_sim(s,abilities,calc_ability=false,mult=10,sims=1000
     end
     return exp_obj/sims, exp_stop/sims
 end
-function expected_objective(s,abilities,calc_ability=false,mult=10)
+function expected_objective(s,mult=10)
 
     M = size(s.matches,1)
     match_list = fill(Int[], M)
@@ -84,8 +84,8 @@ function expected_objective(s,abilities,calc_ability=false,mult=10)
     p_total = 0
     for out=1:length(all_outcomes)
         winners = [all_outcomes[out]...]
-        p_outcome = prob_winners(s, winners, abilities)
-        record = calculate_draft_rule(s, winners, calc_ability, abilities,mult)
+        p_outcome = prob_winners(s, winners, s.abilities)
+        record = calculate_draft_rule(s, winners, mult)
         exp_obj += p_outcome* objective(record)
         exp_stop += p_outcome*record.stop
         p_total += p_outcome
@@ -137,7 +137,7 @@ function win_prob_ex(existing_wins,teams,matches,win_prob,top_k=1)
 end
 
 #approximate calculation of win probability based on simulation
-function win_prob_sim(existing_wins,teams,matches,p,top_k,sims=50000)
+function win_prob_sim(existing_wins,teams,matches,p,top_k,sims=1000)
     win_record = zeros(length(teams))
     bottom_record = zeros(length(teams))
     M = size(matches,1)
@@ -183,14 +183,17 @@ end
 struct Season
     teams::Array{Int}
     matches::Array{Int,2}
+    abilities::Array{Float64}
+    pwin::Array{Float64,2}
 end
 
-function Season(N::Int,G::Int)
+function Season(N::Int, G::Int, abilities::Array{Float64})
     teams = Array(1:N)
-    team_combos = collect(Iterators.flatten(combinations(teams,2)))
-    team_combos = transpose(reshape(team_combos,(2,Integer(length(team_combos)/2))))
-    matches = repeat(team_combos,G)
-    return Season(teams, matches)
+    team_combos = collect(Iterators.flatten(combinations(teams, 2)))
+    team_combos = transpose(reshape(team_combos, (2, Integer(length(team_combos)/2))))
+    matches = repeat(team_combos, G)
+    pwin = game_prob(abilities)
+    return Season(teams, matches, abilities, pwin)
 end
 
 struct Record
@@ -212,9 +215,9 @@ end
 
 function objective(r::Record)
     d = draft(r)
-    adjust = d[r.cwins[:,size(r.cwins,2)].==maximum(r.cwins[:,size(r.cwins,2)])][1]
+    #adjust = d[r.cwins[:,size(r.cwins,2)].==maximum(r.cwins[:,size(r.cwins,2)])][1]
     obj = d[r.cwins[:,size(r.cwins,2)].==minimum(r.cwins[:,size(r.cwins,2)])][1]
-    return obj + adjust/2
+    return obj #+ adjust/2
 end
 
 function draft(r::Record)
@@ -243,9 +246,80 @@ end
 # Functions for calculating evolution of rule
 ##############################################################################
 
+function calculate_draft_rule(s::Season, winners=nothing,
+                              multiple=10, top_k = 1, seed=0)
+    #Random.seed!(seed)
+    #default is to not calculate ability updates
+    adjust = true
+    matches = s.matches
+    teams = s.teams
+    abilities = s.abilities
+    M = size(matches,1)
+    N = length(teams)
+
+    if winners == nothing
+        winners = zeros(Int64,M)
+        losers = zeros(Int64,M)
+    else
+        losers = get_losers(winners,matches)
+    end
+
+    draft_prob = zeros(N,M+1) .+ 1/N
+    cwins = zeros(Int64,N,M)
+
+    stop_time = M
+    for m in 1:M
+        if m>1
+            lag= m-1
+        else
+            lag = 1
+        end
+        match = matches[m,:]
+        t1, t2 = match
+
+        #if simulating season, then sample result
+        if winners[m] == 0
+            win_prob = game_prob(abilities)
+            weights = ProbabilityWeights([win_prob[match...], 1-win_prob[match...]])
+            w = sample(match,weights)
+            winners[m] = w
+        end
+
+        if adjust
+            probw1,probl1 = win_prob_sim(add_win(cwins[:,lag],t1),
+                                        teams, matches[(m+1):M,:],
+                                        s.pwin,top_k)
+            probw2,probl2 = win_prob_sim(add_win(cwins[:,lag],t2),
+                                        teams, matches[(m+1):M,:],
+                                        s.pwin,top_k)
+
+            diff1 = max(multiple*(probw1[t1]-probw2[t1]),0)
+            diff2 = max(multiple*(probw2[t2]-probw1[t2]),0)
+
+            if  (diff1 <  (probl2[t1]-probl1[t1])) || (diff2 < (probl1[t2]-probl2[t2]))
+                adjust = false
+                stop_time = m
+            else
+                if winners[m]==t1
+                    draft_prob[:,(m+1):(M+1)] .= probl1
+                else
+                    draft_prob[:,(m+1):(M+1)] .= probl2
+                end
+            end
+        end
+
+        cwins[:,m] = cwins[:,lag]
+        cwins[winners[m],m] += 1
+        losers[m] = match[match.!=winners[m]][1]
+    end
+    return Record(draft_prob, stop_time, cwins, abilities)
+end
+
+
+##OLDWITHH ABILITIES
 #estimate evolution of draft rule based on real data
-function calculate_draft_rule(s::Season, winners=nothing, multiple=10,
-                                top_k = 1, calc_ability=false, abilities=nothing,
+function calculate_draft_rule(s::Season, winners, multiple,
+                                top_k, calc_ability, abilities,
                                 lambda=10, seed=0)
     #Random.seed!(seed)
     #default is to not calculate ability updates
@@ -257,7 +331,6 @@ function calculate_draft_rule(s::Season, winners=nothing, multiple=10,
     M = size(matches,1)
     N = length(teams)
     ahat = zeros(N,M) .+ 1/N
-    incentives = zeros(M)
 
     if abilities==nothing && winners == nothing
         error("To simulate a season, must provide abilities to simulate from")
@@ -346,5 +419,5 @@ function calculate_draft_rule(s::Season, winners=nothing, multiple=10,
         cwins[winners[m],m] += 1
         losers[m] = match[match.!=winners[m]][1]
     end
-    return Record(draft_prob, stop_time, cwins, ahat), incentives
+    return Record(draft_prob, stop_time, cwins, ahat)
 end
