@@ -1,4 +1,4 @@
-### Replication Code for Paper on an Incentive-Compatible Draft Allocation Mechanism
+### Replication Code for Paper on Targeting in Tournaments with Dynamic Incentives
 
 This repository contains Julia and R code for replicating the figures and tables in 
 
