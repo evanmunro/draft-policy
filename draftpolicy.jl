@@ -421,3 +421,116 @@ function calculate_draft_rule(s::Season, winners, multiple,
     end
     return Record(draft_prob, stop_time, cwins, ahat)
 end
+
+
+#############################################################################
+# Functions for calculating globally optimal rule
+##############################################################################
+
+function calc_objective(s, mult)
+    println(mult)
+    topk = 1
+    N = length(s.teams)
+    y = zeros(N) .+ 1/N
+    M = size(s.matches, 1)
+    ntd_val = zeros(2^M)
+    ntd_wts = zeros(M)
+    losers = ones(Int,2^M)
+    adjust = true
+    model = Model(with_optimizer(Ipopt.Optimizer))
+
+    #draft rule for all partial histories
+    @variable(model, 0<=x[i=0:M, j=1:2^i, k=1:N]<=1)
+
+    #x = model[:x]
+    #FAIR constraint
+    for k in 1:N
+        @constraint(model,x[0,1,k]==1/N)
+    end
+
+    #PROB constraint
+    for i in 1:M
+        for j in 1:2^i
+            @constraint(model, sum(x[i,j,k] for k in 1:N)==1)
+        end
+    end
+
+    #DC Constraint under equal ability
+    for i in 0:(M-1)
+        for j in 1:2^i
+            for k in 1:N
+                @constraint(model, x[i,j,k] == 1/2*x[i+1,2*j,k]+ 1/2*x[i+1,2*j-1,k])
+            end
+        end
+    end
+
+    history = zeros(N)
+    step_forward(model, history, y, adjust, ntd_val, ntd_wts, losers,
+                  s, 1, 1, mult, topk)
+
+    @NLobjective(model, Min, 1/2*sum(abs(1-x[M, j, losers[j]]) - abs(0-x[M, j, losers[j]]) +
+                             sum(abs(0-x[M, j, k]) for k in 1:N)  for j in 1:2^M)/2^M)
+
+    optimize!(model)
+    println("here")
+    opt_wts = zeros(M)
+    for m in 1:M
+        wt = 0
+        for j in 1:2^(m-1)
+            for n in 1:N
+                wt += abs(value(x[m,2*j-1,n]) - value(x[m-1,j,n]))
+                wt += abs(value(x[m,2*j,n]) -  value(x[m-1,j,n]))
+            end
+        end
+        opt_wts[m] = wt/(N*2^m)
+    end
+    return objective_value(model),
+            mean(ntd_val), opt_wts, ntd_wts
+
+end
+
+#adds NTD constraint and calculates draft rule as step forward through
+#tree of all possible season outcomes
+#only for equal abilities, for now
+function step_forward(model, history, y, adjust, ntd_val, ntd_wts, losers, s, m, j, pi, topk)
+    M = size(s.matches,1)
+    t1,t2 = s.matches[m,:]
+    probw1, probl1 = win_prob_sim(add_win(history,t1), s.teams,
+                    s.matches[(m+1):M,:], s.pwin, topk)
+    probw2, probl2 = win_prob_sim(add_win(history,t2), s.teams,
+                    s.matches[(m+1):M,:], s.pwin, topk)
+
+    diff1 = pi*(probw1[t1]-probw2[t1])
+    diff2 = pi*(probw2[t2]-probw1[t2])
+
+    x = model[:x]
+    @constraint(model, x[m, 2*j, t1] - x[m, 2*j-1, t1] <= diff1)
+    @constraint(model, x[m, 2*j-1, t2] - x[m, 2*j, t2] <= diff2)
+
+    if !adjust || diff1 < (probl2[t1]-probl1[t1]) || diff2 < (probl1[t2]-probl2[t2])
+        adjust = false
+        y1 = copy(y)
+        y2 = copy(y)
+    else
+        y1 = probl1
+        y2 = probl2
+    end
+
+    ntd_wts[m] += (mean(abs.(y1.-y)) + mean(abs.(y2.-y)))/2^m
+
+    if m < M
+        step_forward(model, add_win(history, t1), y1, adjust,
+                     ntd_val, ntd_wts, losers, s, m+1, 2*j-1, pi, topk)
+        step_forward(model, add_win(history, t2), y2, adjust,
+                     ntd_val, ntd_wts, losers, s, m+1, 2*j, pi, topk)
+    else
+        #which loser for the given history
+        N = length(s.teams)
+        l1 = argmin(add_win(history,t1))
+        l2 = argmin(add_win(history,t2))
+        losers[2*j-1] = l1
+        losers[2*j] = l2
+        ntd_val[2*j-1] = 0.5*(abs(1-y1[l1]) - abs(0-y1[l1]) + sum( abs(0-y1[k]) for k in 1:N))
+        ntd_val[2*j] = 0.5*(abs(1-y2[l2])  - abs(0-y2[l2]) + sum(abs(0-y2[k]) for k in 1:N))
+    end
+end
