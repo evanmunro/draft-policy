@@ -29,7 +29,7 @@ end
 
 #MLE estimation of abilities based on records
 function estimate_alpha(matches,wins,loses,N,lambda=10)
-    model=Model(with_optimizer(Ipopt.Optimizer))
+    model=Model(Ipopt.Optimizer)
     @variable(model,a[1:N],start=1/N)
     ncdf(x) = (1+erf(x/sqrt(2)))/2
     register(model,:ncdf,1,ncdf,autodiff=true)

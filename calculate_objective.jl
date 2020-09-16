@@ -1,10 +1,10 @@
 using Plots, Suppressor
 include("draftpolicy.jl")
-
+ENV["GKSwstype"]=100
 #N=3 and G=5 is feasible ~10 minutes
 
 N = 3
-G = 4
+G = 5
 abilities = zeros(N).+1/N
 s = Season(N,G,abilities)
 pi_t = 10
