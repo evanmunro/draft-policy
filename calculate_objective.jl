@@ -4,7 +4,7 @@ ENV["GKSwstype"]=100
 #N=3 and G=5 is feasible ~10 minutes
 
 N = 3
-G = 5
+G = 4
 abilities = zeros(N).+1/N
 s = Season(N,G,abilities)
 pi_t = 10
@@ -22,6 +22,8 @@ for mult in pi_b:pi_t
         obj_opt[i], obj_ntd[i], opt_wts, ntd_wts = calc_objective(s, mult)
     end
     if mult ==10
+        println(obj_opt)
+        println(obj_ntd)
         plot([ opt_wts ntd_wts],xlabel="Match",ylabel="Weight",ylims=[0,0.2],labels=["Optimal Weight" "T-IC Weight"])
         savefig("figures/weights10.pdf")
     end
