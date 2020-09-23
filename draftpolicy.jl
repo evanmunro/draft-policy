@@ -437,7 +437,7 @@ function calc_objective(s, mult)
     ntd_wts = zeros(M)
     losers = ones(Int,2^M)
     adjust = true
-    model = Model(with_optimizer(Ipopt.Optimizer))
+    model = Model(Ipopt.Optimizer)
 
     #draft rule for all partial histories
     @variable(model, 0<=x[i=0:M, j=1:2^i, k=1:N]<=1)
