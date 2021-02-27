@@ -3,7 +3,7 @@ using Plots, CSV, DataFrames, Serialization
 include("draftpolicy.jl")
 path = "/scratch/users/munro/draft-policy/"
 
-function simulate_season(year,mult=10)
+function simulate_season(year, mult=10)
     team_id = CSV.read(string(path,"data/cleaned/teams_",
                             string(year),".csv"))
     season = CSV.read(string(path,"data/cleaned/season_",year,".csv"))

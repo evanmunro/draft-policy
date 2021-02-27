@@ -5,7 +5,7 @@
 # Date: January, 2020
 ###############################################################################
 
-using Random, Combinatorics, Distributions, StatsBase, JuMP, Ipopt, SpecialFunctions, Suppressor
+using Random, Combinatorics, Distributions, StatsBase, JuMP, Ipopt, MosekTools, SpecialFunctions, Suppressor
 
 
 ############################################################################
@@ -437,7 +437,7 @@ function calc_objective(s, mult)
     ntd_wts = zeros(M)
     losers = ones(Int,2^M)
     adjust = true
-    model = Model(Ipopt.Optimizer)
+    model = Model(Mosek.Optimizer)
 
     #draft rule for all partial histories
     @variable(model, 0<=x[i=0:M, j=1:2^i, k=1:N]<=1)
@@ -468,8 +468,10 @@ function calc_objective(s, mult)
     step_forward(model, history, y, adjust, ntd_val, ntd_wts, losers,
                   s, 1, 1, mult, topk)
 
-    @NLobjective(model, Min, 1/2*sum(abs(1-x[M, j, losers[j]]) - abs(0-x[M, j, losers[j]]) +
-                             sum(abs(0-x[M, j, k]) for k in 1:N)  for j in 1:2^M)/2^M)
+    @objective(model, Min, sum((1-x[M, j, losers[j]])^2 - (0-x[M, j, losers[j]])^2 +
+                             sum((0-x[M, j, k])^2 for k in 1:N)  for j in 1:2^M)/2^M)
+    #@NLobjective(model, Min, 1/2*sum(abs(1-x[M, j, losers[j]]) - abs(0-x[M, j, losers[j]]) +
+    #                         sum(abs(0-x[M, j, k]) for k in 1:N)  for j in 1:2^M)/2^M)
 
     optimize!(model)
     println("here")
@@ -484,6 +486,7 @@ function calc_objective(s, mult)
         end
         opt_wts[m] = wt/(N*2^m)
     end
+    println("OBJECTIVE VALUE: ", objective_value(model))
     return objective_value(model),
             mean(ntd_val), opt_wts, ntd_wts
 
@@ -530,7 +533,7 @@ function step_forward(model, history, y, adjust, ntd_val, ntd_wts, losers, s, m,
         l2 = argmin(add_win(history,t2))
         losers[2*j-1] = l1
         losers[2*j] = l2
-        ntd_val[2*j-1] = 0.5*(abs(1-y1[l1]) - abs(0-y1[l1]) + sum( abs(0-y1[k]) for k in 1:N))
-        ntd_val[2*j] = 0.5*(abs(1-y2[l2])  - abs(0-y2[l2]) + sum(abs(0-y2[k]) for k in 1:N))
+        ntd_val[2*j-1] = ((1-y1[l1])^2 - (0-y1[l1])^2 + sum( (0-y1[k])^2 for k in 1:N))
+        ntd_val[2*j] = ((1-y2[l2])^2  - (0-y2[l2])^2 + sum((0-y2[k])^2 for k in 1:N))
     end
 end
