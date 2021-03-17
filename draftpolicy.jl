@@ -137,7 +137,7 @@ function win_prob_ex(existing_wins,teams,matches,win_prob,top_k=1)
 end
 
 #approximate calculation of win probability based on simulation
-function win_prob_sim(existing_wins,teams,matches,p,top_k,sims=1000)
+function win_prob_sim(existing_wins, teams, matches, p, top_k, sims=1000)
     win_record = zeros(length(teams))
     bottom_record = zeros(length(teams))
     M = size(matches,1)
