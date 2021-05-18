@@ -47,6 +47,17 @@ function addChildren(parent)
     parent.plose = plose
 end
 
+function getWeights!(node, wts, g)
+    N = length(node.score)
+    O = 2^N
+    if node.remain== 0
+        return 0
+    end
+    for child in node.children
+        wts[g+1] += sum(abs.(node.y .- child.y))/(N*O^(g+1))
+        getWeights!(child, wts, g+1)
+    end
+end
 function get_objective(node)
     N = length(node.score)
     obj = 0
@@ -128,7 +139,7 @@ function add_IC(node::GameNode, model, g, j, pi)
     end
 end
 
-function optimalRule(tree::GameNode, pi)
+function optimalRule(tree::GameNode, pi, incentives = true, weights=false)
     N = length(tree.score)
     G = tree.remain
     losers = findLosers(tree)
@@ -159,14 +170,33 @@ function optimalRule(tree::GameNode, pi)
         end
     end
 
-    add_IC(tree, model, 0, 1, pi)
+    if incentives
+        add_IC(tree, model, 0, 1, pi)
+    end
 
     @objective(model, Min, sum( sum((1/length(losers[j])-x[G, j, l])^2 - (0-x[G, j, l])^2 for l in losers[j]) +
                                 sum( (0-x[G, j, k])^2 for k in 1:N)
                                 for j in 1:O^G)/O^G)
     optimize!(model)
 
-    return objective_value(model)
+    opt_wts = zeros(G)
+    for g in 0:(G-1)
+        wt = 0
+        for j in 1:O^g
+            for k in (O*(j-1)+1):O*j
+                for n in 1:N
+                    wt += abs(value(x[g , j, n]) - value(x[g+1, k, n]))/(N*O^(g+1))
+                end
+            end
+        end
+        opt_wts[g+1] = wt
+    end
+
+    if weights
+        return objective_value(model), opt_wts
+    else
+        return objective_value(model)
+    end
 end
 
 function findLosers(node)
