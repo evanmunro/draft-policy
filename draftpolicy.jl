@@ -199,6 +199,7 @@ end
 struct Record
     draft_prob::Array{Float64}
     stop::Int
+    #stop_prob::Float64
     cwins::Array
     abilities::Array{Float64}
 end

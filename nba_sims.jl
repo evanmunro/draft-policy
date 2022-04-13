@@ -1,17 +1,19 @@
 #using Revise
 using Plots, CSV, DataFrames, Serialization
 include("draftpolicy.jl")
-path = "/scratch/users/munro/draft-policy/"
+#path = "/scratch/users/munro/draft-policy/"
+path  = ""
 
 function simulate_season(year, mult=10)
-    team_id = CSV.read(string(path,"data/cleaned/teams_",
-                            string(year),".csv"))
-    season = CSV.read(string(path,"data/cleaned/season_",year,".csv"))
+    team_id = DataFrame(CSV.File(string(path,"data/cleaned/teams_",
+                            string(year),".csv")))
+    #ID 11 is Clippers
+    season = DataFrame(CSV.File(string(path,"data/cleaned/season_",year,".csv")))
     matches = convert(Matrix, season[[:hID,:aID]])
     wins = convert(Array, season[:win])
     teams = convert(Array,team_id[:id])
     s = Season(teams,matches)
-    record,_=calculate_draft_rule(s,wins,mult,16)
+    record,_=calculate_draft_rule(s, wins, mult, 16)
     stoptime=record.stop
     println(year)
     println(stoptime)
@@ -29,6 +31,7 @@ function simulate_season(year, mult=10)
     df
 end
 
-for year in [1985,1986,1987,1988,1989]
+#for year in [1985,1986,1987,1988,1989]
+for year in [1987]
     simulate_season(year)
 end
