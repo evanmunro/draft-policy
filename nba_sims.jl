@@ -12,11 +12,17 @@ function simulate_season(year, mult=10)
     matches = convert(Matrix, season[[:hID,:aID]])
     wins = convert(Array, season[:win])
     teams = convert(Array,team_id[:id])
-    s = Season(teams,matches)
-    record,_=calculate_draft_rule(s, wins, mult, 16)
+    abilities = ones(length(teams)) .+ 1
+    abilities[11] = 1.8
+    abilities[14] = 1.8
+    abilities[15] = 1.8
+
+    s = Season(teams, matches, game_prob(abilities))
+    record =calculate_draft_rule(s, wins, mult, 16)
     stoptime=record.stop
     println(year)
     println(stoptime)
+    println(record.stop_prob)
     end_wins = record.cwins[:,size(record.cwins,2)]
     end_draft = record.draft_prob[:,size(record.draft_prob,2)]
     print("got here")
